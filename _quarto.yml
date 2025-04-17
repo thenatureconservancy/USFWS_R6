@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+  preview: 
+    watch-inputs: false
+
+website:
+  title: "LANDFIRE-Powered Landscape Assessment"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: great_plains.qmd
+        text: Great Plains
+      - href: mid_plains.qmd
+        text: Mid Plains
+      - href: montana.qmd
+        text: Montana
+      - href: north_dakota.qmd
+        text: North Dakota
+      - href: rocky_basin.qmd
+        text: Rocky Basin
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: source
+

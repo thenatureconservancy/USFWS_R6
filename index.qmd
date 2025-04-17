@@ -1,0 +1,31 @@
+---
+title: "USFWS Region 6 LANDFIRE Data Summaries"
+author: "Randy Swaty with substantial code contributions from Myles Walimaa"
+---
+
+<font size="4"> 
+**These LANDFIRE-Powered Landscape Assessments allow users to start exploring trends, landscape conversion and natural resource management options. **
+
+</font> 
+
+
+## Goals of this demonstration
+
+We will use [LANDFIRE](https://landfire.gov/){target="blank"} products to:
+
+1. Characterize and map past and present ecosystem conditions.
+2. Explore historical disturbance patterns.
+3. Summarize patterns of change and management opportunities.
+
+
+The following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.
+
+
+This demonstration will:
+
+* Provide context for the past and present ecosystem conditions of the Ottawa National Forest.
+* Demonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.
+* Facilitate an understanding of historical and current conditions on a regional scale.
+
+
+

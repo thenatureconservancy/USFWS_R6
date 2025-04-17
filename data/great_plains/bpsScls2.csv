@@ -1,0 +1,312 @@
+"","model_label","model_code","ref_label","ref_percent","bps_name","Var1","Var2","Freq","BPS_CODE","ZONE","total_count","currentPercent"
+"1","10130_31_38_39_40_A","10130_31_38_39_40","A",18,"Western Great Plains Dry Bur Oak Forest and Woodland",1659,1,1,10130,39,1566,0
+"2","10130_31_38_39_40_A","10130_31_38_39_40","A",18,"Western Great Plains Dry Bur Oak Forest and Woodland",1675,1,12,10130,31,1693,0
+"3","10130_31_38_39_40_B","10130_31_38_39_40","B",17,"Western Great Plains Dry Bur Oak Forest and Woodland",1659,2,66,10130,39,1566,4
+"4","10130_31_38_39_40_B","10130_31_38_39_40","B",17,"Western Great Plains Dry Bur Oak Forest and Woodland",1675,2,43,10130,31,1693,2
+"5","10130_31_38_39_40_C","10130_31_38_39_40","C",35,"Western Great Plains Dry Bur Oak Forest and Woodland",1659,3,104,10130,39,1566,6
+"6","10130_31_38_39_40_C","10130_31_38_39_40","C",35,"Western Great Plains Dry Bur Oak Forest and Woodland",1675,3,176,10130,31,1693,10
+"7","10130_31_38_39_40_D","10130_31_38_39_40","D",30,"Western Great Plains Dry Bur Oak Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"8","10130_31_38_39_40_E","10130_31_38_39_40","E",NA,"Western Great Plains Dry Bur Oak Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"9","10130_31_38_39_40_Agriculture","10130_31_38_39_40","Agriculture",0,"Western Great Plains Dry Bur Oak Forest and Woodland",1659,180,461,10130,39,1566,29
+"10","10130_31_38_39_40_Developed","10130_31_38_39_40","Developed",0,"Western Great Plains Dry Bur Oak Forest and Woodland",1659,120,17,10130,39,1566,1
+"11","10130_31_38_39_40_Developed","10130_31_38_39_40","Developed",0,"Western Great Plains Dry Bur Oak Forest and Woodland",1675,120,11,10130,31,1693,0
+"12","10130_31_38_39_40_Water","10130_31_38_39_40","Water",0,"Western Great Plains Dry Bur Oak Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"13","10130_31_38_39_40_UN","10130_31_38_39_40","UN",0,"Western Great Plains Dry Bur Oak Forest and Woodland",1659,6,295,10130,39,1566,18
+"14","10130_31_38_39_40_UN","10130_31_38_39_40","UN",0,"Western Great Plains Dry Bur Oak Forest and Woodland",1675,6,1306,10130,31,1693,77
+"15","10130_31_38_39_40_UE","10130_31_38_39_40","UE",0,"Western Great Plains Dry Bur Oak Forest and Woodland",1659,7,622,10130,39,1566,39
+"16","10130_31_38_39_40_UE","10130_31_38_39_40","UE",0,"Western Great Plains Dry Bur Oak Forest and Woodland",1675,7,145,10130,31,1693,8
+"17","10480_29_A","10480_29","A",9,"Northwestern Great Plains Highland White Spruce Woodland",NA,NA,NA,NA,NA,NA,NA
+"18","10480_29_B","10480_29","B",8,"Northwestern Great Plains Highland White Spruce Woodland",NA,NA,NA,NA,NA,NA,NA
+"19","10480_29_C","10480_29","C",22,"Northwestern Great Plains Highland White Spruce Woodland",NA,NA,NA,NA,NA,NA,NA
+"20","10480_29_D","10480_29","D",30,"Northwestern Great Plains Highland White Spruce Woodland",NA,NA,NA,NA,NA,NA,NA
+"21","10480_29_E","10480_29","E",31,"Northwestern Great Plains Highland White Spruce Woodland",1250,5,1,10480,29,1,100
+"22","10480_29_Agriculture","10480_29","Agriculture",0,"Northwestern Great Plains Highland White Spruce Woodland",NA,NA,NA,NA,NA,NA,NA
+"23","10480_29_Developed","10480_29","Developed",0,"Northwestern Great Plains Highland White Spruce Woodland",NA,NA,NA,NA,NA,NA,NA
+"24","10480_29_Water","10480_29","Water",0,"Northwestern Great Plains Highland White Spruce Woodland",NA,NA,NA,NA,NA,NA,NA
+"25","10480_29_UN","10480_29","UN",0,"Northwestern Great Plains Highland White Spruce Woodland",NA,NA,NA,NA,NA,NA,NA
+"26","10480_29_UE","10480_29","UE",0,"Northwestern Great Plains Highland White Spruce Woodland",NA,NA,NA,NA,NA,NA,NA
+"27","10940_27_33_A","10940_27_33","A",5,"Western Great Plains Sandhill Steppe",NA,NA,NA,NA,NA,NA,NA
+"28","10940_27_33_B","10940_27_33","B",39,"Western Great Plains Sandhill Steppe",1410,2,2447,10940,33,3624,67
+"29","10940_27_33_C","10940_27_33","C",56,"Western Great Plains Sandhill Steppe",1410,3,1,10940,33,3624,0
+"30","10940_27_33_D","10940_27_33","D",NA,"Western Great Plains Sandhill Steppe",NA,NA,NA,NA,NA,NA,NA
+"31","10940_27_33_E","10940_27_33","E",NA,"Western Great Plains Sandhill Steppe",NA,NA,NA,NA,NA,NA,NA
+"32","10940_27_33_Agriculture","10940_27_33","Agriculture",0,"Western Great Plains Sandhill Steppe",1410,180,258,10940,33,3624,7
+"33","10940_27_33_Developed","10940_27_33","Developed",0,"Western Great Plains Sandhill Steppe",1410,120,656,10940,33,3624,18
+"34","10940_27_33_Water","10940_27_33","Water",0,"Western Great Plains Sandhill Steppe",NA,NA,NA,NA,NA,NA,NA
+"35","10940_27_33_UN","10940_27_33","UN",0,"Western Great Plains Sandhill Steppe",1410,6,236,10940,33,3624,6
+"36","10940_27_33_UE","10940_27_33","UE",0,"Western Great Plains Sandhill Steppe",1410,7,26,10940,33,3624,0
+"37","10940_31_38_A","10940_31_38","A",5,"Western Great Plains Sandhill Steppe",NA,NA,NA,NA,NA,NA,NA
+"38","10940_31_38_B","10940_31_38","B",38,"Western Great Plains Sandhill Steppe",1679,2,27407,10940,31,28507,96
+"39","10940_31_38_C","10940_31_38","C",57,"Western Great Plains Sandhill Steppe",1679,3,55,10940,31,28507,0
+"40","10940_31_38_D","10940_31_38","D",NA,"Western Great Plains Sandhill Steppe",NA,NA,NA,NA,NA,NA,NA
+"41","10940_31_38_E","10940_31_38","E",NA,"Western Great Plains Sandhill Steppe",NA,NA,NA,NA,NA,NA,NA
+"42","10940_31_38_Agriculture","10940_31_38","Agriculture",0,"Western Great Plains Sandhill Steppe",1679,180,16,10940,31,28507,0
+"43","10940_31_38_Developed","10940_31_38","Developed",0,"Western Great Plains Sandhill Steppe",1679,120,357,10940,31,28507,1
+"44","10940_31_38_Water","10940_31_38","Water",0,"Western Great Plains Sandhill Steppe",NA,NA,NA,NA,NA,NA,NA
+"45","10940_31_38_UN","10940_31_38","UN",0,"Western Great Plains Sandhill Steppe",1679,6,336,10940,31,28507,1
+"46","10940_31_38_UE","10940_31_38","UE",0,"Western Great Plains Sandhill Steppe",1679,7,336,10940,31,28507,1
+"47","11320_31_38_A","11320_31_38","A",30,"Central Mixedgrass Prairie",1681,1,76,11320,31,3011,2
+"48","11320_31_38_B","11320_31_38","B",67,"Central Mixedgrass Prairie",1681,2,1670,11320,31,3011,55
+"49","11320_31_38_C","11320_31_38","C",3,"Central Mixedgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"50","11320_31_38_D","11320_31_38","D",NA,"Central Mixedgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"51","11320_31_38_E","11320_31_38","E",NA,"Central Mixedgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"52","11320_31_38_Agriculture","11320_31_38","Agriculture",0,"Central Mixedgrass Prairie",1681,180,88,11320,31,3011,2
+"53","11320_31_38_Developed","11320_31_38","Developed",0,"Central Mixedgrass Prairie",1681,120,357,11320,31,3011,11
+"54","11320_31_38_Water","11320_31_38","Water",0,"Central Mixedgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"55","11320_31_38_UN","11320_31_38","UN",0,"Central Mixedgrass Prairie",1681,6,28,11320,31,3011,0
+"56","11320_31_38_UE","11320_31_38","UE",0,"Central Mixedgrass Prairie",1681,7,792,11320,31,3011,26
+"57","11410_29_30_A","11410_29_30","A",26,"Northwestern Great Plains Mixedgrass Prairie",1269,1,30,11410,29,212,14
+"58","11410_29_30_B","11410_29_30","B",74,"Northwestern Great Plains Mixedgrass Prairie",1269,2,116,11410,29,212,54
+"59","11410_29_30_C","11410_29_30","C",NA,"Northwestern Great Plains Mixedgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"60","11410_29_30_D","11410_29_30","D",NA,"Northwestern Great Plains Mixedgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"61","11410_29_30_E","11410_29_30","E",NA,"Northwestern Great Plains Mixedgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"62","11410_29_30_Agriculture","11410_29_30","Agriculture",0,"Northwestern Great Plains Mixedgrass Prairie",1269,180,1,11410,29,212,0
+"63","11410_29_30_Developed","11410_29_30","Developed",0,"Northwestern Great Plains Mixedgrass Prairie",1269,120,36,11410,29,212,16
+"64","11410_29_30_Water","11410_29_30","Water",0,"Northwestern Great Plains Mixedgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"65","11410_29_30_UN","11410_29_30","UN",0,"Northwestern Great Plains Mixedgrass Prairie",1269,6,4,11410,29,212,1
+"66","11410_29_30_UE","11410_29_30","UE",0,"Northwestern Great Plains Mixedgrass Prairie",1269,7,25,11410,29,212,11
+"67","11410_31_A","11410_31","A",25,"Northwestern Great Plains Mixedgrass Prairie",1682,1,74,11410,31,7749,0
+"68","11410_31_B","11410_31","B",69,"Northwestern Great Plains Mixedgrass Prairie",1682,2,4338,11410,31,7749,55
+"69","11410_31_C","11410_31","C",6,"Northwestern Great Plains Mixedgrass Prairie",1682,3,48,11410,31,7749,0
+"70","11410_31_D","11410_31","D",NA,"Northwestern Great Plains Mixedgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"71","11410_31_E","11410_31","E",NA,"Northwestern Great Plains Mixedgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"72","11410_31_Agriculture","11410_31","Agriculture",0,"Northwestern Great Plains Mixedgrass Prairie",1682,180,327,11410,31,7749,4
+"73","11410_31_Developed","11410_31","Developed",0,"Northwestern Great Plains Mixedgrass Prairie",1682,120,608,11410,31,7749,7
+"74","11410_31_Water","11410_31","Water",0,"Northwestern Great Plains Mixedgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"75","11410_31_UN","11410_31","UN",0,"Northwestern Great Plains Mixedgrass Prairie",1682,6,399,11410,31,7749,5
+"76","11410_31_UE","11410_31","UE",0,"Northwestern Great Plains Mixedgrass Prairie",1682,7,1955,11410,31,7749,25
+"77","11410_39_A","11410_39","A",25,"Northwestern Great Plains Mixedgrass Prairie",1660,1,7222,11410,39,280938,2
+"78","11410_39_B","11410_39","B",69,"Northwestern Great Plains Mixedgrass Prairie",1660,2,67531,11410,39,280938,24
+"79","11410_39_C","11410_39","C",6,"Northwestern Great Plains Mixedgrass Prairie",1660,3,149,11410,39,280938,0
+"80","11410_39_D","11410_39","D",NA,"Northwestern Great Plains Mixedgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"81","11410_39_E","11410_39","E",NA,"Northwestern Great Plains Mixedgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"82","11410_39_Agriculture","11410_39","Agriculture",0,"Northwestern Great Plains Mixedgrass Prairie",1660,180,136233,11410,39,280938,48
+"83","11410_39_Developed","11410_39","Developed",0,"Northwestern Great Plains Mixedgrass Prairie",1660,120,16061,11410,39,280938,5
+"84","11410_39_Water","11410_39","Water",0,"Northwestern Great Plains Mixedgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"85","11410_39_UN","11410_39","UN",0,"Northwestern Great Plains Mixedgrass Prairie",1660,6,186,11410,39,280938,0
+"86","11410_39_UE","11410_39","UE",0,"Northwestern Great Plains Mixedgrass Prairie",1660,7,53523,11410,39,280938,19
+"87","11480_31_38_A","11480_31_38","A",2,"Western Great Plains Sand Prairie",1683,1,65,11480,31,390358,0
+"88","11480_31_38_B","11480_31_38","B",77,"Western Great Plains Sand Prairie",1683,2,366986,11480,31,390358,94
+"89","11480_31_38_C","11480_31_38","C",21,"Western Great Plains Sand Prairie",1683,3,7441,11480,31,390358,1
+"90","11480_31_38_D","11480_31_38","D",NA,"Western Great Plains Sand Prairie",NA,NA,NA,NA,NA,NA,NA
+"91","11480_31_38_E","11480_31_38","E",NA,"Western Great Plains Sand Prairie",NA,NA,NA,NA,NA,NA,NA
+"92","11480_31_38_Agriculture","11480_31_38","Agriculture",0,"Western Great Plains Sand Prairie",1683,180,205,11480,31,390358,0
+"93","11480_31_38_Developed","11480_31_38","Developed",0,"Western Great Plains Sand Prairie",1683,120,2891,11480,31,390358,0
+"94","11480_31_38_Water","11480_31_38","Water",0,"Western Great Plains Sand Prairie",NA,NA,NA,NA,NA,NA,NA
+"95","11480_31_38_UN","11480_31_38","UN",0,"Western Great Plains Sand Prairie",1683,6,2434,11480,31,390358,0
+"96","11480_31_38_UE","11480_31_38","UE",0,"Western Great Plains Sand Prairie",1683,7,10331,11480,31,390358,2
+"97","11490_31_33_A","11490_31_33","A",16,"Western Great Plains Shortgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"98","11490_31_33_B","11490_31_33","B",62,"Western Great Plains Shortgrass Prairie",1417,2,583,11490,33,822,70
+"99","11490_31_33_B","11490_31_33","B",62,"Western Great Plains Shortgrass Prairie",1684,2,1485,11490,31,1876,79
+"100","11490_31_33_C","11490_31_33","C",22,"Western Great Plains Shortgrass Prairie",1684,3,1,11490,31,1876,0
+"101","11490_31_33_D","11490_31_33","D",NA,"Western Great Plains Shortgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"102","11490_31_33_E","11490_31_33","E",NA,"Western Great Plains Shortgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"103","11490_31_33_Agriculture","11490_31_33","Agriculture",0,"Western Great Plains Shortgrass Prairie",1417,180,8,11490,33,822,0
+"104","11490_31_33_Agriculture","11490_31_33","Agriculture",0,"Western Great Plains Shortgrass Prairie",1684,180,23,11490,31,1876,1
+"105","11490_31_33_Developed","11490_31_33","Developed",0,"Western Great Plains Shortgrass Prairie",1417,120,146,11490,33,822,17
+"106","11490_31_33_Developed","11490_31_33","Developed",0,"Western Great Plains Shortgrass Prairie",1684,120,262,11490,31,1876,13
+"107","11490_31_33_Water","11490_31_33","Water",0,"Western Great Plains Shortgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"108","11490_31_33_UN","11490_31_33","UN",0,"Western Great Plains Shortgrass Prairie",1417,6,55,11490,33,822,6
+"109","11490_31_33_UN","11490_31_33","UN",0,"Western Great Plains Shortgrass Prairie",1684,6,65,11490,31,1876,3
+"110","11490_31_33_UE","11490_31_33","UE",0,"Western Great Plains Shortgrass Prairie",1417,7,30,11490,33,822,3
+"111","11490_31_33_UE","11490_31_33","UE",0,"Western Great Plains Shortgrass Prairie",1684,7,40,11490,31,1876,2
+"112","11500_31_39_40_A","11500_31_39_40","A",39,"Western Great Plains Tallgrass Prairie",1661,1,36,11500,39,1113,3
+"113","11500_31_39_40_A","11500_31_39_40","A",39,"Western Great Plains Tallgrass Prairie",1685,1,41,11500,31,2979,1
+"114","11500_31_39_40_B","11500_31_39_40","B",53,"Western Great Plains Tallgrass Prairie",1661,2,511,11500,39,1113,45
+"115","11500_31_39_40_B","11500_31_39_40","B",53,"Western Great Plains Tallgrass Prairie",1685,2,1640,11500,31,2979,55
+"116","11500_31_39_40_C","11500_31_39_40","C",8,"Western Great Plains Tallgrass Prairie",1685,3,6,11500,31,2979,0
+"117","11500_31_39_40_D","11500_31_39_40","D",NA,"Western Great Plains Tallgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"118","11500_31_39_40_E","11500_31_39_40","E",NA,"Western Great Plains Tallgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"119","11500_31_39_40_Agriculture","11500_31_39_40","Agriculture",0,"Western Great Plains Tallgrass Prairie",1661,180,314,11500,39,1113,28
+"120","11500_31_39_40_Agriculture","11500_31_39_40","Agriculture",0,"Western Great Plains Tallgrass Prairie",1685,180,484,11500,31,2979,16
+"121","11500_31_39_40_Developed","11500_31_39_40","Developed",0,"Western Great Plains Tallgrass Prairie",1661,120,30,11500,39,1113,2
+"122","11500_31_39_40_Developed","11500_31_39_40","Developed",0,"Western Great Plains Tallgrass Prairie",1685,120,465,11500,31,2979,15
+"123","11500_31_39_40_Water","11500_31_39_40","Water",0,"Western Great Plains Tallgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"124","11500_31_39_40_UN","11500_31_39_40","UN",0,"Western Great Plains Tallgrass Prairie",1685,6,5,11500,31,2979,0
+"125","11500_31_39_40_UE","11500_31_39_40","UE",0,"Western Great Plains Tallgrass Prairie",1661,7,222,11500,39,1113,19
+"126","11500_31_39_40_UE","11500_31_39_40","UE",0,"Western Great Plains Tallgrass Prairie",1685,7,338,11500,31,2979,11
+"127","11620_27_33_A","11620_27_33","A",45,"Western Great Plains Floodplain Systems",1419,1,314,11620,33,880,35
+"128","11620_27_33_B","11620_27_33","B",20,"Western Great Plains Floodplain Systems",1419,2,529,11620,33,880,60
+"129","11620_27_33_C","11620_27_33","C",35,"Western Great Plains Floodplain Systems",1419,3,9,11620,33,880,1
+"130","11620_27_33_D","11620_27_33","D",NA,"Western Great Plains Floodplain Systems",NA,NA,NA,NA,NA,NA,NA
+"131","11620_27_33_E","11620_27_33","E",NA,"Western Great Plains Floodplain Systems",NA,NA,NA,NA,NA,NA,NA
+"132","11620_27_33_Agriculture","11620_27_33","Agriculture",0,"Western Great Plains Floodplain Systems",1419,180,4,11620,33,880,0
+"133","11620_27_33_Developed","11620_27_33","Developed",0,"Western Great Plains Floodplain Systems",1419,120,6,11620,33,880,0
+"134","11620_27_33_Water","11620_27_33","Water",0,"Western Great Plains Floodplain Systems",NA,NA,NA,NA,NA,NA,NA
+"135","11620_27_33_UN","11620_27_33","UN",0,"Western Great Plains Floodplain Systems",1419,6,2,11620,33,880,0
+"136","11620_27_33_UE","11620_27_33","UE",0,"Western Great Plains Floodplain Systems",1419,7,16,11620,33,880,1
+"137","11620_29_30_A","11620_29_30","A",15,"Western Great Plains Floodplain Systems",NA,NA,NA,NA,NA,NA,NA
+"138","11620_29_30_B","11620_29_30","B",27,"Western Great Plains Floodplain Systems",NA,NA,NA,NA,NA,NA,NA
+"139","11620_29_30_C","11620_29_30","C",25,"Western Great Plains Floodplain Systems",NA,NA,NA,NA,NA,NA,NA
+"140","11620_29_30_D","11620_29_30","D",6,"Western Great Plains Floodplain Systems",NA,NA,NA,NA,NA,NA,NA
+"141","11620_29_30_E","11620_29_30","E",27,"Western Great Plains Floodplain Systems",NA,NA,NA,NA,NA,NA,NA
+"142","11620_29_30_Agriculture","11620_29_30","Agriculture",0,"Western Great Plains Floodplain Systems",1276,180,1,11620,29,11,9
+"143","11620_29_30_Developed","11620_29_30","Developed",0,"Western Great Plains Floodplain Systems",1276,120,1,11620,29,11,9
+"144","11620_29_30_Water","11620_29_30","Water",0,"Western Great Plains Floodplain Systems",NA,NA,NA,NA,NA,NA,NA
+"145","11620_29_30_UN","11620_29_30","UN",0,"Western Great Plains Floodplain Systems",1276,6,9,11620,29,11,81
+"146","11620_29_30_UE","11620_29_30","UE",0,"Western Great Plains Floodplain Systems",NA,NA,NA,NA,NA,NA,NA
+"147","11620_31_39_40_A","11620_31_39_40","A",14,"Western Great Plains Floodplain Systems",1662,1,3941,11620,39,13701,28
+"148","11620_31_39_40_A","11620_31_39_40","A",14,"Western Great Plains Floodplain Systems",1686,1,41160,11620,31,50192,82
+"149","11620_31_39_40_B","11620_31_39_40","B",28,"Western Great Plains Floodplain Systems",1662,2,28,11620,39,13701,0
+"150","11620_31_39_40_B","11620_31_39_40","B",28,"Western Great Plains Floodplain Systems",1686,2,1525,11620,31,50192,3
+"151","11620_31_39_40_C","11620_31_39_40","C",36,"Western Great Plains Floodplain Systems",NA,NA,NA,NA,NA,NA,NA
+"152","11620_31_39_40_D","11620_31_39_40","D",11,"Western Great Plains Floodplain Systems",NA,NA,NA,NA,NA,NA,NA
+"153","11620_31_39_40_E","11620_31_39_40","E",11,"Western Great Plains Floodplain Systems",1686,5,57,11620,31,50192,0
+"154","11620_31_39_40_Agriculture","11620_31_39_40","Agriculture",0,"Western Great Plains Floodplain Systems",1662,180,8154,11620,39,13701,59
+"155","11620_31_39_40_Agriculture","11620_31_39_40","Agriculture",0,"Western Great Plains Floodplain Systems",1686,180,846,11620,31,50192,1
+"156","11620_31_39_40_Developed","11620_31_39_40","Developed",0,"Western Great Plains Floodplain Systems",1662,120,576,11620,39,13701,4
+"157","11620_31_39_40_Developed","11620_31_39_40","Developed",0,"Western Great Plains Floodplain Systems",1686,120,2014,11620,31,50192,4
+"158","11620_31_39_40_Water","11620_31_39_40","Water",0,"Western Great Plains Floodplain Systems",NA,NA,NA,NA,NA,NA,NA
+"159","11620_31_39_40_UN","11620_31_39_40","UN",0,"Western Great Plains Floodplain Systems",NA,NA,NA,NA,NA,NA,NA
+"160","11620_31_39_40_UE","11620_31_39_40","UE",0,"Western Great Plains Floodplain Systems",1662,7,1002,11620,39,13701,7
+"161","11620_31_39_40_UE","11620_31_39_40","UE",0,"Western Great Plains Floodplain Systems",1686,7,4584,11620,31,50192,9
+"162","11790_31_A","11790_31","A",10,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna",1687,1,31,11790,31,5505,0
+"163","11790_31_B","11790_31","B",79,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna",1687,2,3005,11790,31,5505,54
+"164","11790_31_C","11790_31","C",11,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna",1687,3,440,11790,31,5505,7
+"165","11790_31_D","11790_31","D",NA,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna",NA,NA,NA,NA,NA,NA,NA
+"166","11790_31_E","11790_31","E",NA,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna",NA,NA,NA,NA,NA,NA,NA
+"167","11790_31_Agriculture","11790_31","Agriculture",0,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna",1687,180,1,11790,31,5505,0
+"168","11790_31_Developed","11790_31","Developed",0,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna",1687,120,238,11790,31,5505,4
+"169","11790_31_Water","11790_31","Water",0,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna",NA,NA,NA,NA,NA,NA,NA
+"170","11790_31_UN","11790_31","UN",0,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna",1687,6,1760,11790,31,5505,31
+"171","11790_31_UE","11790_31","UE",0,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna",1687,7,27,11790,31,5505,0
+"172","11791_29_30_A","11791_29_30","A",6,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna - Low Elevation Woodland",NA,NA,NA,NA,NA,NA,NA
+"173","11791_29_30_B","11791_29_30","B",19,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna - Low Elevation Woodland",NA,NA,NA,NA,NA,NA,NA
+"174","11791_29_30_C","11791_29_30","C",13,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna - Low Elevation Woodland",NA,NA,NA,NA,NA,NA,NA
+"175","11791_29_30_D","11791_29_30","D",53,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna - Low Elevation Woodland",1278,4,11,11791,29,30,36
+"176","11791_29_30_E","11791_29_30","E",9,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna - Low Elevation Woodland",NA,NA,NA,NA,NA,NA,NA
+"177","11791_29_30_Agriculture","11791_29_30","Agriculture",0,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna - Low Elevation Woodland",NA,NA,NA,NA,NA,NA,NA
+"178","11791_29_30_Developed","11791_29_30","Developed",0,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna - Low Elevation Woodland",1278,120,11,11791,29,30,36
+"179","11791_29_30_Water","11791_29_30","Water",0,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna - Low Elevation Woodland",NA,NA,NA,NA,NA,NA,NA
+"180","11791_29_30_UN","11791_29_30","UN",0,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna - Low Elevation Woodland",NA,NA,NA,NA,NA,NA,NA
+"181","11791_29_30_UE","11791_29_30","UE",0,"Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna - Low Elevation Woodland",1278,7,8,11791,29,30,26
+"182","13100_39_A","13100_39","A",3,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1663,1,97,13100,39,1192,8
+"183","13100_39_B","13100_39","B",14,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1663,2,26,13100,39,1192,2
+"184","13100_39_C","13100_39","C",35,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1663,3,402,13100,39,1192,33
+"185","13100_39_D","13100_39","D",42,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1663,4,37,13100,39,1192,3
+"186","13100_39_E","13100_39","E",6,"North-Central Interior Dry-Mesic Oak Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"187","13100_39_Agriculture","13100_39","Agriculture",0,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1663,180,254,13100,39,1192,21
+"188","13100_39_Developed","13100_39","Developed",0,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1663,120,6,13100,39,1192,0
+"189","13100_39_Water","13100_39","Water",0,"North-Central Interior Dry-Mesic Oak Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"190","13100_39_UN","13100_39","UN",0,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1663,6,32,13100,39,1192,2
+"191","13100_39_UE","13100_39","UE",0,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1663,7,337,13100,39,1192,28
+"192","13110_39_A","13110_39","A",5,"North-Central Interior Dry Oak Forest and Woodland",1664,1,260,13110,39,750,34
+"193","13110_39_B","13110_39","B",32,"North-Central Interior Dry Oak Forest and Woodland",1664,2,2,13110,39,750,0
+"194","13110_39_C","13110_39","C",47,"North-Central Interior Dry Oak Forest and Woodland",1664,3,80,13110,39,750,10
+"195","13110_39_D","13110_39","D",10,"North-Central Interior Dry Oak Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"196","13110_39_E","13110_39","E",6,"North-Central Interior Dry Oak Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"197","13110_39_Agriculture","13110_39","Agriculture",0,"North-Central Interior Dry Oak Forest and Woodland",1664,180,79,13110,39,750,10
+"198","13110_39_Developed","13110_39","Developed",0,"North-Central Interior Dry Oak Forest and Woodland",1664,120,6,13110,39,750,0
+"199","13110_39_Water","13110_39","Water",0,"North-Central Interior Dry Oak Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"200","13110_39_UN","13110_39","UN",0,"North-Central Interior Dry Oak Forest and Woodland",NA,NA,NA,NA,NA,NA,NA
+"201","13110_39_UE","13110_39","UE",0,"North-Central Interior Dry Oak Forest and Woodland",1664,7,323,13110,39,750,43
+"202","13140_38_39_40_41_42_43_44_50_A","13140_38_39_40_41_42_43_44_50","A",8,"North-Central Interior Maple-Basswood Forest",1665,1,3,13140,39,381,0
+"203","13140_38_39_40_41_42_43_44_50_B","13140_38_39_40_41_42_43_44_50","B",9,"North-Central Interior Maple-Basswood Forest",1665,2,56,13140,39,381,14
+"204","13140_38_39_40_41_42_43_44_50_C","13140_38_39_40_41_42_43_44_50","C",14,"North-Central Interior Maple-Basswood Forest",1665,3,9,13140,39,381,2
+"205","13140_38_39_40_41_42_43_44_50_D","13140_38_39_40_41_42_43_44_50","D",69,"North-Central Interior Maple-Basswood Forest",NA,NA,NA,NA,NA,NA,NA
+"206","13140_38_39_40_41_42_43_44_50_E","13140_38_39_40_41_42_43_44_50","E",NA,"North-Central Interior Maple-Basswood Forest",NA,NA,NA,NA,NA,NA,NA
+"207","13140_38_39_40_41_42_43_44_50_Agriculture","13140_38_39_40_41_42_43_44_50","Agriculture",0,"North-Central Interior Maple-Basswood Forest",1665,180,108,13140,39,381,28
+"208","13140_38_39_40_41_42_43_44_50_Developed","13140_38_39_40_41_42_43_44_50","Developed",0,"North-Central Interior Maple-Basswood Forest",1665,120,3,13140,39,381,0
+"209","13140_38_39_40_41_42_43_44_50_Water","13140_38_39_40_41_42_43_44_50","Water",0,"North-Central Interior Maple-Basswood Forest",NA,NA,NA,NA,NA,NA,NA
+"210","13140_38_39_40_41_42_43_44_50_UN","13140_38_39_40_41_42_43_44_50","UN",0,"North-Central Interior Maple-Basswood Forest",1665,6,131,13140,39,381,34
+"211","13140_38_39_40_41_42_43_44_50_UE","13140_38_39_40_41_42_43_44_50","UE",0,"North-Central Interior Maple-Basswood Forest",1665,7,71,13140,39,381,18
+"212","13310_39_40_41_A","13310_39_40_41","A",16,"Eastern Great Plains Tallgrass Aspen Parkland",1666,1,4,13310,39,9,44
+"213","13310_39_40_41_B","13310_39_40_41","B",57,"Eastern Great Plains Tallgrass Aspen Parkland",NA,NA,NA,NA,NA,NA,NA
+"214","13310_39_40_41_C","13310_39_40_41","C",27,"Eastern Great Plains Tallgrass Aspen Parkland",NA,NA,NA,NA,NA,NA,NA
+"215","13310_39_40_41_D","13310_39_40_41","D",NA,"Eastern Great Plains Tallgrass Aspen Parkland",NA,NA,NA,NA,NA,NA,NA
+"216","13310_39_40_41_E","13310_39_40_41","E",NA,"Eastern Great Plains Tallgrass Aspen Parkland",NA,NA,NA,NA,NA,NA,NA
+"217","13310_39_40_41_Agriculture","13310_39_40_41","Agriculture",0,"Eastern Great Plains Tallgrass Aspen Parkland",1666,180,5,13310,39,9,55
+"218","13310_39_40_41_Developed","13310_39_40_41","Developed",0,"Eastern Great Plains Tallgrass Aspen Parkland",NA,NA,NA,NA,NA,NA,NA
+"219","13310_39_40_41_Water","13310_39_40_41","Water",0,"Eastern Great Plains Tallgrass Aspen Parkland",NA,NA,NA,NA,NA,NA,NA
+"220","13310_39_40_41_UN","13310_39_40_41","UN",0,"Eastern Great Plains Tallgrass Aspen Parkland",NA,NA,NA,NA,NA,NA,NA
+"221","13310_39_40_41_UE","13310_39_40_41","UE",0,"Eastern Great Plains Tallgrass Aspen Parkland",NA,NA,NA,NA,NA,NA,NA
+"222","13850_31_39_40_42_A","13850_31_39_40_42","A",16,"Western Great Plains Wooded Draw and Ravine",NA,NA,NA,NA,NA,NA,NA
+"223","13850_31_39_40_42_B","13850_31_39_40_42","B",29,"Western Great Plains Wooded Draw and Ravine",1688,2,23,13850,31,550,4
+"224","13850_31_39_40_42_C","13850_31_39_40_42","C",55,"Western Great Plains Wooded Draw and Ravine",1667,3,31,13850,39,242,12
+"225","13850_31_39_40_42_C","13850_31_39_40_42","C",55,"Western Great Plains Wooded Draw and Ravine",1688,3,223,13850,31,550,40
+"226","13850_31_39_40_42_D","13850_31_39_40_42","D",NA,"Western Great Plains Wooded Draw and Ravine",NA,NA,NA,NA,NA,NA,NA
+"227","13850_31_39_40_42_E","13850_31_39_40_42","E",NA,"Western Great Plains Wooded Draw and Ravine",NA,NA,NA,NA,NA,NA,NA
+"228","13850_31_39_40_42_Agriculture","13850_31_39_40_42","Agriculture",0,"Western Great Plains Wooded Draw and Ravine",1667,180,67,13850,39,242,27
+"229","13850_31_39_40_42_Agriculture","13850_31_39_40_42","Agriculture",0,"Western Great Plains Wooded Draw and Ravine",1688,180,1,13850,31,550,0
+"230","13850_31_39_40_42_Developed","13850_31_39_40_42","Developed",0,"Western Great Plains Wooded Draw and Ravine",1667,120,15,13850,39,242,6
+"231","13850_31_39_40_42_Developed","13850_31_39_40_42","Developed",0,"Western Great Plains Wooded Draw and Ravine",1688,120,54,13850,31,550,9
+"232","13850_31_39_40_42_Water","13850_31_39_40_42","Water",0,"Western Great Plains Wooded Draw and Ravine",NA,NA,NA,NA,NA,NA,NA
+"233","13850_31_39_40_42_UN","13850_31_39_40_42","UN",0,"Western Great Plains Wooded Draw and Ravine",1667,6,88,13850,39,242,36
+"234","13850_31_39_40_42_UN","13850_31_39_40_42","UN",0,"Western Great Plains Wooded Draw and Ravine",1688,6,241,13850,31,550,43
+"235","13850_31_39_40_42_UE","13850_31_39_40_42","UE",0,"Western Great Plains Wooded Draw and Ravine",1667,7,41,13850,39,242,16
+"236","13850_31_39_40_42_UE","13850_31_39_40_42","UE",0,"Western Great Plains Wooded Draw and Ravine",1688,7,6,13850,31,550,1
+"237","13940_39_40_41_A","13940_39_40_41","A",22,"North-Central Interior Oak Savanna",1668,1,350,13940,39,3665,9
+"238","13940_39_40_41_B","13940_39_40_41","B",62,"North-Central Interior Oak Savanna",1668,2,1042,13940,39,3665,28
+"239","13940_39_40_41_C","13940_39_40_41","C",14,"North-Central Interior Oak Savanna",1668,3,329,13940,39,3665,8
+"240","13940_39_40_41_D","13940_39_40_41","D",2,"North-Central Interior Oak Savanna",NA,NA,NA,NA,NA,NA,NA
+"241","13940_39_40_41_E","13940_39_40_41","E",NA,"North-Central Interior Oak Savanna",NA,NA,NA,NA,NA,NA,NA
+"242","13940_39_40_41_Agriculture","13940_39_40_41","Agriculture",0,"North-Central Interior Oak Savanna",1668,180,112,13940,39,3665,3
+"243","13940_39_40_41_Developed","13940_39_40_41","Developed",0,"North-Central Interior Oak Savanna",1668,120,32,13940,39,3665,0
+"244","13940_39_40_41_Water","13940_39_40_41","Water",0,"North-Central Interior Oak Savanna",NA,NA,NA,NA,NA,NA,NA
+"245","13940_39_40_41_UN","13940_39_40_41","UN",0,"North-Central Interior Oak Savanna",NA,NA,NA,NA,NA,NA,NA
+"246","13940_39_40_41_UE","13940_39_40_41","UE",0,"North-Central Interior Oak Savanna",1668,7,1800,13940,39,3665,49
+"247","14120_39_40_41_42_43_50_51_A","14120_39_40_41_42_43_50_51","A",80,"North-Central Interior Sand and Gravel Tallgrass Prairie",1669,1,167,14120,39,798,20
+"248","14120_39_40_41_42_43_50_51_B","14120_39_40_41_42_43_50_51","B",16,"North-Central Interior Sand and Gravel Tallgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"249","14120_39_40_41_42_43_50_51_C","14120_39_40_41_42_43_50_51","C",4,"North-Central Interior Sand and Gravel Tallgrass Prairie",1669,3,1,14120,39,798,0
+"250","14120_39_40_41_42_43_50_51_D","14120_39_40_41_42_43_50_51","D",NA,"North-Central Interior Sand and Gravel Tallgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"251","14120_39_40_41_42_43_50_51_E","14120_39_40_41_42_43_50_51","E",NA,"North-Central Interior Sand and Gravel Tallgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"252","14120_39_40_41_42_43_50_51_Agriculture","14120_39_40_41_42_43_50_51","Agriculture",0,"North-Central Interior Sand and Gravel Tallgrass Prairie",1669,180,193,14120,39,798,24
+"253","14120_39_40_41_42_43_50_51_Developed","14120_39_40_41_42_43_50_51","Developed",0,"North-Central Interior Sand and Gravel Tallgrass Prairie",1669,120,37,14120,39,798,4
+"254","14120_39_40_41_42_43_50_51_Water","14120_39_40_41_42_43_50_51","Water",0,"North-Central Interior Sand and Gravel Tallgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"255","14120_39_40_41_42_43_50_51_UN","14120_39_40_41_42_43_50_51","UN",0,"North-Central Interior Sand and Gravel Tallgrass Prairie",1669,6,85,14120,39,798,10
+"256","14120_39_40_41_42_43_50_51_UE","14120_39_40_41_42_43_50_51","UE",0,"North-Central Interior Sand and Gravel Tallgrass Prairie",1669,7,315,14120,39,798,39
+"257","14200_39_40_42_A","14200_39_40_42","A",31,"Northern Tallgrass Prairie",1670,1,1919,14200,39,234679,0
+"258","14200_39_40_42_B","14200_39_40_42","B",59,"Northern Tallgrass Prairie",1670,2,31159,14200,39,234679,13
+"259","14200_39_40_42_C","14200_39_40_42","C",8,"Northern Tallgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"260","14200_39_40_42_D","14200_39_40_42","D",2,"Northern Tallgrass Prairie",1670,4,1380,14200,39,234679,0
+"261","14200_39_40_42_E","14200_39_40_42","E",NA,"Northern Tallgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"262","14200_39_40_42_Agriculture","14200_39_40_42","Agriculture",0,"Northern Tallgrass Prairie",1670,180,76283,14200,39,234679,32
+"263","14200_39_40_42_Developed","14200_39_40_42","Developed",0,"Northern Tallgrass Prairie",1670,120,14245,14200,39,234679,6
+"264","14200_39_40_42_Water","14200_39_40_42","Water",0,"Northern Tallgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"265","14200_39_40_42_UN","14200_39_40_42","UN",0,"Northern Tallgrass Prairie",1670,6,297,14200,39,234679,0
+"266","14200_39_40_42_UE","14200_39_40_42","UE",0,"Northern Tallgrass Prairie",1670,7,109379,14200,39,234679,46
+"267","14210_31_38_42_43_44_50_51_A","14210_31_38_42_43_44_50_51","A",40,"Central Tallgrass Prairie",1689,1,87312,14210,31,111704,78
+"268","14210_31_38_42_43_44_50_51_B","14210_31_38_42_43_44_50_51","B",58,"Central Tallgrass Prairie",1689,2,7543,14210,31,111704,6
+"269","14210_31_38_42_43_44_50_51_C","14210_31_38_42_43_44_50_51","C",2,"Central Tallgrass Prairie",1689,3,211,14210,31,111704,0
+"270","14210_31_38_42_43_44_50_51_D","14210_31_38_42_43_44_50_51","D",NA,"Central Tallgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"271","14210_31_38_42_43_44_50_51_E","14210_31_38_42_43_44_50_51","E",NA,"Central Tallgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"272","14210_31_38_42_43_44_50_51_Agriculture","14210_31_38_42_43_44_50_51","Agriculture",0,"Central Tallgrass Prairie",1689,180,48,14210,31,111704,0
+"273","14210_31_38_42_43_44_50_51_Developed","14210_31_38_42_43_44_50_51","Developed",0,"Central Tallgrass Prairie",1689,120,782,14210,31,111704,0
+"274","14210_31_38_42_43_44_50_51_Water","14210_31_38_42_43_44_50_51","Water",0,"Central Tallgrass Prairie",NA,NA,NA,NA,NA,NA,NA
+"275","14210_31_38_42_43_44_50_51_UN","14210_31_38_42_43_44_50_51","UN",0,"Central Tallgrass Prairie",1689,6,902,14210,31,111704,0
+"276","14210_31_38_42_43_44_50_51_UE","14210_31_38_42_43_44_50_51","UE",0,"Central Tallgrass Prairie",1689,7,14902,14210,31,111704,13
+"277","14690_31_39_40_43_A","14690_31_39_40_43","A",14,"Eastern Great Plains Floodplain Systems",1671,1,19,14690,39,56392,0
+"278","14690_31_39_40_43_B","14690_31_39_40_43","B",30,"Eastern Great Plains Floodplain Systems",1671,2,164,14690,39,56392,0
+"279","14690_31_39_40_43_C","14690_31_39_40_43","C",41,"Eastern Great Plains Floodplain Systems",NA,NA,NA,NA,NA,NA,NA
+"280","14690_31_39_40_43_D","14690_31_39_40_43","D",15,"Eastern Great Plains Floodplain Systems",NA,NA,NA,NA,NA,NA,NA
+"281","14690_31_39_40_43_E","14690_31_39_40_43","E",NA,"Eastern Great Plains Floodplain Systems",NA,NA,NA,NA,NA,NA,NA
+"282","14690_31_39_40_43_Agriculture","14690_31_39_40_43","Agriculture",0,"Eastern Great Plains Floodplain Systems",1671,180,13349,14690,39,56392,23
+"283","14690_31_39_40_43_Developed","14690_31_39_40_43","Developed",0,"Eastern Great Plains Floodplain Systems",1671,120,2017,14690,39,56392,3
+"284","14690_31_39_40_43_Water","14690_31_39_40_43","Water",0,"Eastern Great Plains Floodplain Systems",NA,NA,NA,NA,NA,NA,NA
+"285","14690_31_39_40_43_UN","14690_31_39_40_43","UN",0,"Eastern Great Plains Floodplain Systems",1671,6,36590,14690,39,56392,64
+"286","14690_31_39_40_43_UE","14690_31_39_40_43","UE",0,"Eastern Great Plains Floodplain Systems",1671,7,4245,14690,39,56392,7
+"287","14820_39_40_A","14820_39_40","A",40,"Great Plains Prairie Pothole",1672,1,202,14820,39,35417,0
+"288","14820_39_40_B","14820_39_40","B",60,"Great Plains Prairie Pothole",1672,2,16461,14820,39,35417,46
+"289","14820_39_40_C","14820_39_40","C",NA,"Great Plains Prairie Pothole",NA,NA,NA,NA,NA,NA,NA
+"290","14820_39_40_D","14820_39_40","D",NA,"Great Plains Prairie Pothole",NA,NA,NA,NA,NA,NA,NA
+"291","14820_39_40_E","14820_39_40","E",NA,"Great Plains Prairie Pothole",NA,NA,NA,NA,NA,NA,NA
+"292","14820_39_40_Agriculture","14820_39_40","Agriculture",0,"Great Plains Prairie Pothole",1672,180,12704,14820,39,35417,35
+"293","14820_39_40_Developed","14820_39_40","Developed",0,"Great Plains Prairie Pothole",1672,120,1066,14820,39,35417,3
+"294","14820_39_40_Water","14820_39_40","Water",0,"Great Plains Prairie Pothole",NA,NA,NA,NA,NA,NA,NA
+"295","14820_39_40_UN","14820_39_40","UN",0,"Great Plains Prairie Pothole",1672,6,25,14820,39,35417,0
+"296","14820_39_40_UE","14820_39_40","UE",0,"Great Plains Prairie Pothole",1672,7,4955,14820,39,35417,13
+"297","14950_31_39_40_A","14950_31_39_40","A",47,"Western Great Plains Depressional Wetland Systems",1673,1,892,14950,39,46960,1
+"298","14950_31_39_40_A","14950_31_39_40","A",47,"Western Great Plains Depressional Wetland Systems",1691,1,2973,14950,31,59342,5
+"299","14950_31_39_40_B","14950_31_39_40","B",53,"Western Great Plains Depressional Wetland Systems",NA,NA,NA,NA,NA,NA,NA
+"300","14950_31_39_40_C","14950_31_39_40","C",NA,"Western Great Plains Depressional Wetland Systems",NA,NA,NA,NA,NA,NA,NA
+"301","14950_31_39_40_D","14950_31_39_40","D",NA,"Western Great Plains Depressional Wetland Systems",NA,NA,NA,NA,NA,NA,NA
+"302","14950_31_39_40_E","14950_31_39_40","E",NA,"Western Great Plains Depressional Wetland Systems",NA,NA,NA,NA,NA,NA,NA
+"303","14950_31_39_40_Agriculture","14950_31_39_40","Agriculture",0,"Western Great Plains Depressional Wetland Systems",1673,180,19236,14950,39,46960,40
+"304","14950_31_39_40_Agriculture","14950_31_39_40","Agriculture",0,"Western Great Plains Depressional Wetland Systems",1691,180,58,14950,31,59342,0
+"305","14950_31_39_40_Developed","14950_31_39_40","Developed",0,"Western Great Plains Depressional Wetland Systems",1673,120,1119,14950,39,46960,2
+"306","14950_31_39_40_Developed","14950_31_39_40","Developed",0,"Western Great Plains Depressional Wetland Systems",1691,120,759,14950,31,59342,1
+"307","14950_31_39_40_Water","14950_31_39_40","Water",0,"Western Great Plains Depressional Wetland Systems",NA,NA,NA,NA,NA,NA,NA
+"308","14950_31_39_40_UN","14950_31_39_40","UN",0,"Western Great Plains Depressional Wetland Systems",1673,6,22023,14950,39,46960,46
+"309","14950_31_39_40_UN","14950_31_39_40","UN",0,"Western Great Plains Depressional Wetland Systems",1691,6,45757,14950,31,59342,77
+"310","14950_31_39_40_UE","14950_31_39_40","UE",0,"Western Great Plains Depressional Wetland Systems",1673,7,3686,14950,39,46960,7
+"311","14950_31_39_40_UE","14950_31_39_40","UE",0,"Western Great Plains Depressional Wetland Systems",1691,7,9793,14950,31,59342,16
