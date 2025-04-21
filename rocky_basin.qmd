@@ -51,6 +51,7 @@ all_annual_fire <-bps_data %>%
 
 
 all_annual_fire$acres[all_annual_fire$acres == Inf] <- 0
+all_annual_fire$acres[is.nan(all_annual_fire$acres)] <- 0
 
 
 annualFire <- all_annual_fire %>%

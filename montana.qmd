@@ -52,6 +52,8 @@ all_annual_fire <-bps_data %>%
 
 all_annual_fire$acres[all_annual_fire$acres == Inf] <- 0
 
+all_annual_fire$acres[is.nan(all_annual_fire$acres)] <- 0
+
 
 annualFire <- all_annual_fire %>%
    top_n(n = 10, wt = acres) 
@@ -84,6 +86,9 @@ fire_data <- fire_data %>%
          No_fire = annual_no_fire)
 
 fire_data[fire_data == Inf] <- 0
+
+
+
 
 fire_data_long <- fire_data %>%
   pivot_longer(cols = c(Surface, Mixed, Replacement, No_fire),
