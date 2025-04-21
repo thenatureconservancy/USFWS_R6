@@ -1,0 +1,537 @@
+---
+title: "North Dakota Fire Zone"
+format: 
+  html:
+    page-layout: full
+editor: source
+
+---
+
+```{r}
+#| label: set up
+#| message: false
+#| warning: false
+#| include: false
+
+library(htmltools)
+library(htmlwidgets)
+library(plotly)
+library(scales)
+library(stringr)
+library(tidygraph)
+library(tidyverse)
+
+
+
+options(scipen = 99999999)
+
+bps_data <- read.csv("data/north_dakota/bps_aoi_attributes.csv")
+
+
+bps_data[bps_data == -9999] <- 0
+
+bps_data <- bps_data[bps_data$BPS_NAME != "Open Water", ]
+
+
+evt_data <- read_csv(file = "data/north_dakota/evt_aoi_attributes.csv")
+
+evc_data <- read.csv("data/north_dakota/evc_aoi_attributes.csv") 
+
+evh_data <- read.csv("data/north_dakota/evh_aoi_attributes.csv") 
+
+
+# process fire data to get acres up front
+
+all_annual_fire <-bps_data %>%
+  mutate(annual_fire_acres = ((1/FRI_ALLFIR)*ACRES)) %>%
+  filter(BPS_NAME != 'Open Water') %>%
+  group_by(BPS_NAME) %>%
+  summarize(acres = sum(annual_fire_acres)) %>%
+  arrange(desc(acres))
+
+
+all_annual_fire$acres[all_annual_fire$acres == Inf] <- 0
+
+
+annualFire <- all_annual_fire %>%
+   top_n(n = 10, wt = acres) 
+
+
+
+
+
+fire_data <- bps_data |>
+  mutate(annual_fire_acres = ((1/FRI_ALLFIR)*ACRES)) |>
+  mutate(annual_no_fire = (ACRES - annual_fire_acres)) |>
+  mutate(annual_surface_acres = ((1/FRI_SURFAC)*ACRES)) |>
+  mutate(annual_mixed_acres = ((1/FRI_MIXED)*ACRES)) |>
+  mutate(annual_replacement_acres = ((1/FRI_REPLAC)*ACRES)) |>
+  group_by(BPS_NAME) |>
+  summarize(ACRES = sum(ACRES),
+            REL_PERCENT = sum(REL_PERCENT),
+            annual_fire_acres = sum(annual_fire_acres),
+            annual_no_fire = sum(annual_no_fire),
+            annual_surface_acres = sum(annual_surface_acres),
+            annual_mixed_acres = sum(annual_mixed_acres),
+            annual_replacement_acres = sum(annual_replacement_acres),) |>
+  arrange(desc(REL_PERCENT)) |>
+  top_n(n = 10, wt = REL_PERCENT)
+
+fire_data <- fire_data %>%
+  rename(Surface = annual_surface_acres, 
+         Mixed = annual_mixed_acres, 
+         Replacement = annual_replacement_acres, 
+         No_fire = annual_no_fire)
+
+fire_data[fire_data == Inf] <- 0
+
+fire_data_long <- fire_data %>%
+  pivot_longer(cols = c(Surface, Mixed, Replacement, No_fire),
+               names_to = "fire_type",
+               values_to = "fire_acres") %>%
+  mutate(fire_type = factor(fire_type, levels = c("Surface", 
+                                                  "Mixed", 
+                                                  "Replacement", 
+                                                  "No_fire")))
+
+
+
+```
+
+
+
+
+
+## Historical Fire Regimes
+
+
+<br>
+
+::: {.callout-note}
+[ **Prior to European colonization the Great Plains fire zone had `r formatC(sum(all_annual_fire$acres), format = "f", big.mark = ",", digits = 0)` acres of fire annually.** ]{style="font-size: 1.5em;"}
+:::
+
+<br> <br>
+
+### Historical Fire Annual Amounts and Their Associated Biophysical Settings
+
+In the interactive chart below, hover over the various elements to learn how much of each BpS was on the landscape historically, and how much fire across the 3 main fire types happened annually prior to European Settlement.
+
+```{r}
+#| label: mfri and bpss
+#| echo: false
+#| message: false
+#| warning: false
+#| fig-height: 12
+#| output-height: 12
+
+# Read in and reshape fire data
+
+
+# Read in snkyPdata
+snkyPdata <- fire_data_long |>
+  select(c(fire_type, BPS_NAME, fire_acres)) |>
+  rename(source = BPS_NAME, target = fire_type, value = fire_acres)
+
+# Convert factor variables to character
+snkyPdata <- snkyPdata %>%
+  mutate(across(everything(), as.character))
+
+# Replace "No_fire" with "No Fire"
+snkyPdata <- snkyPdata %>%
+  mutate(across(everything(), ~replace(., . == "No_fire", "No Fire")))
+
+# Define the desired order for fire types (targets), placing No_fire last
+target_order <- c('Surface', 'Mixed', 'Replacement', 'No Fire')
+
+# Sort data by target order
+snkyPdata <- snkyPdata %>%
+  mutate(target = factor(target, levels = target_order)) %>%
+  arrange(target)
+
+# Define node names: sources first (unique BPS_NAME), then targets (in order)
+all_nodes <- c(unique(snkyPdata$source), target_order)
+nodes <- data.frame(name = all_nodes)
+
+# Define colors
+sourceColor <- '#bbc4bc'
+targetColors <- c('#d95f0e', '#fec44f', '#fff7bc', '#117733')  # matches target_order
+nodeColors <- c(rep(sourceColor, length(unique(snkyPdata$source))), targetColors)
+
+# Create source and target IDs
+snkyPdata$IDsource <- match(snkyPdata$source, nodes$name) - 1
+snkyPdata$IDtarget <- match(snkyPdata$target, nodes$name) - 1
+
+# Generate Sankey diagram
+sankey <- plot_ly(
+  type = "sankey",
+  orientation = "h",
+  node = list(
+    pad = 15,
+    thickness = 20,
+    line = list(color = "black", width = 0.5),
+    label = nodes$name,
+    color = nodeColors,
+    hovertemplate = "Acres"
+  ),
+  link = list(
+    source = snkyPdata$IDsource,
+    target = snkyPdata$IDtarget,
+    value = snkyPdata$value,
+    hovertemplate = "Acres"
+  ),
+  textfont = list(size = 14),
+  width = 850,
+  height = 800  # taller to help spacing
+) %>%
+  layout(
+    title = "",
+    font = list(size = 14),
+    margin = list(t = 100, l = 20, r = 20, b = 100)
+  )
+
+sankey
+
+```
+
+
+<br>
+
+### Biophysical Settings descriptions
+
+Below you will find a list of Biophysical Settings (BpS) that is linked to their descriptions.  Note:
+
+* There may be multiple BpS names listed.  If so, this is because your landscape spans multiple LANDFIRE Map Zones and has multiple 'variants' for those BPSs.  
+* The names below are followed by a number in parentheses.  The first 5-digit number is the BPS Code.  The following numbers reprent the Map Zones.  For example, "13020_65_66" is ‘Laurentian-Acadian Northern Hardwoods forest’ BpS (13020) in Map Zones 65 and 66.
+* The map below will help orient you to the Map Zones for your landscape.
+
+<br>
+
+
+```{r}
+#| label: mz map
+#| echo: false
+#| message: false
+#| warning: false
+library(sf)
+library(tmap)
+
+tmap_mode("view")
+
+
+# Replace 'path_to_map_zones_shapefile' and 'path_to_additional_shapefile' with the actual paths to your shapefiles
+map_zones <- st_read("data/conus_mapzones_102611.shp", quiet = TRUE)
+additional_shape <- st_read("data/north_dakota/north_dakota_tracks.shp", quiet = TRUE)
+
+
+map_zones <- st_transform(map_zones, crs = 4326)
+additional_shape <- st_transform(additional_shape, crs = 4326)
+
+
+# Create the tmap
+
+
+tm_shape(map_zones) +
+  tm_borders(col = "black", lwd = 2) +
+  tm_text("ZONE_NUM", size = 1, col = "black", fontface = "bold") +
+  tm_shape(additional_shape) +
+  tm_borders(col = "green", lwd = 2) +
+  tm_fill(fill = "green", fill_alpha = 0.5) +
+  tm_view(bbox = st_bbox(additional_shape)) +
+  tm_layout(legend.show = FALSE)
+```
+
+<br>
+
+
+
+**Clicking link will initiate a download of a Microsoft Word file.  If you have any issues with this please contact [LANDFIRE](mailto:landfire@tnc.org){target="blank"}.**
+
+
+```{r}
+#| label: get bps docs
+#| echo: false
+#| message: false
+#| warning: false
+
+# want list of BpS names to match chart
+# should have variants with their percents
+# should be in order by percent with the correct percent
+
+
+
+
+# Get unique model codes for the top 10 BPS names
+unique_model_codes <- unique(bps_data$BPS_MODEL[bps_data$BPS_NAME %in% fire_data$BPS_NAME])
+
+# Filter the dataframe to include only rows with unique model codes and top 10 BPS names
+bps_urls <- bps_data %>% 
+  filter(BPS_MODEL %in% unique_model_codes) %>% 
+  distinct(BPS_MODEL, .keep_all = TRUE) %>%
+  select(c(BPS_NAME, BPS_MODEL))
+
+
+# Merge top_bps with bps_urls to get REL_PERCENT
+bps_urls <- bps_urls %>%
+  left_join(bps_data |>
+              select(BPS_MODEL, REL_PERCENT), 
+            by = "BPS_MODEL")
+
+# URL template
+url_template <- "https://github.com/rswaty/bps_docs_parse/raw/main/all_bps_docs/10080_1_2_3_7.docx"
+
+# Generate URLs by replacing the model_code in the URL template
+urls <- sapply(unique_model_codes, function(code) {
+  gsub("10080_1_2_3_7", paste0(code), url_template)
+})
+
+# Create clickable hyperlinks with BPS names, model codes, and REL_PERCENT without decimal places
+clickable_names <- sapply(seq_along(urls), function(i) {
+  paste0('<a href="', urls[i], '" target="_blank">', bps_urls$BPS_NAME[i], ' (', bps_urls$BPS_MODEL[i], ') - ', round(bps_urls$REL_PERCENT[i]), '%</a>')
+})
+
+# Render the list of hyperlinked BPS names as HTML
+html_output <- HTML(paste(clickable_names, collapse = "<br>"))
+
+# Print the HTML output
+html_output
+
+
+
+```
+
+
+<br>
+
+
+
+
+## Most Prevalent Existing Vegetation Types
+
+```{r evt chart, fig.height=10, fig.width=10, message=FALSE, warning=FALSE}
+#| echo: false
+evtname <- evt_data  |> 
+  group_by(EVT_NAME) |> 
+  summarize(ACRES = sum(ACRES),
+            REL_PERCENT = sum(REL_PERCENT)) |> 
+  arrange(desc(REL_PERCENT)) |> 
+  filter(!EVT_NAME %in% c("Open Water","Developed-Roads")) |> 
+  top_n(n = 10, wt = REL_PERCENT)
+
+# plot
+evtChart <-
+  ggplot(data = evtname, aes(x = EVT_NAME, y = REL_PERCENT)) +
+  geom_bar(stat = "identity") +
+  labs(
+    title = "Top 10 Existing Vegetation Types",
+    caption = "Data from landfire.gov",
+    x = "",
+    y = "Percent of landscape") +
+  scale_x_discrete(limits = rev(evtname$EVT_NAME),
+                   labels = function(x) str_wrap(x, width = 18)) +
+  coord_flip() +
+  theme_bw(base_size = 14)
+
+
+
+evtChart
+```
+
+<br>
+
+## Existing Vegetation Cover
+
+The Existing Vegetation Cover (EVC) map is a visual representation of EVC classifications across the subregion. The chart below the map provides a breakdown of each vegetation cover classification and their relative distribution across the forest.
+
+```{r evc chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=10}
+evcname <- evc_data %>% 
+  mutate(type = if_else(Value %in% 11, "Open Water",
+                                             if_else(Value %in% 12, "Snow / Ice",
+                                                     if_else(Value %in% c(13:25), "Developed",
+                                                             if_else(Value %in% 31, "Barren",
+                                                                     if_else(Value %in% c(60:70), "Agriculture",
+                                                                             if_else(Value %in% 32, "Quarries",
+                                                                                     if_else(Value %in% 100, "Sparse Vegetation",
+                                                                                             if_else(Value %in% c(101:199), "Tree",
+                                                                                                     if_else(Value %in% c(201:299), "Shrub",
+                                                                                                             if_else(Value %in% c(301:399), "Herb",
+                                                                                                                     "Other")))))))))))
+
+
+
+# create reverse substr() function
+revSubstr <- function(x, start, stop) {
+  x <- strsplit(x, "")
+  sapply(x, 
+         function(x) paste(rev(rev(x)[start:stop]), collapse = ""), 
+         USE.NAMES = FALSE)  }
+
+# create cover column based on 2nd and 3rd to last Values of classname
+# if "Other" type, make 0
+evcname <- evcname %>% mutate(cover = as.numeric(if_else(Value > 100,
+                                                         revSubstr(evcname$CLASSNAMES, start = 2, stop = 3),
+                                                         "0")))
+
+# create bin breaks for grouping
+breaks <- seq(0, 100, 10)
+# create intervals for grouping and summarize
+# also create factor order for "type"
+evcgroup <- evcname %>%
+  mutate(interval = cut(cover,
+                        breaks, 
+                        include.lowest = TRUE, 
+                        right = T,
+                        labels = c("0-9", "10-19", "20-29", "30-39", "40-49", "50-59", "60-69", "70-79", 
+                                   "80-89", "90-100")),
+         type = factor(type, levels = c("Tree", "Shrub", "Herb", "Open Water", "Snow / Ice", "Developed", "Agriculture", "Sparse Vegetation", "Barren", "Quarries", "Other"))) %>%
+  group_by(type, interval) %>%
+  summarize(COUNT = sum(Freq),
+            acres = sum(ACRES),
+            rel_percent = sum(REL_PERCENT))
+
+# add label and legend names based on condition
+evcgroup <- evcgroup %>% mutate(label = if_else(type %in% c("Tree", "Shrub", "Herb"),
+                                                paste0(type, " Cover = ", interval, "%"), as.character(type)),
+                                legend = if_else(type %in% c("Tree", "Shrub", "Herb", "Open Water"),
+                                                 type, as.factor("Other")))
+
+# turn current label order to factors
+evclabel.list <- evcgroup$label
+evcgroup <- evcgroup %>% mutate(label = fct_rev(factor(label, evclabel.list)))
+
+# join in custom cols column to color bars by specific label
+
+evc_group_cols <- read.csv("data/evc_group_acc.csv")
+
+evcgroup <- left_join(evcgroup, evc_group_cols, by = "label")
+
+evcgroup$label <- factor(evcgroup$label, levels = rev(evcgroup$label))
+
+evcgroup <- evcgroup %>%
+  filter(rel_percent > 0.01)
+
+# plot
+evcChart <-
+  ggplot(data = evcgroup, aes(x = label, y = rel_percent, fill = colors)) +
+  geom_bar(stat = "identity") +
+  labs(
+    title = "Existing Vegetation Cover",
+    caption = "Data from landfire.gov",
+    x = "",
+    y = "Percent of landscape") +
+  scale_fill_identity() +
+  coord_flip() +
+  theme_classic(base_size = 12)+
+  theme(legend.position = "none") 
+
+
+evcChart
+
+```
+
+<br>
+
+## Existing Vegetation Height
+
+The Existing Vegetation Height (EVH) map showcases EVH across the forest. The chart below the map provides the percentage of the landscape represented by each EVH height.
+
+```{r evh chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=10}
+
+# load evh attribute table
+evhname <- evh_data %>% 
+  mutate(type = if_else(Value %in% 11, "Open Water",
+                                             if_else(Value %in% 12, "Snow / Ice",
+                                                     if_else(Value %in% c(13:25), "Developed",
+                                                             if_else(Value %in% 31, "Barren",
+                                                                     if_else(Value %in% c(60:70), "Agriculture",
+                                                                             if_else(Value %in% 32, "Quarries",
+                                                                                     if_else(Value %in% 100, "Sparse Vegetation",
+                                                                                             if_else(Value %in% c(101:199), "Tree",
+                                                                                                     if_else(Value %in% c(201:299), "Shrub",
+                                                                                                             if_else(Value %in% c(301:399), "Herb",
+                                                                                                                     "Other"))))))))))) %>%
+  mutate(height_m = if_else(type %in% "Tree", (Value -100),
+                            if_else(type %in% "Shrub", ((Value - 200) / 10),
+                                    if_else(type %in% "Herb", ((Value - 300) / 10), 0))) %>%
+           as.character() %>% as.numeric())
+
+# create bin breaks for grouping
+breaks <- c(0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100)
+
+# create intervals for grouping and summarize
+# also create factor order for "type"
+evhgroup <- evhname %>%
+  mutate(interval = cut(height_m,
+                        breaks, 
+                        include.lowest = TRUE, 
+                        right = F,
+                        labels = c("0", "0.1-0.2", "0.2-0.3", "0.3-0.4" ,"0.4-0.5", "0.5-0.6", "0.6-0.7", "0.7-0.8", "0.8-0.9", "0.9-1.0", "1-5", "5-10", "10-15", "15-20", "20-25", "25-30", "30-35", "35-40", "40-45", "45-50", "50-55", "55-60", "60-65", "65-70", "70-75", "75-80", "80-85", "85-90", "90-95", "95-100")),
+         type = factor(type, levels = c("Tree", "Shrub", "Herb", "Open Water", "Snow / Ice", "Developed", "Agriculture", "Sparse Vegetation", "Barren", "Quarries", "Other"))) %>%
+  group_by(type, interval) %>%
+  summarise(COUNT = sum(Freq),
+            acres = sum(ACRES),
+            rel_percent = sum(REL_PERCENT))
+
+
+
+# add label and legend names based on condition
+evhgroup <- evhgroup %>% mutate(label = if_else(type %in% c("Tree", "Shrub", "Herb"),
+                                                paste0(type, " Height = ", interval, " m"), as.character(type)),
+                                legend = if_else(type %in% c("Tree", "Shrub", "Herb", "Open Water"),
+                                                 type, as.factor("Other")))
+# turn current label order to factors
+evhlabel.list <- evhgroup$label
+evhgroup <- evhgroup %>% mutate(label = fct_rev(factor(label, evhlabel.list)))
+
+
+# join in custom cols column to color bars by specific label
+
+evh_group_cols <- read.csv("data/evh_group_acc.csv")
+
+evhgroup <- left_join(evhgroup, evh_group_cols, by = "label")
+
+evhgroup$label <- factor(evhgroup$label, levels = rev(evhgroup$label))
+
+evhgroup <- evhgroup %>%
+  filter(rel_percent > 0.01)
+
+
+# plot
+evhChart <-
+ggplot(data = evhgroup, aes(x = label, y = rel_percent, fill = colors)) +
+  geom_bar(stat = "identity") +
+  labs(
+    title = "Existing Vegetation Height",
+    subtitle = "",
+    caption = "\nData from landfire.gov.",
+    x = "",
+    y = "Percent of landscape") +
+  scale_fill_identity() +
+  coord_flip() +
+  theme_bw()
+
+evhChart
+
+
+
+# plot with original color scheme
+# evhChart <-
+# ggplot(data = evhgroup, aes(x = label, y = REL_PERCENT, fill = legend)) +
+#   geom_bar(stat = "identity") +
+#   labs(
+#     title = "Existing Vegetation Height",
+#     subtitle = "landscape_name",
+#     caption = "Data from landfire.gov.",
+#     x = "",
+#     y = "percent of landscape") +
+#   scale_fill_manual(Values = cols, name = "") +
+#   coord_flip() +
+#   theme_bw()
+# 
+# evhChart
+
+
+
+
+
+```

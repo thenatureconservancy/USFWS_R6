@@ -1,0 +1,318 @@
+"","TransitionGroupID","Model_Code","annual_probability","BpS_Name","...1","BLUE","ACRES","REL_PERCENT","annual_dist_acres"
+"1","All Fire","10130_31_38_39_40",0.0599116,"Western Great Plains Dry Bur Oak Forest and Woodland",29,0,80,0,4.792928
+"2","All Fire","10130_31_38_39_40",0.0599116,"Western Great Plains Dry Bur Oak Forest and Woodland",35,0,113,0,6.7700108
+"3","All Fire","10850_29_30",0.065863,"Northwestern Great Plains Shrubland",27,0.517647,1,0,0.065863
+"4","All Fire","11410_29_30",0.0739452,"Northwestern Great Plains Mixedgrass Prairie",9,0.909804,9768,1.8,722.2967136
+"5","All Fire","11410_39",0.124771,"Northwestern Great Plains Mixedgrass Prairie",5,0.909804,19355,3.6,2414.942705
+"6","All Fire","11410_40",0.1278934,"Northwestern Great Plains Mixedgrass Prairie",1,0.909804,202682,37.8,25921.6900988
+"7","All Fire","11480_20_29_30",0.0466178,"Western Great Plains Sand Prairie",28,0.662745,9,0,0.4195602
+"8","All Fire","11500_31_39_40",0.1987748,"Western Great Plains Tallgrass Prairie",10,0.588235,8723,1.6,1733.9125804
+"9","All Fire","11500_31_39_40",0.1987748,"Western Great Plains Tallgrass Prairie",36,0.588235,222,0,44.1280056
+"10","All Fire","11620_29_30",0.019482,"Western Great Plains Floodplain Systems",14,0.803922,3260,0.6,63.51132
+"11","All Fire","11620_31_39_40",0.019731,"Western Great Plains Floodplain Systems",6,0.803922,12373,2.3,244.131663
+"12","All Fire","11620_31_39_40",0.019731,"Western Great Plains Floodplain Systems",22,0.803922,276,0.1,5.445756
+"13","All Fire","13010_40",0.0120636,"Boreal Aspen-Birch Forest",30,0.219608,21,0,0.2533356
+"14","All Fire","13100_39",0.053523,"North-Central Interior Dry-Mesic Oak Forest and Woodland",37,0.870588,72,0,3.853656
+"15","All Fire","13110_39",0.0784552,"North-Central Interior Dry Oak Forest and Woodland",38,0.560784,6,0,0.4707312
+"16","All Fire","13140_38_39_40_41_42_43_44_50",0.0021822,"North-Central Interior Maple-Basswood Forest",31,0.4,64,0,0.1396608
+"17","All Fire","13310_39_40_41",0.1790012,"Eastern Great Plains Tallgrass Aspen Parkland",17,0,1273,0.2,227.8685276
+"18","All Fire","13850_29_30",0.0527908,"Western Great Plains Wooded Draw and Ravine",19,0,589,0.1,31.0937812
+"19","All Fire","13850_31_39_40_42",0.0308666,"Western Great Plains Wooded Draw and Ravine",7,0,11242,2.1,347.0023172
+"20","All Fire","13850_31_39_40_42",0.0308666,"Western Great Plains Wooded Draw and Ravine",23,0,552,0.1,17.0383632
+"21","All Fire","13940_39_40_41",0.2072644,"North-Central Interior Oak Savanna",21,0.541176,505,0.1,104.668522
+"22","All Fire","13940_39_40_41",0.2072644,"North-Central Interior Oak Savanna",39,0.541176,141,0,29.2242804
+"23","All Fire","14120_39_40_41_42_43_50_51",0.2928476,"North-Central Interior Sand and Gravel Tallgrass Prairie",24,0.615686,644,0.1,188.5938544
+"24","All Fire","14120_39_40_41_42_43_50_51",0.2928476,"North-Central Interior Sand and Gravel Tallgrass Prairie",32,0.615686,196,0,57.3981296
+"25","All Fire","14200_39_40_42",0.1749512,"Northern Tallgrass Prairie",4,0.113725,21679,4,3792.7670648
+"26","All Fire","14200_39_40_42",0.1749512,"Northern Tallgrass Prairie",8,0.113725,10704,2,1872.6776448
+"27","All Fire","14690_31_39_40_43",0.0204168,"Eastern Great Plains Floodplain Systems",15,0.745098,3038,0.6,62.0262384
+"28","All Fire","14690_31_39_40_43",0.0204168,"Eastern Great Plains Floodplain Systems",33,0.745098,165,0,3.368772
+"29","All Fire","14770_40_41_50_51",0.0096418,"Boreal Acidic Peatland Systems",34,0.541176,84,0,0.8099112
+"30","All Fire","14820_30",0.0199046,"Great Plains Prairie Pothole",12,0.639216,4693,0.9,93.4122878
+"31","All Fire","14820_39_40",0.0197828,"Great Plains Prairie Pothole",13,0.639216,3973,0.7,78.5970644
+"32","All Fire","14820_39_40",0.0197828,"Great Plains Prairie Pothole",16,0.639216,1408,0.3,27.8541824
+"33","All Fire","14950_30",0.0203984,"Western Great Plains Depressional Wetland Systems",20,0.611765,370,0.1,7.547408
+"34","All Fire","14950_31_39_40",0.0494932,"Western Great Plains Depressional Wetland Systems",3,0.611765,42357,7.9,2096.3834724
+"35","All Fire","14950_31_39_40",0.0494932,"Western Great Plains Depressional Wetland Systems",11,0.611765,7496,1.4,371.0010272
+"36","All Transitions","10130_31_38_39_40",0.0962898,"Western Great Plains Dry Bur Oak Forest and Woodland",29,0,80,0,7.703184
+"37","All Transitions","10130_31_38_39_40",0.0962898,"Western Great Plains Dry Bur Oak Forest and Woodland",35,0,113,0,10.8807474
+"38","All Transitions","10850_29_30",0.1820426,"Northwestern Great Plains Shrubland",27,0.517647,1,0,0.1820426
+"39","All Transitions","11410_29_30",0.307054,"Northwestern Great Plains Mixedgrass Prairie",9,0.909804,9768,1.8,2999.303472
+"40","All Transitions","11410_39",0.660055,"Northwestern Great Plains Mixedgrass Prairie",5,0.909804,19355,3.6,12775.364525
+"41","All Transitions","11410_40",0.6759748,"Northwestern Great Plains Mixedgrass Prairie",1,0.909804,202682,37.8,137007.9244136
+"42","All Transitions","11480_20_29_30",0.1911714,"Western Great Plains Sand Prairie",28,0.662745,9,0,1.7205426
+"43","All Transitions","11500_31_39_40",0.5945456,"Western Great Plains Tallgrass Prairie",10,0.588235,8723,1.6,5186.2212688
+"44","All Transitions","11500_31_39_40",0.5945456,"Western Great Plains Tallgrass Prairie",36,0.588235,222,0,131.9891232
+"45","All Transitions","11620_29_30",0.0787928,"Western Great Plains Floodplain Systems",14,0.803922,3260,0.6,256.864528
+"46","All Transitions","11620_31_39_40",0.0911832,"Western Great Plains Floodplain Systems",6,0.803922,12373,2.3,1128.2097336
+"47","All Transitions","11620_31_39_40",0.0911832,"Western Great Plains Floodplain Systems",22,0.803922,276,0.1,25.1665632
+"48","All Transitions","13010_40",0.0236062,"Boreal Aspen-Birch Forest",30,0.219608,21,0,0.4957302
+"49","All Transitions","13100_39",0.0816344,"North-Central Interior Dry-Mesic Oak Forest and Woodland",37,0.870588,72,0,5.8776768
+"50","All Transitions","13110_39",0.091914,"North-Central Interior Dry Oak Forest and Woodland",38,0.560784,6,0,0.551484
+"51","All Transitions","13140_38_39_40_41_42_43_44_50",0.142462,"North-Central Interior Maple-Basswood Forest",31,0.4,64,0,9.117568
+"52","All Transitions","13310_39_40_41",0.2205218,"Eastern Great Plains Tallgrass Aspen Parkland",17,0,1273,0.2,280.7242514
+"53","All Transitions","13850_29_30",0.2625634,"Western Great Plains Wooded Draw and Ravine",19,0,589,0.1,154.6498426
+"54","All Transitions","13850_31_39_40_42",0.2885614,"Western Great Plains Wooded Draw and Ravine",7,0,11242,2.1,3244.0072588
+"55","All Transitions","13850_31_39_40_42",0.2885614,"Western Great Plains Wooded Draw and Ravine",23,0,552,0.1,159.2858928
+"56","All Transitions","13940_39_40_41",0.2104982,"North-Central Interior Oak Savanna",21,0.541176,505,0.1,106.301591
+"57","All Transitions","13940_39_40_41",0.2104982,"North-Central Interior Oak Savanna",39,0.541176,141,0,29.6802462
+"58","All Transitions","14120_39_40_41_42_43_50_51",0.3074404,"North-Central Interior Sand and Gravel Tallgrass Prairie",24,0.615686,644,0.1,197.9916176
+"59","All Transitions","14120_39_40_41_42_43_50_51",0.3074404,"North-Central Interior Sand and Gravel Tallgrass Prairie",32,0.615686,196,0,60.2583184
+"60","All Transitions","14200_39_40_42",0.4591252,"Northern Tallgrass Prairie",4,0.113725,21679,4,9953.3752108
+"61","All Transitions","14200_39_40_42",0.4591252,"Northern Tallgrass Prairie",8,0.113725,10704,2,4914.4761408
+"62","All Transitions","14690_31_39_40_43",0.0974352,"Eastern Great Plains Floodplain Systems",15,0.745098,3038,0.6,296.0081376
+"63","All Transitions","14690_31_39_40_43",0.0974352,"Eastern Great Plains Floodplain Systems",33,0.745098,165,0,16.076808
+"64","All Transitions","14770_40_41_50_51",0.0232502,"Boreal Acidic Peatland Systems",34,0.541176,84,0,1.9530168
+"65","All Transitions","14820_30",0.186503,"Great Plains Prairie Pothole",12,0.639216,4693,0.9,875.258579
+"66","All Transitions","14820_39_40",0.2276196,"Great Plains Prairie Pothole",13,0.639216,3973,0.7,904.3326708
+"67","All Transitions","14820_39_40",0.2276196,"Great Plains Prairie Pothole",16,0.639216,1408,0.3,320.4883968
+"68","All Transitions","14950_30",0.1902538,"Western Great Plains Depressional Wetland Systems",20,0.611765,370,0.1,70.393906
+"69","All Transitions","14950_31_39_40",0.3991594,"Western Great Plains Depressional Wetland Systems",3,0.611765,42357,7.9,16907.1947058
+"70","All Transitions","14950_31_39_40",0.3991594,"Western Great Plains Depressional Wetland Systems",11,0.611765,7496,1.4,2992.0988624
+"71","Alternative Succession","10130_31_38_39_40",0.0244016,"Western Great Plains Dry Bur Oak Forest and Woodland",29,0,80,0,1.952128
+"72","Alternative Succession","10130_31_38_39_40",0.0244016,"Western Great Plains Dry Bur Oak Forest and Woodland",35,0,113,0,2.7573808
+"73","Alternative Succession","11410_39",0.0068258,"Northwestern Great Plains Mixedgrass Prairie",5,0.909804,19355,3.6,132.113359
+"74","Alternative Succession","11410_40",0.007052,"Northwestern Great Plains Mixedgrass Prairie",1,0.909804,202682,37.8,1429.313464
+"75","Alternative Succession","11620_29_30",0.0131164,"Western Great Plains Floodplain Systems",14,0.803922,3260,0.6,42.759464
+"76","Alternative Succession","11620_31_39_40",0.0131332,"Western Great Plains Floodplain Systems",6,0.803922,12373,2.3,162.4970836
+"77","Alternative Succession","11620_31_39_40",0.0131332,"Western Great Plains Floodplain Systems",22,0.803922,276,0.1,3.6247632
+"78","Alternative Succession","13100_39",0.0260118,"North-Central Interior Dry-Mesic Oak Forest and Woodland",37,0.870588,72,0,1.8728496
+"79","Alternative Succession","13110_39",0.003326,"North-Central Interior Dry Oak Forest and Woodland",38,0.560784,6,0,0.019956
+"80","Alternative Succession","13940_39_40_41",0.0012218,"North-Central Interior Oak Savanna",21,0.541176,505,0.1,0.617009
+"81","Alternative Succession","13940_39_40_41",0.0012218,"North-Central Interior Oak Savanna",39,0.541176,141,0,0.1722738
+"82","Alternative Succession","14120_39_40_41_42_43_50_51",0.008124,"North-Central Interior Sand and Gravel Tallgrass Prairie",24,0.615686,644,0.1,5.231856
+"83","Alternative Succession","14120_39_40_41_42_43_50_51",0.008124,"North-Central Interior Sand and Gravel Tallgrass Prairie",32,0.615686,196,0,1.592304
+"84","Alternative Succession","14690_31_39_40_43",0.012826,"Eastern Great Plains Floodplain Systems",15,0.745098,3038,0.6,38.965388
+"85","Alternative Succession","14690_31_39_40_43",0.012826,"Eastern Great Plains Floodplain Systems",33,0.745098,165,0,2.11629
+"86","Insect or Disease","11410_29_30",7.96e-05,"Northwestern Great Plains Mixedgrass Prairie",9,0.909804,9768,1.8,0.7775328
+"87","Insect or Disease","13010_40",0.0115426,"Boreal Aspen-Birch Forest",30,0.219608,21,0,0.2423946
+"88","Insect or Disease","13850_29_30",0.0683856,"Western Great Plains Wooded Draw and Ravine",19,0,589,0.1,40.2791184
+"89","Insect or Disease","14770_40_41_50_51",0.0016394,"Boreal Acidic Peatland Systems",34,0.541176,84,0,0.1377096
+"90","Mixed Fire","10130_31_38_39_40",0.0229922,"Western Great Plains Dry Bur Oak Forest and Woodland",29,0,80,0,1.839376
+"91","Mixed Fire","10130_31_38_39_40",0.0229922,"Western Great Plains Dry Bur Oak Forest and Woodland",35,0,113,0,2.5981186
+"92","Mixed Fire","11620_29_30",0.0067498,"Western Great Plains Floodplain Systems",14,0.803922,3260,0.6,22.004348
+"93","Mixed Fire","11620_31_39_40",0.010506,"Western Great Plains Floodplain Systems",6,0.803922,12373,2.3,129.990738
+"94","Mixed Fire","11620_31_39_40",0.010506,"Western Great Plains Floodplain Systems",22,0.803922,276,0.1,2.899656
+"95","Mixed Fire","13100_39",0.0232862,"North-Central Interior Dry-Mesic Oak Forest and Woodland",37,0.870588,72,0,1.6766064
+"96","Mixed Fire","13110_39",0.0117838,"North-Central Interior Dry Oak Forest and Woodland",38,0.560784,6,0,0.0707028
+"97","Mixed Fire","13850_29_30",0.0262786,"Western Great Plains Wooded Draw and Ravine",19,0,589,0.1,15.4780954
+"98","Mixed Fire","13850_31_39_40_42",0.015465,"Western Great Plains Wooded Draw and Ravine",7,0,11242,2.1,173.85753
+"99","Mixed Fire","13850_31_39_40_42",0.015465,"Western Great Plains Wooded Draw and Ravine",23,0,552,0.1,8.53668
+"100","Mixed Fire","13940_39_40_41",0.0060802,"North-Central Interior Oak Savanna",21,0.541176,505,0.1,3.070501
+"101","Mixed Fire","13940_39_40_41",0.0060802,"North-Central Interior Oak Savanna",39,0.541176,141,0,0.8573082
+"102","Mixed Fire","14690_31_39_40_43",0.012798,"Eastern Great Plains Floodplain Systems",15,0.745098,3038,0.6,38.880324
+"103","Mixed Fire","14690_31_39_40_43",0.012798,"Eastern Great Plains Floodplain Systems",33,0.745098,165,0,2.11167
+"104","Native Grazing","10130_31_38_39_40",0.0035118,"Western Great Plains Dry Bur Oak Forest and Woodland",29,0,80,0,0.280944
+"105","Native Grazing","10130_31_38_39_40",0.0035118,"Western Great Plains Dry Bur Oak Forest and Woodland",35,0,113,0,0.3968334
+"106","Native Grazing","10850_29_30",0.0498074,"Northwestern Great Plains Shrubland",27,0.517647,1,0,0.0498074
+"107","Native Grazing","11410_29_30",0.1729468,"Northwestern Great Plains Mixedgrass Prairie",9,0.909804,9768,1.8,1689.3443424
+"108","Native Grazing","11410_39",0.2883784,"Northwestern Great Plains Mixedgrass Prairie",5,0.909804,19355,3.6,5581.563932
+"109","Native Grazing","11410_40",0.2951052,"Northwestern Great Plains Mixedgrass Prairie",1,0.909804,202682,37.8,59812.5121464
+"110","Native Grazing","11480_20_29_30",0.1438714,"Western Great Plains Sand Prairie",28,0.662745,9,0,1.2948426
+"111","Native Grazing","11500_31_39_40",0.371051,"Western Great Plains Tallgrass Prairie",10,0.588235,8723,1.6,3236.677873
+"112","Native Grazing","11500_31_39_40",0.371051,"Western Great Plains Tallgrass Prairie",36,0.588235,222,0,82.373322
+"113","Native Grazing","13100_39",0.0015678,"North-Central Interior Dry-Mesic Oak Forest and Woodland",37,0.870588,72,0,0.1128816
+"114","Native Grazing","13110_39",0.0084148,"North-Central Interior Dry Oak Forest and Woodland",38,0.560784,6,0,0.0504888
+"115","Native Grazing","13310_39_40_41",0.0308634,"Eastern Great Plains Tallgrass Aspen Parkland",17,0,1273,0.2,39.2891082
+"116","Native Grazing","13850_29_30",0.0413044,"Western Great Plains Wooded Draw and Ravine",19,0,589,0.1,24.3282916
+"117","Native Grazing","13850_31_39_40_42",0.1577748,"Western Great Plains Wooded Draw and Ravine",7,0,11242,2.1,1773.7043016
+"118","Native Grazing","13850_31_39_40_42",0.1577748,"Western Great Plains Wooded Draw and Ravine",23,0,552,0.1,87.0916896
+"119","Native Grazing","13940_39_40_41",0.000983,"North-Central Interior Oak Savanna",21,0.541176,505,0.1,0.496415
+"120","Native Grazing","13940_39_40_41",0.000983,"North-Central Interior Oak Savanna",39,0.541176,141,0,0.138603
+"121","Native Grazing","14200_39_40_42",0.284174,"Northern Tallgrass Prairie",4,0.113725,21679,4,6160.608146
+"122","Native Grazing","14200_39_40_42",0.284174,"Northern Tallgrass Prairie",8,0.113725,10704,2,3041.798496
+"123","Native Grazing","14820_30",0.1665984,"Great Plains Prairie Pothole",12,0.639216,4693,0.9,781.8462912
+"124","Native Grazing","14820_39_40",0.1583818,"Great Plains Prairie Pothole",13,0.639216,3973,0.7,629.2508914
+"125","Native Grazing","14820_39_40",0.1583818,"Great Plains Prairie Pothole",16,0.639216,1408,0.3,223.0015744
+"126","Native Grazing","14950_30",0.1698554,"Western Great Plains Depressional Wetland Systems",20,0.611765,370,0.1,62.846498
+"127","Native Grazing","14950_31_39_40",0.1519744,"Western Great Plains Depressional Wetland Systems",3,0.611765,42357,7.9,6437.1796608
+"128","Native Grazing","14950_31_39_40",0.1519744,"Western Great Plains Depressional Wetland Systems",11,0.611765,7496,1.4,1139.2001024
+"129","Non Fire Disturbances","10130_31_38_39_40",0.0119766,"Western Great Plains Dry Bur Oak Forest and Woodland",29,0,80,0,0.958128
+"130","Non Fire Disturbances","10130_31_38_39_40",0.0119766,"Western Great Plains Dry Bur Oak Forest and Woodland",35,0,113,0,1.3533558
+"131","Non Fire Disturbances","10850_29_30",0.1161796,"Northwestern Great Plains Shrubland",27,0.517647,1,0,0.1161796
+"132","Non Fire Disturbances","11410_29_30",0.2331088,"Northwestern Great Plains Mixedgrass Prairie",9,0.909804,9768,1.8,2277.0067584
+"133","Non Fire Disturbances","11410_39",0.5284582,"Northwestern Great Plains Mixedgrass Prairie",5,0.909804,19355,3.6,10228.308461
+"134","Non Fire Disturbances","11410_40",0.5410294,"Northwestern Great Plains Mixedgrass Prairie",1,0.909804,202682,37.8,109656.9208508
+"135","Non Fire Disturbances","11480_20_29_30",0.1445536,"Western Great Plains Sand Prairie",28,0.662745,9,0,1.3009824
+"136","Non Fire Disturbances","11500_31_39_40",0.3957708,"Western Great Plains Tallgrass Prairie",10,0.588235,8723,1.6,3452.3086884
+"137","Non Fire Disturbances","11500_31_39_40",0.3957708,"Western Great Plains Tallgrass Prairie",36,0.588235,222,0,87.8611176
+"138","Non Fire Disturbances","11620_29_30",0.0461944,"Western Great Plains Floodplain Systems",14,0.803922,3260,0.6,150.593744
+"139","Non Fire Disturbances","11620_31_39_40",0.058319,"Western Great Plains Floodplain Systems",6,0.803922,12373,2.3,721.580987
+"140","Non Fire Disturbances","11620_31_39_40",0.058319,"Western Great Plains Floodplain Systems",22,0.803922,276,0.1,16.096044
+"141","Non Fire Disturbances","13010_40",0.0115426,"Boreal Aspen-Birch Forest",30,0.219608,21,0,0.2423946
+"142","Non Fire Disturbances","13100_39",0.0020996,"North-Central Interior Dry-Mesic Oak Forest and Woodland",37,0.870588,72,0,0.1511712
+"143","Non Fire Disturbances","13110_39",0.0101328,"North-Central Interior Dry Oak Forest and Woodland",38,0.560784,6,0,0.0607968
+"144","Non Fire Disturbances","13140_38_39_40_41_42_43_44_50",0.1402798,"North-Central Interior Maple-Basswood Forest",31,0.4,64,0,8.9779072
+"145","Non Fire Disturbances","13310_39_40_41",0.0415206,"Eastern Great Plains Tallgrass Aspen Parkland",17,0,1273,0.2,52.8557238
+"146","Non Fire Disturbances","13850_29_30",0.2097726,"Western Great Plains Wooded Draw and Ravine",19,0,589,0.1,123.5560614
+"147","Non Fire Disturbances","13850_31_39_40_42",0.2576948,"Western Great Plains Wooded Draw and Ravine",7,0,11242,2.1,2897.0049416
+"148","Non Fire Disturbances","13850_31_39_40_42",0.2576948,"Western Great Plains Wooded Draw and Ravine",23,0,552,0.1,142.2475296
+"149","Non Fire Disturbances","13940_39_40_41",0.002012,"North-Central Interior Oak Savanna",21,0.541176,505,0.1,1.01606
+"150","Non Fire Disturbances","13940_39_40_41",0.002012,"North-Central Interior Oak Savanna",39,0.541176,141,0,0.283692
+"151","Non Fire Disturbances","14120_39_40_41_42_43_50_51",0.0064688,"North-Central Interior Sand and Gravel Tallgrass Prairie",24,0.615686,644,0.1,4.1659072
+"152","Non Fire Disturbances","14120_39_40_41_42_43_50_51",0.0064688,"North-Central Interior Sand and Gravel Tallgrass Prairie",32,0.615686,196,0,1.2678848
+"153","Non Fire Disturbances","14200_39_40_42",0.284174,"Northern Tallgrass Prairie",4,0.113725,21679,4,6160.608146
+"154","Non Fire Disturbances","14200_39_40_42",0.284174,"Northern Tallgrass Prairie",8,0.113725,10704,2,3041.798496
+"155","Non Fire Disturbances","14690_31_39_40_43",0.0641924,"Eastern Great Plains Floodplain Systems",15,0.745098,3038,0.6,195.0165112
+"156","Non Fire Disturbances","14690_31_39_40_43",0.0641924,"Eastern Great Plains Floodplain Systems",33,0.745098,165,0,10.591746
+"157","Non Fire Disturbances","14770_40_41_50_51",0.0136084,"Boreal Acidic Peatland Systems",34,0.541176,84,0,1.1431056
+"158","Non Fire Disturbances","14820_30",0.1665984,"Great Plains Prairie Pothole",12,0.639216,4693,0.9,781.8462912
+"159","Non Fire Disturbances","14820_39_40",0.2078368,"Great Plains Prairie Pothole",13,0.639216,3973,0.7,825.7356064
+"160","Non Fire Disturbances","14820_39_40",0.2078368,"Great Plains Prairie Pothole",16,0.639216,1408,0.3,292.6342144
+"161","Non Fire Disturbances","14950_30",0.1698554,"Western Great Plains Depressional Wetland Systems",20,0.611765,370,0.1,62.846498
+"162","Non Fire Disturbances","14950_31_39_40",0.3496662,"Western Great Plains Depressional Wetland Systems",3,0.611765,42357,7.9,14810.8112334
+"163","Non Fire Disturbances","14950_31_39_40",0.3496662,"Western Great Plains Depressional Wetland Systems",11,0.611765,7496,1.4,2621.0978352
+"164","Non Replacement Fire","10130_31_38_39_40",0.0565178,"Western Great Plains Dry Bur Oak Forest and Woodland",29,0,80,0,4.521424
+"165","Non Replacement Fire","10130_31_38_39_40",0.0565178,"Western Great Plains Dry Bur Oak Forest and Woodland",35,0,113,0,6.3865114
+"166","Non Replacement Fire","11500_31_39_40",0.0040696,"Western Great Plains Tallgrass Prairie",10,0.588235,8723,1.6,35.4991208
+"167","Non Replacement Fire","11500_31_39_40",0.0040696,"Western Great Plains Tallgrass Prairie",36,0.588235,222,0,0.9034512
+"168","Non Replacement Fire","11620_29_30",0.0106544,"Western Great Plains Floodplain Systems",14,0.803922,3260,0.6,34.733344
+"169","Non Replacement Fire","11620_31_39_40",0.0155708,"Western Great Plains Floodplain Systems",6,0.803922,12373,2.3,192.6575084
+"170","Non Replacement Fire","11620_31_39_40",0.0155708,"Western Great Plains Floodplain Systems",22,0.803922,276,0.1,4.2975408
+"171","Non Replacement Fire","13100_39",0.044694,"North-Central Interior Dry-Mesic Oak Forest and Woodland",37,0.870588,72,0,3.217968
+"172","Non Replacement Fire","13110_39",0.065382,"North-Central Interior Dry Oak Forest and Woodland",38,0.560784,6,0,0.392292
+"173","Non Replacement Fire","13140_38_39_40_41_42_43_44_50",0.0011924,"North-Central Interior Maple-Basswood Forest",31,0.4,64,0,0.0763136
+"174","Non Replacement Fire","13310_39_40_41",0.116715,"Eastern Great Plains Tallgrass Aspen Parkland",17,0,1273,0.2,148.578195
+"175","Non Replacement Fire","13850_29_30",0.0389024,"Western Great Plains Wooded Draw and Ravine",19,0,589,0.1,22.9135136
+"176","Non Replacement Fire","13850_31_39_40_42",0.019786,"Western Great Plains Wooded Draw and Ravine",7,0,11242,2.1,222.434212
+"177","Non Replacement Fire","13850_31_39_40_42",0.019786,"Western Great Plains Wooded Draw and Ravine",23,0,552,0.1,10.921872
+"178","Non Replacement Fire","13940_39_40_41",0.2053086,"North-Central Interior Oak Savanna",21,0.541176,505,0.1,103.680843
+"179","Non Replacement Fire","13940_39_40_41",0.2053086,"North-Central Interior Oak Savanna",39,0.541176,141,0,28.9485126
+"180","Non Replacement Fire","14120_39_40_41_42_43_50_51",0.011561,"North-Central Interior Sand and Gravel Tallgrass Prairie",24,0.615686,644,0.1,7.445284
+"181","Non Replacement Fire","14120_39_40_41_42_43_50_51",0.011561,"North-Central Interior Sand and Gravel Tallgrass Prairie",32,0.615686,196,0,2.265956
+"182","Non Replacement Fire","14690_31_39_40_43",0.0184556,"Eastern Great Plains Floodplain Systems",15,0.745098,3038,0.6,56.0681128
+"183","Non Replacement Fire","14690_31_39_40_43",0.0184556,"Eastern Great Plains Floodplain Systems",33,0.745098,165,0,3.045174
+"184","Non Replacement Fire","14770_40_41_50_51",0.0082316,"Boreal Acidic Peatland Systems",34,0.541176,84,0,0.6914544
+"185","Optional 1","10130_31_38_39_40",0.0017278,"Western Great Plains Dry Bur Oak Forest and Woodland",29,0,80,0,0.138224
+"186","Optional 1","10130_31_38_39_40",0.0017278,"Western Great Plains Dry Bur Oak Forest and Woodland",35,0,113,0,0.1952414
+"187","Optional 1","10850_29_30",0.0019194,"Northwestern Great Plains Shrubland",27,0.517647,1,0,0.0019194
+"188","Optional 1","11410_29_30",0.0009978,"Northwestern Great Plains Mixedgrass Prairie",9,0.909804,9768,1.8,9.7465104
+"189","Optional 1","11410_39",0.2208238,"Northwestern Great Plains Mixedgrass Prairie",5,0.909804,19355,3.6,4274.044649
+"190","Optional 1","11410_40",0.2262328,"Northwestern Great Plains Mixedgrass Prairie",1,0.909804,202682,37.8,45853.3163696
+"191","Optional 1","11480_20_29_30",0.0006822,"Western Great Plains Sand Prairie",28,0.662745,9,0,0.0061398
+"192","Optional 1","11620_29_30",0.0067392,"Western Great Plains Floodplain Systems",14,0.803922,3260,0.6,21.969792
+"193","Optional 1","11620_31_39_40",0.0078648,"Western Great Plains Floodplain Systems",6,0.803922,12373,2.3,97.3111704
+"194","Optional 1","11620_31_39_40",0.0078648,"Western Great Plains Floodplain Systems",22,0.803922,276,0.1,2.1706848
+"195","Optional 1","13850_29_30",0.1000826,"Western Great Plains Wooded Draw and Ravine",19,0,589,0.1,58.9486514
+"196","Optional 1","13850_31_39_40_42",0.09992,"Western Great Plains Wooded Draw and Ravine",7,0,11242,2.1,1123.30064
+"197","Optional 1","13850_31_39_40_42",0.09992,"Western Great Plains Wooded Draw and Ravine",23,0,552,0.1,55.15584
+"198","Optional 1","14690_31_39_40_43",0.008468,"Eastern Great Plains Floodplain Systems",15,0.745098,3038,0.6,25.725784
+"199","Optional 1","14690_31_39_40_43",0.008468,"Eastern Great Plains Floodplain Systems",33,0.745098,165,0,1.39722
+"200","Optional 1","14770_40_41_50_51",0.009123,"Boreal Acidic Peatland Systems",34,0.541176,84,0,0.766332
+"201","Optional 1","14820_39_40",0.009927,"Great Plains Prairie Pothole",13,0.639216,3973,0.7,39.439971
+"202","Optional 1","14820_39_40",0.009927,"Great Plains Prairie Pothole",16,0.639216,1408,0.3,13.977216
+"203","Optional 1","14950_31_39_40",0.0988502,"Western Great Plains Depressional Wetland Systems",3,0.611765,42357,7.9,4186.9979214
+"204","Optional 1","14950_31_39_40",0.0988502,"Western Great Plains Depressional Wetland Systems",11,0.611765,7496,1.4,740.9810992
+"205","Optional 2","10850_29_30",0.014914,"Northwestern Great Plains Shrubland",27,0.517647,1,0,0.014914
+"206","Optional 2","11410_29_30",0.026835,"Northwestern Great Plains Mixedgrass Prairie",9,0.909804,9768,1.8,262.12428
+"207","Optional 2","11410_39",0.0071346,"Northwestern Great Plains Mixedgrass Prairie",5,0.909804,19355,3.6,138.090183
+"208","Optional 2","11410_40",0.0072974,"Northwestern Great Plains Mixedgrass Prairie",1,0.909804,202682,37.8,1479.0516268
+"209","Optional 2","11620_29_30",0.001284,"Western Great Plains Floodplain Systems",14,0.803922,3260,0.6,4.18584
+"210","Optional 2","11620_31_39_40",0.002125,"Western Great Plains Floodplain Systems",6,0.803922,12373,2.3,26.292625
+"211","Optional 2","11620_31_39_40",0.002125,"Western Great Plains Floodplain Systems",22,0.803922,276,0.1,0.5865
+"212","Optional 2","14690_31_39_40_43",0.0020816,"Eastern Great Plains Floodplain Systems",15,0.745098,3038,0.6,6.3239008
+"213","Optional 2","14690_31_39_40_43",0.0020816,"Eastern Great Plains Floodplain Systems",33,0.745098,165,0,0.343464
+"214","Optional 2","14820_39_40",0.0197494,"Great Plains Prairie Pothole",13,0.639216,3973,0.7,78.4643662
+"215","Optional 2","14820_39_40",0.0197494,"Great Plains Prairie Pothole",16,0.639216,1408,0.3,27.8071552
+"216","Optional Types","10130_31_38_39_40",0.0017278,"Western Great Plains Dry Bur Oak Forest and Woodland",29,0,80,0,0.138224
+"217","Optional Types","10130_31_38_39_40",0.0017278,"Western Great Plains Dry Bur Oak Forest and Woodland",35,0,113,0,0.1952414
+"218","Optional Types","10850_29_30",0.0168334,"Northwestern Great Plains Shrubland",27,0.517647,1,0,0.0168334
+"219","Optional Types","11410_29_30",0.0278328,"Northwestern Great Plains Mixedgrass Prairie",9,0.909804,9768,1.8,271.8707904
+"220","Optional Types","11410_39",0.2279584,"Northwestern Great Plains Mixedgrass Prairie",5,0.909804,19355,3.6,4412.134832
+"221","Optional Types","11410_40",0.2335302,"Northwestern Great Plains Mixedgrass Prairie",1,0.909804,202682,37.8,47332.3679964
+"222","Optional Types","11480_20_29_30",0.0006822,"Western Great Plains Sand Prairie",28,0.662745,9,0,0.0061398
+"223","Optional Types","11620_29_30",0.0080232,"Western Great Plains Floodplain Systems",14,0.803922,3260,0.6,26.155632
+"224","Optional Types","11620_31_39_40",0.0099898,"Western Great Plains Floodplain Systems",6,0.803922,12373,2.3,123.6037954
+"225","Optional Types","11620_31_39_40",0.0099898,"Western Great Plains Floodplain Systems",22,0.803922,276,0.1,2.7571848
+"226","Optional Types","13850_29_30",0.1000826,"Western Great Plains Wooded Draw and Ravine",19,0,589,0.1,58.9486514
+"227","Optional Types","13850_31_39_40_42",0.09992,"Western Great Plains Wooded Draw and Ravine",7,0,11242,2.1,1123.30064
+"228","Optional Types","13850_31_39_40_42",0.09992,"Western Great Plains Wooded Draw and Ravine",23,0,552,0.1,55.15584
+"229","Optional Types","14690_31_39_40_43",0.0105496,"Eastern Great Plains Floodplain Systems",15,0.745098,3038,0.6,32.0496848
+"230","Optional Types","14690_31_39_40_43",0.0105496,"Eastern Great Plains Floodplain Systems",33,0.745098,165,0,1.740684
+"231","Optional Types","14770_40_41_50_51",0.009123,"Boreal Acidic Peatland Systems",34,0.541176,84,0,0.766332
+"232","Optional Types","14820_39_40",0.0296764,"Great Plains Prairie Pothole",13,0.639216,3973,0.7,117.9043372
+"233","Optional Types","14820_39_40",0.0296764,"Great Plains Prairie Pothole",16,0.639216,1408,0.3,41.7843712
+"234","Optional Types","14950_31_39_40",0.0988502,"Western Great Plains Depressional Wetland Systems",3,0.611765,42357,7.9,4186.9979214
+"235","Optional Types","14950_31_39_40",0.0988502,"Western Great Plains Depressional Wetland Systems",11,0.611765,7496,1.4,740.9810992
+"236","Replacement Fire","10130_31_38_39_40",0.0033938,"Western Great Plains Dry Bur Oak Forest and Woodland",29,0,80,0,0.271504
+"237","Replacement Fire","10130_31_38_39_40",0.0033938,"Western Great Plains Dry Bur Oak Forest and Woodland",35,0,113,0,0.3834994
+"238","Replacement Fire","10850_29_30",0.065863,"Northwestern Great Plains Shrubland",27,0.517647,1,0,0.065863
+"239","Replacement Fire","11410_29_30",0.0739452,"Northwestern Great Plains Mixedgrass Prairie",9,0.909804,9768,1.8,722.2967136
+"240","Replacement Fire","11410_39",0.124771,"Northwestern Great Plains Mixedgrass Prairie",5,0.909804,19355,3.6,2414.942705
+"241","Replacement Fire","11410_40",0.1278934,"Northwestern Great Plains Mixedgrass Prairie",1,0.909804,202682,37.8,25921.6900988
+"242","Replacement Fire","11480_20_29_30",0.0466178,"Western Great Plains Sand Prairie",28,0.662745,9,0,0.4195602
+"243","Replacement Fire","11500_31_39_40",0.1947052,"Western Great Plains Tallgrass Prairie",10,0.588235,8723,1.6,1698.4134596
+"244","Replacement Fire","11500_31_39_40",0.1947052,"Western Great Plains Tallgrass Prairie",36,0.588235,222,0,43.2245544
+"245","Replacement Fire","11620_29_30",0.0088276,"Western Great Plains Floodplain Systems",14,0.803922,3260,0.6,28.777976
+"246","Replacement Fire","11620_31_39_40",0.0041602,"Western Great Plains Floodplain Systems",6,0.803922,12373,2.3,51.4741546
+"247","Replacement Fire","11620_31_39_40",0.0041602,"Western Great Plains Floodplain Systems",22,0.803922,276,0.1,1.1482152
+"248","Replacement Fire","13010_40",0.0120636,"Boreal Aspen-Birch Forest",30,0.219608,21,0,0.2533356
+"249","Replacement Fire","13100_39",0.008829,"North-Central Interior Dry-Mesic Oak Forest and Woodland",37,0.870588,72,0,0.635688
+"250","Replacement Fire","13110_39",0.0130732,"North-Central Interior Dry Oak Forest and Woodland",38,0.560784,6,0,0.0784392
+"251","Replacement Fire","13140_38_39_40_41_42_43_44_50",0.0009898,"North-Central Interior Maple-Basswood Forest",31,0.4,64,0,0.0633472
+"252","Replacement Fire","13310_39_40_41",0.0622862,"Eastern Great Plains Tallgrass Aspen Parkland",17,0,1273,0.2,79.2903326
+"253","Replacement Fire","13850_29_30",0.0138884,"Western Great Plains Wooded Draw and Ravine",19,0,589,0.1,8.1802676
+"254","Replacement Fire","13850_31_39_40_42",0.0110806,"Western Great Plains Wooded Draw and Ravine",7,0,11242,2.1,124.5681052
+"255","Replacement Fire","13850_31_39_40_42",0.0110806,"Western Great Plains Wooded Draw and Ravine",23,0,552,0.1,6.1164912
+"256","Replacement Fire","13940_39_40_41",0.0019558,"North-Central Interior Oak Savanna",21,0.541176,505,0.1,0.987679
+"257","Replacement Fire","13940_39_40_41",0.0019558,"North-Central Interior Oak Savanna",39,0.541176,141,0,0.2757678
+"258","Replacement Fire","14120_39_40_41_42_43_50_51",0.2812866,"North-Central Interior Sand and Gravel Tallgrass Prairie",24,0.615686,644,0.1,181.1485704
+"259","Replacement Fire","14120_39_40_41_42_43_50_51",0.2812866,"North-Central Interior Sand and Gravel Tallgrass Prairie",32,0.615686,196,0,55.1321736
+"260","Replacement Fire","14200_39_40_42",0.1749512,"Northern Tallgrass Prairie",4,0.113725,21679,4,3792.7670648
+"261","Replacement Fire","14200_39_40_42",0.1749512,"Northern Tallgrass Prairie",8,0.113725,10704,2,1872.6776448
+"262","Replacement Fire","14690_31_39_40_43",0.0019612,"Eastern Great Plains Floodplain Systems",15,0.745098,3038,0.6,5.9581256
+"263","Replacement Fire","14690_31_39_40_43",0.0019612,"Eastern Great Plains Floodplain Systems",33,0.745098,165,0,0.323598
+"264","Replacement Fire","14770_40_41_50_51",0.0014102,"Boreal Acidic Peatland Systems",34,0.541176,84,0,0.1184568
+"265","Replacement Fire","14820_30",0.0199046,"Great Plains Prairie Pothole",12,0.639216,4693,0.9,93.4122878
+"266","Replacement Fire","14820_39_40",0.0197828,"Great Plains Prairie Pothole",13,0.639216,3973,0.7,78.5970644
+"267","Replacement Fire","14820_39_40",0.0197828,"Great Plains Prairie Pothole",16,0.639216,1408,0.3,27.8541824
+"268","Replacement Fire","14950_30",0.0203984,"Western Great Plains Depressional Wetland Systems",20,0.611765,370,0.1,7.547408
+"269","Replacement Fire","14950_31_39_40",0.0494932,"Western Great Plains Depressional Wetland Systems",3,0.611765,42357,7.9,2096.3834724
+"270","Replacement Fire","14950_31_39_40",0.0494932,"Western Great Plains Depressional Wetland Systems",11,0.611765,7496,1.4,371.0010272
+"271","Surface Fire","10130_31_38_39_40",0.0335256,"Western Great Plains Dry Bur Oak Forest and Woodland",29,0,80,0,2.682048
+"272","Surface Fire","10130_31_38_39_40",0.0335256,"Western Great Plains Dry Bur Oak Forest and Woodland",35,0,113,0,3.7883928
+"273","Surface Fire","11500_31_39_40",0.0040696,"Western Great Plains Tallgrass Prairie",10,0.588235,8723,1.6,35.4991208
+"274","Surface Fire","11500_31_39_40",0.0040696,"Western Great Plains Tallgrass Prairie",36,0.588235,222,0,0.9034512
+"275","Surface Fire","11620_29_30",0.0039046,"Western Great Plains Floodplain Systems",14,0.803922,3260,0.6,12.728996
+"276","Surface Fire","11620_31_39_40",0.0050648,"Western Great Plains Floodplain Systems",6,0.803922,12373,2.3,62.6667704
+"277","Surface Fire","11620_31_39_40",0.0050648,"Western Great Plains Floodplain Systems",22,0.803922,276,0.1,1.3978848
+"278","Surface Fire","13100_39",0.0214078,"North-Central Interior Dry-Mesic Oak Forest and Woodland",37,0.870588,72,0,1.5413616
+"279","Surface Fire","13110_39",0.0535982,"North-Central Interior Dry Oak Forest and Woodland",38,0.560784,6,0,0.3215892
+"280","Surface Fire","13140_38_39_40_41_42_43_44_50",0.0011924,"North-Central Interior Maple-Basswood Forest",31,0.4,64,0,0.0763136
+"281","Surface Fire","13310_39_40_41",0.116715,"Eastern Great Plains Tallgrass Aspen Parkland",17,0,1273,0.2,148.578195
+"282","Surface Fire","13850_29_30",0.0126238,"Western Great Plains Wooded Draw and Ravine",19,0,589,0.1,7.4354182
+"283","Surface Fire","13850_31_39_40_42",0.004321,"Western Great Plains Wooded Draw and Ravine",7,0,11242,2.1,48.576682
+"284","Surface Fire","13850_31_39_40_42",0.004321,"Western Great Plains Wooded Draw and Ravine",23,0,552,0.1,2.385192
+"285","Surface Fire","13940_39_40_41",0.1992284,"North-Central Interior Oak Savanna",21,0.541176,505,0.1,100.610342
+"286","Surface Fire","13940_39_40_41",0.1992284,"North-Central Interior Oak Savanna",39,0.541176,141,0,28.0912044
+"287","Surface Fire","14120_39_40_41_42_43_50_51",0.011561,"North-Central Interior Sand and Gravel Tallgrass Prairie",24,0.615686,644,0.1,7.445284
+"288","Surface Fire","14120_39_40_41_42_43_50_51",0.011561,"North-Central Interior Sand and Gravel Tallgrass Prairie",32,0.615686,196,0,2.265956
+"289","Surface Fire","14690_31_39_40_43",0.0056576,"Eastern Great Plains Floodplain Systems",15,0.745098,3038,0.6,17.1877888
+"290","Surface Fire","14690_31_39_40_43",0.0056576,"Eastern Great Plains Floodplain Systems",33,0.745098,165,0,0.933504
+"291","Surface Fire","14770_40_41_50_51",0.0082316,"Boreal Acidic Peatland Systems",34,0.541176,84,0,0.6914544
+"292","Wind or Weather or Stress","10130_31_38_39_40",0.006737,"Western Great Plains Dry Bur Oak Forest and Woodland",29,0,80,0,0.53896
+"293","Wind or Weather or Stress","10130_31_38_39_40",0.006737,"Western Great Plains Dry Bur Oak Forest and Woodland",35,0,113,0,0.761281
+"294","Wind or Weather or Stress","10850_29_30",0.0495388,"Northwestern Great Plains Shrubland",27,0.517647,1,0,0.0495388
+"295","Wind or Weather or Stress","11410_29_30",0.0322496,"Northwestern Great Plains Mixedgrass Prairie",9,0.909804,9768,1.8,315.0140928
+"296","Wind or Weather or Stress","11410_39",0.0121214,"Northwestern Great Plains Mixedgrass Prairie",5,0.909804,19355,3.6,234.609697
+"297","Wind or Weather or Stress","11410_40",0.012394,"Northwestern Great Plains Mixedgrass Prairie",1,0.909804,202682,37.8,2512.040708
+"298","Wind or Weather or Stress","11500_31_39_40",0.0247198,"Western Great Plains Tallgrass Prairie",10,0.588235,8723,1.6,215.6308154
+"299","Wind or Weather or Stress","11500_31_39_40",0.0247198,"Western Great Plains Tallgrass Prairie",36,0.588235,222,0,5.4877956
+"300","Wind or Weather or Stress","11620_29_30",0.0381712,"Western Great Plains Floodplain Systems",14,0.803922,3260,0.6,124.438112
+"301","Wind or Weather or Stress","11620_31_39_40",0.0483292,"Western Great Plains Floodplain Systems",6,0.803922,12373,2.3,597.9771916
+"302","Wind or Weather or Stress","11620_31_39_40",0.0483292,"Western Great Plains Floodplain Systems",22,0.803922,276,0.1,13.3388592
+"303","Wind or Weather or Stress","13100_39",0.0005318,"North-Central Interior Dry-Mesic Oak Forest and Woodland",37,0.870588,72,0,0.0382896
+"304","Wind or Weather or Stress","13110_39",0.001718,"North-Central Interior Dry Oak Forest and Woodland",38,0.560784,6,0,0.010308
+"305","Wind or Weather or Stress","13140_38_39_40_41_42_43_44_50",0.1402798,"North-Central Interior Maple-Basswood Forest",31,0.4,64,0,8.9779072
+"306","Wind or Weather or Stress","13310_39_40_41",0.0106572,"Eastern Great Plains Tallgrass Aspen Parkland",17,0,1273,0.2,13.5666156
+"307","Wind or Weather or Stress","13940_39_40_41",0.001029,"North-Central Interior Oak Savanna",21,0.541176,505,0.1,0.519645
+"308","Wind or Weather or Stress","13940_39_40_41",0.001029,"North-Central Interior Oak Savanna",39,0.541176,141,0,0.145089
+"309","Wind or Weather or Stress","14120_39_40_41_42_43_50_51",0.0064688,"North-Central Interior Sand and Gravel Tallgrass Prairie",24,0.615686,644,0.1,4.1659072
+"310","Wind or Weather or Stress","14120_39_40_41_42_43_50_51",0.0064688,"North-Central Interior Sand and Gravel Tallgrass Prairie",32,0.615686,196,0,1.2678848
+"311","Wind or Weather or Stress","14690_31_39_40_43",0.0536428,"Eastern Great Plains Floodplain Systems",15,0.745098,3038,0.6,162.9668264
+"312","Wind or Weather or Stress","14690_31_39_40_43",0.0536428,"Eastern Great Plains Floodplain Systems",33,0.745098,165,0,8.851062
+"313","Wind or Weather or Stress","14770_40_41_50_51",0.002846,"Boreal Acidic Peatland Systems",34,0.541176,84,0,0.239064
+"314","Wind or Weather or Stress","14820_39_40",0.0197786,"Great Plains Prairie Pothole",13,0.639216,3973,0.7,78.5803778
+"315","Wind or Weather or Stress","14820_39_40",0.0197786,"Great Plains Prairie Pothole",16,0.639216,1408,0.3,27.8482688
+"316","Wind or Weather or Stress","14950_31_39_40",0.0988416,"Western Great Plains Depressional Wetland Systems",3,0.611765,42357,7.9,4186.6336512
+"317","Wind or Weather or Stress","14950_31_39_40",0.0988416,"Western Great Plains Depressional Wetland Systems",11,0.611765,7496,1.4,740.9166336

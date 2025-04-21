@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+
   preview: 
     watch-inputs: false
 
@@ -23,6 +24,7 @@ website:
       - href: about.qmd
         text: About
 
+
 format:
   html:
     theme: 
@@ -30,6 +32,11 @@ format:
       dark: darkly
     css: styles.css
     toc: true
+    linksource:   "#00008B"# Dark blue color
+
 
 editor: source
+
+
+
 

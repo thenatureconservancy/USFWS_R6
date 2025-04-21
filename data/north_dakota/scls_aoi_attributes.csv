@@ -1,0 +1,13 @@
+"","VALUE","Freq","LABEL","DESCRIPTION","R","G","B","RED","GREEN","BLUE","ACRES","REL_PERCENT"
+"1",-1111,91,"Fill-Not Mapped","Fill-Not Mapped",111,111,111,0.435294,0.435294,0.435294,20,0
+"2",1,95714,"A","Succession Class A",161,99,51,0.631373,0.388235,0.2,21286,4
+"3",2,528811,"B","Succession Class B",56,168,0,0.219608,0.658824,0,117605,21.9
+"4",3,19978,"C","Succession Class C",201,222,171,0.788235,0.870588,0.670588,4443,0.8
+"5",4,5407,"D","Succession Class D",255,248,166,1,0.972549,0.65098,1202,0.2
+"6",5,9,"E","Succession Class E",0,74,77,0,0.290196,0.301961,2,0
+"7",6,208544,"UN","Uncharacteristic Native Vegetation Cover/Structure/Composition",160,0,0,0.627451,0,0,46379,8.7
+"8",7,272078,"UE","Uncharacteristic Exotic Vegetation",255,0,0,1,0,0,60509,11.3
+"9",111,752831,"Water","Water",0,0,255,0,0,1,167426,31.2
+"10",120,98324,"Developed","Developed",132,0,138,0.517647,0,0.541176,21867,4.1
+"11",132,1691,"Barren or Sparse","Barren or Sparse",191,191,191,0.74902,0.74902,0.74902,376,0.1
+"12",180,426115,"Agriculture","Agriculture",223,115,255,0.87451,0.45098,1,94766,17.7

@@ -1,49 +1,147 @@
 [
   {
+    "objectID": "rocky_basin.html",
+    "href": "rocky_basin.html",
+    "title": "Rocky Basin Fire Zone",
+    "section": "",
+    "text": "In the interactive chart below, hover over the various elements to learn how much of each BpS was on the landscape historically, and how much fire across the 3 main fire types happened annually prior to European Settlement.\n\n\n\n\n\n\n\nNote\n\n\n\nPrior to European colonization the Great Plains fire zone had NaN acres of fire annually.\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\nBelow you will find a list of Biophysical Settings (BpS) that is linked to their descriptions. Note:\n\nThere may be multiple BpS names listed. If so, this is because your landscape spans multiple LANDFIRE Map Zones and has multiple ‘variants’ for those BPSs.\n\nThe names below are followed by a number in parentheses. The first 5-digit number is the BPS Code. The following numbers reprent the Map Zones. For example, “13020_65_66” is ‘Laurentian-Acadian Northern Hardwoods forest’ BpS (13020) in Map Zones 65 and 66.\nThe map below will help orient you to the Map Zones for your landscape.\n\n\n\n\n\n\n\n\n\nClicking link will initiate a download of a Microsoft Word file. If you have any issues with this please contact LANDFIRE.\n\n\nBarren-Rock/Sand/Clay (0) - 15%Inter-Mountain Basins Greasewood Flat (11530_6_10_12_13_17_18_19_21) - 10%Inter-Mountain Basins Big Sagebrush Shrubland-Wyoming Big Sagebrush (10802_21_22_28) - 9%Inter-Mountain Basins Montane Sagebrush Steppe (11260_21) - 7%Rocky Mountain Montane Riparian Systems (11590_22) - 6%Inter-Mountain Basins Big Sagebrush Shrubland-Basin Big Sagebrush (10801_21_22_28) - 6%Inter-Mountain Basins Big Sagebrush Shrubland-Basin Big Sagebrush (10801_21_22_28) - 1%Rocky Mountain Montane Riparian Systems (11590_28) - 4%Inter-Mountain Basins Greasewood Flat (11530_28) - 4%Inter-Mountain Basins Mat Saltbush Shrubland (10660_22) - 2%Inter-Mountain Basins Montane Sagebrush Steppe (11260_6_12_17_18_28) - 2%Inter-Mountain Basins Montane Sagebrush Steppe (11260_6_12_17_18_28) - 0%Rocky Mountain Aspen Forest and Woodland (10110_21) - 1%Inter-Mountain Basins Greasewood Flat (11530_16_23_24_25_27) - 1%Inter-Mountain Basins Montane Riparian Systems (11540_6_12_16_17) - 1%Rocky Mountain Montane Riparian Systems (11590_21) - 1%Rocky Mountain Montane Riparian Systems (11590_16_23_24_26) - 1%Inter-Mountain Basins Mixed Salt Desert Scrub (10810_22) - 0%Inter-Mountain Basins Mixed Salt Desert Scrub (10810_6_12_13_17) - 0%Inter-Mountain Basins Montane Sagebrush Steppe (11260_22) - 0%Inter-Mountain Basins Greasewood Flat (11530_20_22_29_30) - 0%Inter-Mountain Basins Mixed Salt Desert Scrub (10810_15_16_23_24_28) - 0%Inter-Mountain Basins Mixed Salt Desert Scrub (10810_15_16_23_24_28) - 0%Rocky Mountain Aspen Forest and Woodland (10110_28) - 0%Inter-Mountain Basins Mat Saltbush Shrubland (10660_16_23_24) - 0%"
+  },
+  {
+    "objectID": "rocky_basin.html#historical-fire-regimes",
+    "href": "rocky_basin.html#historical-fire-regimes",
+    "title": "Rocky Basin Fire Zone",
+    "section": "",
+    "text": "In the interactive chart below, hover over the various elements to learn how much of each BpS was on the landscape historically, and how much fire across the 3 main fire types happened annually prior to European Settlement.\n\n\n\n\n\n\n\nNote\n\n\n\nPrior to European colonization the Great Plains fire zone had NaN acres of fire annually.\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\nBelow you will find a list of Biophysical Settings (BpS) that is linked to their descriptions. Note:\n\nThere may be multiple BpS names listed. If so, this is because your landscape spans multiple LANDFIRE Map Zones and has multiple ‘variants’ for those BPSs.\n\nThe names below are followed by a number in parentheses. The first 5-digit number is the BPS Code. The following numbers reprent the Map Zones. For example, “13020_65_66” is ‘Laurentian-Acadian Northern Hardwoods forest’ BpS (13020) in Map Zones 65 and 66.\nThe map below will help orient you to the Map Zones for your landscape.\n\n\n\n\n\n\n\n\n\nClicking link will initiate a download of a Microsoft Word file. If you have any issues with this please contact LANDFIRE.\n\n\nBarren-Rock/Sand/Clay (0) - 15%Inter-Mountain Basins Greasewood Flat (11530_6_10_12_13_17_18_19_21) - 10%Inter-Mountain Basins Big Sagebrush Shrubland-Wyoming Big Sagebrush (10802_21_22_28) - 9%Inter-Mountain Basins Montane Sagebrush Steppe (11260_21) - 7%Rocky Mountain Montane Riparian Systems (11590_22) - 6%Inter-Mountain Basins Big Sagebrush Shrubland-Basin Big Sagebrush (10801_21_22_28) - 6%Inter-Mountain Basins Big Sagebrush Shrubland-Basin Big Sagebrush (10801_21_22_28) - 1%Rocky Mountain Montane Riparian Systems (11590_28) - 4%Inter-Mountain Basins Greasewood Flat (11530_28) - 4%Inter-Mountain Basins Mat Saltbush Shrubland (10660_22) - 2%Inter-Mountain Basins Montane Sagebrush Steppe (11260_6_12_17_18_28) - 2%Inter-Mountain Basins Montane Sagebrush Steppe (11260_6_12_17_18_28) - 0%Rocky Mountain Aspen Forest and Woodland (10110_21) - 1%Inter-Mountain Basins Greasewood Flat (11530_16_23_24_25_27) - 1%Inter-Mountain Basins Montane Riparian Systems (11540_6_12_16_17) - 1%Rocky Mountain Montane Riparian Systems (11590_21) - 1%Rocky Mountain Montane Riparian Systems (11590_16_23_24_26) - 1%Inter-Mountain Basins Mixed Salt Desert Scrub (10810_22) - 0%Inter-Mountain Basins Mixed Salt Desert Scrub (10810_6_12_13_17) - 0%Inter-Mountain Basins Montane Sagebrush Steppe (11260_22) - 0%Inter-Mountain Basins Greasewood Flat (11530_20_22_29_30) - 0%Inter-Mountain Basins Mixed Salt Desert Scrub (10810_15_16_23_24_28) - 0%Inter-Mountain Basins Mixed Salt Desert Scrub (10810_15_16_23_24_28) - 0%Rocky Mountain Aspen Forest and Woodland (10110_28) - 0%Inter-Mountain Basins Mat Saltbush Shrubland (10660_16_23_24) - 0%"
+  },
+  {
+    "objectID": "rocky_basin.html#most-prevalent-existing-vegetation-types",
+    "href": "rocky_basin.html#most-prevalent-existing-vegetation-types",
+    "title": "Rocky Basin Fire Zone",
+    "section": "Most Prevalent Existing Vegetation Types",
+    "text": "Most Prevalent Existing Vegetation Types"
+  },
+  {
+    "objectID": "rocky_basin.html#existing-vegetation-cover",
+    "href": "rocky_basin.html#existing-vegetation-cover",
+    "title": "Rocky Basin Fire Zone",
+    "section": "Existing Vegetation Cover",
+    "text": "Existing Vegetation Cover\nThe Existing Vegetation Cover (EVC) map is a visual representation of EVC classifications across the subregion. The chart below the map provides a breakdown of each vegetation cover classification and their relative distribution across the forest."
+  },
+  {
+    "objectID": "rocky_basin.html#existing-vegetation-height",
+    "href": "rocky_basin.html#existing-vegetation-height",
+    "title": "Rocky Basin Fire Zone",
+    "section": "Existing Vegetation Height",
+    "text": "Existing Vegetation Height\nThe Existing Vegetation Height (EVH) map showcases EVH across the forest. The chart below the map provides the percentage of the landscape represented by each EVH height."
+  },
+  {
+    "objectID": "montana.html",
+    "href": "montana.html",
+    "title": "Montana Fire Zone",
+    "section": "",
+    "text": "Note\n\n\n\nPrior to European colonization the Great Plains fire zone had NaN acres of fire annually.\n\n\n \n\n\nIn the interactive chart below, hover over the various elements to learn how much of each BpS was on the landscape historically, and how much fire across the 3 main fire types happened annually prior to European Settlement.\n\n\n\n\n\n\n\n\n\n\nBelow you will find a list of Biophysical Settings (BpS) that is linked to their descriptions. Note:\n\nThere may be multiple BpS names listed. If so, this is because your landscape spans multiple LANDFIRE Map Zones and has multiple ‘variants’ for those BPSs.\n\nThe names below are followed by a number in parentheses. The first 5-digit number is the BPS Code. The following numbers reprent the Map Zones. For example, “13020_65_66” is ‘Laurentian-Acadian Northern Hardwoods forest’ BpS (13020) in Map Zones 65 and 66.\nThe map below will help orient you to the Map Zones for your landscape.\n\n\n\n\n\n\n\n\n\nClicking link will initiate a download of a Microsoft Word file. If you have any issues with this please contact LANDFIRE.\n\n\nNorthwestern Great Plains Mixedgrass Prairie (11410_20) - 32%Northwestern Great Plains Shrubland (10850_20) - 18%Inter-Mountain Basins Big Sagebrush Steppe (11250_20_29_30_31_33) - 6%Inter-Mountain Basins Big Sagebrush Steppe (11250_20_29_30_31_33) - 0%Southern Rocky Mountain Ponderosa Pine Woodland (10540_20) - 6%Western Great Plains Floodplain Systems (11620_20) - 4%Western Great Plains Sand Prairie (11480_20_29_30) - 3%Western Great Plains Sand Prairie (11480_20_29_30) - 0%Rocky Mountain Subalpine/Upper Montane Riparian Systems (11600_21) - 2%Northwestern Great Plains Mixedgrass Prairie (11410_29_30) - 2%Inter-Mountain Basins Montane Sagebrush Steppe (11260_21) - 1%Southern Rocky Mountain Ponderosa Pine Savanna (11170_20) - 1%Rocky Mountain Montane Riparian Systems (11590_10_19) - 1%Rocky Mountain Montane Riparian Systems (11590_10_19) - 0%Western Great Plains Floodplain Systems (11620_29_30) - 1%Rocky Mountain Montane Riparian Systems (11590_20) - 0%Rocky Mountain Subalpine/Upper Montane Riparian Systems (11600_10_19) - 0%Rocky Mountain Subalpine/Upper Montane Riparian Systems (11600_10_19) - 0%Inter-Mountain Basins Big Sagebrush Steppe (11250_1_7_8_9_10_19) - 0%"
+  },
+  {
+    "objectID": "montana.html#historical-fire-regimes",
+    "href": "montana.html#historical-fire-regimes",
+    "title": "Montana Fire Zone",
+    "section": "",
+    "text": "Note\n\n\n\nPrior to European colonization the Great Plains fire zone had NaN acres of fire annually.\n\n\n \n\n\nIn the interactive chart below, hover over the various elements to learn how much of each BpS was on the landscape historically, and how much fire across the 3 main fire types happened annually prior to European Settlement.\n\n\n\n\n\n\n\n\n\n\nBelow you will find a list of Biophysical Settings (BpS) that is linked to their descriptions. Note:\n\nThere may be multiple BpS names listed. If so, this is because your landscape spans multiple LANDFIRE Map Zones and has multiple ‘variants’ for those BPSs.\n\nThe names below are followed by a number in parentheses. The first 5-digit number is the BPS Code. The following numbers reprent the Map Zones. For example, “13020_65_66” is ‘Laurentian-Acadian Northern Hardwoods forest’ BpS (13020) in Map Zones 65 and 66.\nThe map below will help orient you to the Map Zones for your landscape.\n\n\n\n\n\n\n\n\n\nClicking link will initiate a download of a Microsoft Word file. If you have any issues with this please contact LANDFIRE.\n\n\nNorthwestern Great Plains Mixedgrass Prairie (11410_20) - 32%Northwestern Great Plains Shrubland (10850_20) - 18%Inter-Mountain Basins Big Sagebrush Steppe (11250_20_29_30_31_33) - 6%Inter-Mountain Basins Big Sagebrush Steppe (11250_20_29_30_31_33) - 0%Southern Rocky Mountain Ponderosa Pine Woodland (10540_20) - 6%Western Great Plains Floodplain Systems (11620_20) - 4%Western Great Plains Sand Prairie (11480_20_29_30) - 3%Western Great Plains Sand Prairie (11480_20_29_30) - 0%Rocky Mountain Subalpine/Upper Montane Riparian Systems (11600_21) - 2%Northwestern Great Plains Mixedgrass Prairie (11410_29_30) - 2%Inter-Mountain Basins Montane Sagebrush Steppe (11260_21) - 1%Southern Rocky Mountain Ponderosa Pine Savanna (11170_20) - 1%Rocky Mountain Montane Riparian Systems (11590_10_19) - 1%Rocky Mountain Montane Riparian Systems (11590_10_19) - 0%Western Great Plains Floodplain Systems (11620_29_30) - 1%Rocky Mountain Montane Riparian Systems (11590_20) - 0%Rocky Mountain Subalpine/Upper Montane Riparian Systems (11600_10_19) - 0%Rocky Mountain Subalpine/Upper Montane Riparian Systems (11600_10_19) - 0%Inter-Mountain Basins Big Sagebrush Steppe (11250_1_7_8_9_10_19) - 0%"
+  },
+  {
+    "objectID": "montana.html#most-prevalent-existing-vegetation-types",
+    "href": "montana.html#most-prevalent-existing-vegetation-types",
+    "title": "Montana Fire Zone",
+    "section": "Most Prevalent Existing Vegetation Types",
+    "text": "Most Prevalent Existing Vegetation Types"
+  },
+  {
+    "objectID": "montana.html#existing-vegetation-cover",
+    "href": "montana.html#existing-vegetation-cover",
+    "title": "Montana Fire Zone",
+    "section": "Existing Vegetation Cover",
+    "text": "Existing Vegetation Cover\nThe Existing Vegetation Cover (EVC) map is a visual representation of EVC classifications across the subregion. The chart below the map provides a breakdown of each vegetation cover classification and their relative distribution across the forest."
+  },
+  {
+    "objectID": "montana.html#existing-vegetation-height",
+    "href": "montana.html#existing-vegetation-height",
+    "title": "Montana Fire Zone",
+    "section": "Existing Vegetation Height",
+    "text": "Existing Vegetation Height\nThe Existing Vegetation Height (EVH) map showcases EVH across the forest. The chart below the map provides the percentage of the landscape represented by each EVH height."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "USFWS Region 6 LANDFIRE Data Summaries",
+    "section": "",
+    "text": "These LANDFIRE-Powered Landscape Assessments allow users to start exploring trends, landscape conversion and natural resource management options."
+  },
+  {
+    "objectID": "index.html#goals-of-this-demonstration",
+    "href": "index.html#goals-of-this-demonstration",
+    "title": "USFWS Region 6 LANDFIRE Data Summaries",
+    "section": "Goals of this demonstration",
+    "text": "Goals of this demonstration\n\n\n\nUSFWS Region 6 Fire Zones.\n\n\nWe will use LANDFIRE products to:\n\nCharacterize past and present ecosystem conditions.\nQuantify historical acres burned for the USFWS tracts within each Fire Zone to support fire management planning by USFWS Region 6.\nProvide basic LANDFIRE documentation and background."
+  },
+  {
+    "objectID": "index.html#overview-of-landfire-inputs",
+    "href": "index.html#overview-of-landfire-inputs",
+    "title": "USFWS Region 6 LANDFIRE Data Summaries",
+    "section": "Overview of LANDFIRE Inputs",
+    "text": "Overview of LANDFIRE Inputs\nIn the USFWS Fire Zone tabs we used two basic types of LANDFIRE Data, 1) Biophysical Settings and 2) Existing Vegetation.\nUSFWS Fire Zones and Tracts data for Region 6 provided by Sonya Feaster, GIS analysist with the USFWS.\n\nHistorical Context with LANDFIRE’s Biophysical Settings (BpSs)\n\nBpS represent the vegetation system that may have been dominant on the landscape prior to Euro-American settlement. These models are based on a combination of the current environment and an approximation of the historical disturbance regime. Read more.\n\nCheck out this 3-minute tutorial for a quick refresher on the basics of Biophysical Settings Models.\nWe used the BpS models and descriptions to calculate historical acres burned per year, and to explore how many acres burned per BpS per year.\n\n\nCurrent Landscape with the Existing Vegetation Datasets\nLANDFIRE’s Existing Vegetation Type, Cover and Height datasets describe vegetation conditions.\n\nExisting Vegetation Type (EVT) - represents the current distribution of the terrestrial ecological systems classification, developed by NatureServe for the western hemisphere, through 2016.\nExisting Vegetation Cover (EVC) - represents the vertically projected percent cover of the live canopy layer for a 30-m cell.\nExisting Vegetation Height (EVH) - represents the average height of the dominant vegetation for a 30-m cell.\n\nRead more about LANDFIRE Vegetation Products"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About this Project",
+    "section": "",
+    "text": "LANDFIRE (Landscape Fire and Resource Management Planning Tools) is a shared program between the U.S. Department of Agriculture Forest Service Fire and Aviation branch and the U.S. Department of the Interior. LANDFIRE provides 25+ national landscape-scale geo-spatial products, 950 vegetation models, and a suite of tools that support all-lands planning, management, and operations. Included in the product suite are current and historic conditions including ecosystem dynamic models that can be used for conservation, fire planning, and landscape management decisions.\nThe Nature Conservancy (TNC) is a Major Partner in the LANDFIRE Program supported by a cooperative agreement through USDA Forest Service. TNC’s LANDFIRE Team works closely with the LANDFIRE Business Leads, program staff, and other partners to provide support to LANDFIRE and the user community by:\n\nHelping users understand the strengths, weaknesses, and appropriate uses of LANDFIRE products.\nLocating, obtaining, and using geospatial data, tools, and models for fire and natural resource management, planning, and implementation.\nIdentifying and comparing management priorities, evaluating threats to ecosystems, and exploring outcomes under alternative management scenarios.\n\n\nTNC’s LANDFIRE Team is advancing conservation outcomes through collaborative ecosystem science by supporting LANDFIRE users as they locate, obtain and apply the diverse suite of LANDFIRE products and data.\n\nCreated by TNC Ecologist, Randy Swaty, this preliminary landscape assessment leverages LANDFIRE’s unique geospatial products to advance beneficial outcomes for the wildland fire and natural resource communities. The central data in each project are created and managed by the cooperative inter-agency/inter-organizational LANDFIRE program.\nThese charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis. All maps, input datasets and further assistance can be obtained by contacting the author, Randy Swaty.\nSubstantial code contributions for GIS data processing by Myles Walimaa."
+  },
+  {
+    "objectID": "about.html#landfire-the-nature-conservancy",
+    "href": "about.html#landfire-the-nature-conservancy",
+    "title": "About this Project",
+    "section": "",
+    "text": "LANDFIRE (Landscape Fire and Resource Management Planning Tools) is a shared program between the U.S. Department of Agriculture Forest Service Fire and Aviation branch and the U.S. Department of the Interior. LANDFIRE provides 25+ national landscape-scale geo-spatial products, 950 vegetation models, and a suite of tools that support all-lands planning, management, and operations. Included in the product suite are current and historic conditions including ecosystem dynamic models that can be used for conservation, fire planning, and landscape management decisions.\nThe Nature Conservancy (TNC) is a Major Partner in the LANDFIRE Program supported by a cooperative agreement through USDA Forest Service. TNC’s LANDFIRE Team works closely with the LANDFIRE Business Leads, program staff, and other partners to provide support to LANDFIRE and the user community by:\n\nHelping users understand the strengths, weaknesses, and appropriate uses of LANDFIRE products.\nLocating, obtaining, and using geospatial data, tools, and models for fire and natural resource management, planning, and implementation.\nIdentifying and comparing management priorities, evaluating threats to ecosystems, and exploring outcomes under alternative management scenarios.\n\n\nTNC’s LANDFIRE Team is advancing conservation outcomes through collaborative ecosystem science by supporting LANDFIRE users as they locate, obtain and apply the diverse suite of LANDFIRE products and data.\n\nCreated by TNC Ecologist, Randy Swaty, this preliminary landscape assessment leverages LANDFIRE’s unique geospatial products to advance beneficial outcomes for the wildland fire and natural resource communities. The central data in each project are created and managed by the cooperative inter-agency/inter-organizational LANDFIRE program.\nThese charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis. All maps, input datasets and further assistance can be obtained by contacting the author, Randy Swaty.\nSubstantial code contributions for GIS data processing by Myles Walimaa."
+  },
+  {
+    "objectID": "about.html#biophysical-settings-products",
+    "href": "about.html#biophysical-settings-products",
+    "title": "About this Project",
+    "section": "Biophysical Settings Products",
+    "text": "Biophysical Settings Products\nA Biophysical Setting (BpS) is a concept that represents the vegetation that may have been dominant on the landscape prior to European colonization of North America and is based on both the current biophysical environment and an approximation of the historical disturbance regime.\n\nLANDFIRE collaborated with experts around the country to create a description and model for every BpS in the US. Find BpS descriptions for your area here.\nCheck out the vegetation modeling website to learn how to integrate BpS into your work.\nRead Blankenship et al. (2021) to learn how the models and descriptions were developed."
+  },
+  {
+    "objectID": "about.html#vegetation-products",
+    "href": "about.html#vegetation-products",
+    "title": "About this Project",
+    "section": "Vegetation Products",
+    "text": "Vegetation Products\nLANDFIRE (LF) existing vegetation layers describe the following elements: Existing Vegetation Type (EVT), Existing Vegetation Canopy Cover (EVC), and Existing Vegetation Height (EVH). These layers are created using predictive landscape models based on extensive field-referenced data, satellite imagery and biophysical gradient layers using classification and regression trees.\n\nResources\n\nExisting Vegetation Cover\nExisting Vegetation Height\nExisting Vegetation Type"
+  },
+  {
+    "objectID": "about.html#still-have-questions-landfire-is-here-to-help.",
+    "href": "about.html#still-have-questions-landfire-is-here-to-help.",
+    "title": "About this Project",
+    "section": "Still have questions? LANDFIRE is here to help.",
+    "text": "Still have questions? LANDFIRE is here to help.\nAsk the LANDFIRE Helpdesk\nSearch the LANDFIRE Helpdesk Dashboard (see what others are asking and find solutions to common problems)\nSearch (& subscribe to) the LANDFIRE YouTube Channel (see tutorials, Office Hours, quick demonstrations)"
+  },
+  {
     "objectID": "great_plains.html",
     "href": "great_plains.html",
     "title": "Great Plains Fire Zone",
     "section": "",
-    "text": "BpS models represent the vegetation system that may have been dominant on the landscape prior to Euro-American settlement. These models are based on a combination of the current environment and an approximation of the historical disturbance regime. Read more.\n\nCheck out this 3-minute tutorial for a quick refresher on the basics of Biophysical Settings Models.\nUse this page as a starting point to explore the most prevalent BpSs for your analysis area. In addition to the charts and maps, the historical disturbance data can be directly accessed using this site."
-  },
-  {
-    "objectID": "great_plains.html#most-prevalent-biophysical-settings",
-    "href": "great_plains.html#most-prevalent-biophysical-settings",
-    "title": "Great Plains Fire Zone",
-    "section": "Most prevalent Biophysical Settings",
-    "text": "Most prevalent Biophysical Settings"
+    "text": "Note\n\n\n\nPrior to European colonization the Great Plains fire zone had 47,519 acres of fire annually.\n\n\n \n\n\nIn the interactive chart below, hover over the various elements to learn how much of each BpS was on the landscape historically, and how much fire across the 3 main fire types happened annually prior to European Settlement.\n\n\n\n\n\n\n\n\n\n\nBelow you will find a list of Biophysical Settings (BpS) that is linked to their descriptions. Note:\n\nThere may be multiple BpS names listed. If so, this is because your landscape spans multiple LANDFIRE Map Zones and has multiple ‘variants’ for those BPSs.\n\nThe names below are followed by a number in parentheses. The first 5-digit number is the BPS Code. The following numbers reprent the Map Zones. For example, “13020_65_66” is ‘Laurentian-Acadian Northern Hardwoods forest’ BpS (13020) in Map Zones 65 and 66.\nThe map below will help orient you to the Map Zones for your landscape.\n\n\n\n\n\n\n\n\n\nClicking link will initiate a download of a Microsoft Word file. If you have any issues with this please contact LANDFIRE.\n\n\nWestern Great Plains Sand Prairie (11480_31_38) - 24%Northwestern Great Plains Mixedgrass Prairie (11410_39) - 17%Northern Tallgrass Prairie (14200_39_40_42) - 14%Central Tallgrass Prairie (14210_31_38_42_43_44_50_51) - 7%Western Great Plains Depressional Wetland Systems (14950_31_39_40) - 4%Western Great Plains Depressional Wetland Systems (14950_31_39_40) - 3%Eastern Great Plains Floodplain Systems (14690_31_39_40_43) - 3%Western Great Plains Floodplain Systems (11620_31_39_40) - 3%Western Great Plains Floodplain Systems (11620_31_39_40) - 1%Great Plains Prairie Pothole (14820_39_40) - 2%Western Great Plains Sandhill Steppe (10940_31_38) - 2%Northwestern Great Plains Mixedgrass Prairie (11410_31) - 0%Western Great Plains Sandhill Steppe (10940_27_33) - 0%Western Great Plains Tallgrass Prairie (11500_31_39_40) - 0%Western Great Plains Tallgrass Prairie (11500_31_39_40) - 0%"
   },
   {
     "objectID": "great_plains.html#historical-fire-regimes",
     "href": "great_plains.html#historical-fire-regimes",
     "title": "Great Plains Fire Zone",
-    "section": "Historical Fire Regimes",
-    "text": "Historical Fire Regimes\n\n\n\n\n\n\nNote\n\n\n\nPrior to European colonization the Great Plains fire zone had 47,519 acres of fire annually."
-  },
-  {
-    "objectID": "great_plains.html#historical-context",
-    "href": "great_plains.html#historical-context",
-    "title": "Great Plains Fire Zone",
     "section": "",
-    "text": "BpS models represent the vegetation system that may have been dominant on the landscape prior to Euro-American settlement. These models are based on a combination of the current environment and an approximation of the historical disturbance regime. Read more.\n\nCheck out this 3-minute tutorial for a quick refresher on the basics of Biophysical Settings Models.\nUse this page as a starting point to explore the most prevalent BpSs for your analysis area. In addition to the charts and maps, the historical disturbance data can be directly accessed using this site."
-  },
-  {
-    "objectID": "great_plains.html#current-landscape",
-    "href": "great_plains.html#current-landscape",
-    "title": "Great Plains Fire Zone",
-    "section": "Current Landscape",
-    "text": "Current Landscape\nLANDFIRE’s Existing Vegetation Type, Cover and Height datasets describe vegetation conditions.\n\nExisting Vegetation Type (EVT) - represents the current distribution of the terrestrial ecological systems classification, developed by NatureServe for the western hemisphere, through 2016.\nExisting Vegetation Cover (EVC) - represents the vertically projected percent cover of the live canopy layer for a 30-m cell.\nExisting Vegetation Height (EVH) - represents the average height of the dominant vegetation for a 30-m cell.\n\nRead more about LANDFIRE Vegetation Products"
+    "text": "Note\n\n\n\nPrior to European colonization the Great Plains fire zone had 47,519 acres of fire annually.\n\n\n \n\n\nIn the interactive chart below, hover over the various elements to learn how much of each BpS was on the landscape historically, and how much fire across the 3 main fire types happened annually prior to European Settlement.\n\n\n\n\n\n\n\n\n\n\nBelow you will find a list of Biophysical Settings (BpS) that is linked to their descriptions. Note:\n\nThere may be multiple BpS names listed. If so, this is because your landscape spans multiple LANDFIRE Map Zones and has multiple ‘variants’ for those BPSs.\n\nThe names below are followed by a number in parentheses. The first 5-digit number is the BPS Code. The following numbers reprent the Map Zones. For example, “13020_65_66” is ‘Laurentian-Acadian Northern Hardwoods forest’ BpS (13020) in Map Zones 65 and 66.\nThe map below will help orient you to the Map Zones for your landscape.\n\n\n\n\n\n\n\n\n\nClicking link will initiate a download of a Microsoft Word file. If you have any issues with this please contact LANDFIRE.\n\n\nWestern Great Plains Sand Prairie (11480_31_38) - 24%Northwestern Great Plains Mixedgrass Prairie (11410_39) - 17%Northern Tallgrass Prairie (14200_39_40_42) - 14%Central Tallgrass Prairie (14210_31_38_42_43_44_50_51) - 7%Western Great Plains Depressional Wetland Systems (14950_31_39_40) - 4%Western Great Plains Depressional Wetland Systems (14950_31_39_40) - 3%Eastern Great Plains Floodplain Systems (14690_31_39_40_43) - 3%Western Great Plains Floodplain Systems (11620_31_39_40) - 3%Western Great Plains Floodplain Systems (11620_31_39_40) - 1%Great Plains Prairie Pothole (14820_39_40) - 2%Western Great Plains Sandhill Steppe (10940_31_38) - 2%Northwestern Great Plains Mixedgrass Prairie (11410_31) - 0%Western Great Plains Sandhill Steppe (10940_27_33) - 0%Western Great Plains Tallgrass Prairie (11500_31_39_40) - 0%Western Great Plains Tallgrass Prairie (11500_31_39_40) - 0%"
   },
   {
     "objectID": "great_plains.html#most-prevalent-existing-vegetation-types",
     "href": "great_plains.html#most-prevalent-existing-vegetation-types",
-    "title": "Great Plains Fire Zone",
-    "section": "Most Prevalent Existing Vegetation Types",
-    "text": "Most Prevalent Existing Vegetation Types"
-  },
-  {
-    "objectID": "great_plains.html#most-prevalent-existing-vegetation-types-1",
-    "href": "great_plains.html#most-prevalent-existing-vegetation-types-1",
     "title": "Great Plains Fire Zone",
     "section": "Most Prevalent Existing Vegetation Types",
     "text": "Most Prevalent Existing Vegetation Types"
@@ -59,6 +157,76 @@
     "objectID": "great_plains.html#existing-vegetation-height",
     "href": "great_plains.html#existing-vegetation-height",
     "title": "Great Plains Fire Zone",
+    "section": "Existing Vegetation Height",
+    "text": "Existing Vegetation Height\nThe Existing Vegetation Height (EVH) map showcases EVH across the forest. The chart below the map provides the percentage of the landscape represented by each EVH height."
+  },
+  {
+    "objectID": "mid_plains.html",
+    "href": "mid_plains.html",
+    "title": "Mid-Plains Fire Zone",
+    "section": "",
+    "text": "Note\n\n\n\nPrior to European colonization the Great Plains fire zone had 12,441 acres of fire annually.\n\n\n \n\n\nIn the interactive chart below, hover over the various elements to learn how much of each BpS was on the landscape historically, and how much fire across the 3 main fire types happened annually prior to European Settlement.\n\n\n\n\n\n\n\n\n\n\nBelow you will find a list of Biophysical Settings (BpS) that is linked to their descriptions. Note:\n\nThere may be multiple BpS names listed. If so, this is because your landscape spans multiple LANDFIRE Map Zones and has multiple ‘variants’ for those BPSs.\n\nThe names below are followed by a number in parentheses. The first 5-digit number is the BPS Code. The following numbers reprent the Map Zones. For example, “13020_65_66” is ‘Laurentian-Acadian Northern Hardwoods forest’ BpS (13020) in Map Zones 65 and 66.\nThe map below will help orient you to the Map Zones for your landscape.\n\n\n\n\n\n\n\n\n\nClicking link will initiate a download of a Microsoft Word file. If you have any issues with this please contact LANDFIRE.\n\n\nInter-Mountain Basins Greasewood Flat (11530_28) - 33%Rocky Mountain Montane Riparian Systems (11590_28) - 11%Western Great Plains Shortgrass Prairie (11490_31_33) - 6%Inter-Mountain Basins Big Sagebrush Shrubland-Basin Big Sagebrush (10801_21_22_28) - 6%Central Interior and Appalachian Floodplain Systems (14710_42_43) - 6%Central Mixedgrass Prairie (11320_31_38) - 6%Central Mixedgrass Prairie (11320_31_38) - 0%Western Great Plains Sand Prairie (11480_31_38) - 5%Central Tallgrass Prairie (14210_31_38_42_43_44_50_51) - 4%Central Tallgrass Prairie (14210_31_38_42_43_44_50_51) - 0%Western Great Plains Floodplain Systems (11620_38) - 3%Western Great Plains Depressional Wetland Systems (14950_38) - 3%Western Great Plains Floodplain Systems (11620_27_33) - 0%Western Great Plains Floodplain Systems (11620_31_39_40) - 0%Western Great Plains Shortgrass Prairie (11490_27_38) - 0%"
+  },
+  {
+    "objectID": "mid_plains.html#historical-fire-regimes",
+    "href": "mid_plains.html#historical-fire-regimes",
+    "title": "Mid-Plains Fire Zone",
+    "section": "",
+    "text": "Note\n\n\n\nPrior to European colonization the Great Plains fire zone had 12,441 acres of fire annually.\n\n\n \n\n\nIn the interactive chart below, hover over the various elements to learn how much of each BpS was on the landscape historically, and how much fire across the 3 main fire types happened annually prior to European Settlement.\n\n\n\n\n\n\n\n\n\n\nBelow you will find a list of Biophysical Settings (BpS) that is linked to their descriptions. Note:\n\nThere may be multiple BpS names listed. If so, this is because your landscape spans multiple LANDFIRE Map Zones and has multiple ‘variants’ for those BPSs.\n\nThe names below are followed by a number in parentheses. The first 5-digit number is the BPS Code. The following numbers reprent the Map Zones. For example, “13020_65_66” is ‘Laurentian-Acadian Northern Hardwoods forest’ BpS (13020) in Map Zones 65 and 66.\nThe map below will help orient you to the Map Zones for your landscape.\n\n\n\n\n\n\n\n\n\nClicking link will initiate a download of a Microsoft Word file. If you have any issues with this please contact LANDFIRE.\n\n\nInter-Mountain Basins Greasewood Flat (11530_28) - 33%Rocky Mountain Montane Riparian Systems (11590_28) - 11%Western Great Plains Shortgrass Prairie (11490_31_33) - 6%Inter-Mountain Basins Big Sagebrush Shrubland-Basin Big Sagebrush (10801_21_22_28) - 6%Central Interior and Appalachian Floodplain Systems (14710_42_43) - 6%Central Mixedgrass Prairie (11320_31_38) - 6%Central Mixedgrass Prairie (11320_31_38) - 0%Western Great Plains Sand Prairie (11480_31_38) - 5%Central Tallgrass Prairie (14210_31_38_42_43_44_50_51) - 4%Central Tallgrass Prairie (14210_31_38_42_43_44_50_51) - 0%Western Great Plains Floodplain Systems (11620_38) - 3%Western Great Plains Depressional Wetland Systems (14950_38) - 3%Western Great Plains Floodplain Systems (11620_27_33) - 0%Western Great Plains Floodplain Systems (11620_31_39_40) - 0%Western Great Plains Shortgrass Prairie (11490_27_38) - 0%"
+  },
+  {
+    "objectID": "mid_plains.html#most-prevalent-existing-vegetation-types",
+    "href": "mid_plains.html#most-prevalent-existing-vegetation-types",
+    "title": "Mid-Plains Fire Zone",
+    "section": "Most Prevalent Existing Vegetation Types",
+    "text": "Most Prevalent Existing Vegetation Types"
+  },
+  {
+    "objectID": "mid_plains.html#existing-vegetation-cover",
+    "href": "mid_plains.html#existing-vegetation-cover",
+    "title": "Mid-Plains Fire Zone",
+    "section": "Existing Vegetation Cover",
+    "text": "Existing Vegetation Cover\nThe Existing Vegetation Cover (EVC) map is a visual representation of EVC classifications across the subregion. The chart below the map provides a breakdown of each vegetation cover classification and their relative distribution across the forest."
+  },
+  {
+    "objectID": "mid_plains.html#existing-vegetation-height",
+    "href": "mid_plains.html#existing-vegetation-height",
+    "title": "Mid-Plains Fire Zone",
+    "section": "Existing Vegetation Height",
+    "text": "Existing Vegetation Height\nThe Existing Vegetation Height (EVH) map showcases EVH across the forest. The chart below the map provides the percentage of the landscape represented by each EVH height."
+  },
+  {
+    "objectID": "north_dakota.html",
+    "href": "north_dakota.html",
+    "title": "North Dakota Fire Zone",
+    "section": "",
+    "text": "Note\n\n\n\nPrior to European colonization the Great Plains fire zone had 39,811 acres of fire annually.\n\n\n \n\n\nIn the interactive chart below, hover over the various elements to learn how much of each BpS was on the landscape historically, and how much fire across the 3 main fire types happened annually prior to European Settlement.\n\n\n\n\n\n\n\n\n\n\nBelow you will find a list of Biophysical Settings (BpS) that is linked to their descriptions. Note:\n\nThere may be multiple BpS names listed. If so, this is because your landscape spans multiple LANDFIRE Map Zones and has multiple ‘variants’ for those BPSs.\n\nThe names below are followed by a number in parentheses. The first 5-digit number is the BPS Code. The following numbers reprent the Map Zones. For example, “13020_65_66” is ‘Laurentian-Acadian Northern Hardwoods forest’ BpS (13020) in Map Zones 65 and 66.\nThe map below will help orient you to the Map Zones for your landscape.\n\n\n\n\n\n\n\n\n\nClicking link will initiate a download of a Microsoft Word file. If you have any issues with this please contact LANDFIRE.\n\n\nNorthwestern Great Plains Mixedgrass Prairie (11410_40) - 38%Western Great Plains Depressional Wetland Systems (14950_31_39_40) - 8%Western Great Plains Depressional Wetland Systems (14950_31_39_40) - 1%Northern Tallgrass Prairie (14200_39_40_42) - 4%Northern Tallgrass Prairie (14200_39_40_42) - 2%Northwestern Great Plains Mixedgrass Prairie (11410_39) - 4%Western Great Plains Floodplain Systems (11620_31_39_40) - 2%Western Great Plains Floodplain Systems (11620_31_39_40) - 0%Western Great Plains Wooded Draw and Ravine (13850_31_39_40_42) - 2%Western Great Plains Wooded Draw and Ravine (13850_31_39_40_42) - 0%Northwestern Great Plains Mixedgrass Prairie (11410_29_30) - 2%Western Great Plains Tallgrass Prairie (11500_31_39_40) - 2%Western Great Plains Tallgrass Prairie (11500_31_39_40) - 0%Great Plains Prairie Pothole (14820_30) - 1%Great Plains Prairie Pothole (14820_39_40) - 1%Great Plains Prairie Pothole (14820_39_40) - 0%Western Great Plains Floodplain Systems (11620_29_30) - 1%Eastern Great Plains Floodplain Systems (14690_31_39_40_43) - 1%"
+  },
+  {
+    "objectID": "north_dakota.html#historical-fire-regimes",
+    "href": "north_dakota.html#historical-fire-regimes",
+    "title": "North Dakota Fire Zone",
+    "section": "",
+    "text": "Note\n\n\n\nPrior to European colonization the Great Plains fire zone had 39,811 acres of fire annually.\n\n\n \n\n\nIn the interactive chart below, hover over the various elements to learn how much of each BpS was on the landscape historically, and how much fire across the 3 main fire types happened annually prior to European Settlement.\n\n\n\n\n\n\n\n\n\n\nBelow you will find a list of Biophysical Settings (BpS) that is linked to their descriptions. Note:\n\nThere may be multiple BpS names listed. If so, this is because your landscape spans multiple LANDFIRE Map Zones and has multiple ‘variants’ for those BPSs.\n\nThe names below are followed by a number in parentheses. The first 5-digit number is the BPS Code. The following numbers reprent the Map Zones. For example, “13020_65_66” is ‘Laurentian-Acadian Northern Hardwoods forest’ BpS (13020) in Map Zones 65 and 66.\nThe map below will help orient you to the Map Zones for your landscape.\n\n\n\n\n\n\n\n\n\nClicking link will initiate a download of a Microsoft Word file. If you have any issues with this please contact LANDFIRE.\n\n\nNorthwestern Great Plains Mixedgrass Prairie (11410_40) - 38%Western Great Plains Depressional Wetland Systems (14950_31_39_40) - 8%Western Great Plains Depressional Wetland Systems (14950_31_39_40) - 1%Northern Tallgrass Prairie (14200_39_40_42) - 4%Northern Tallgrass Prairie (14200_39_40_42) - 2%Northwestern Great Plains Mixedgrass Prairie (11410_39) - 4%Western Great Plains Floodplain Systems (11620_31_39_40) - 2%Western Great Plains Floodplain Systems (11620_31_39_40) - 0%Western Great Plains Wooded Draw and Ravine (13850_31_39_40_42) - 2%Western Great Plains Wooded Draw and Ravine (13850_31_39_40_42) - 0%Northwestern Great Plains Mixedgrass Prairie (11410_29_30) - 2%Western Great Plains Tallgrass Prairie (11500_31_39_40) - 2%Western Great Plains Tallgrass Prairie (11500_31_39_40) - 0%Great Plains Prairie Pothole (14820_30) - 1%Great Plains Prairie Pothole (14820_39_40) - 1%Great Plains Prairie Pothole (14820_39_40) - 0%Western Great Plains Floodplain Systems (11620_29_30) - 1%Eastern Great Plains Floodplain Systems (14690_31_39_40_43) - 1%"
+  },
+  {
+    "objectID": "north_dakota.html#most-prevalent-existing-vegetation-types",
+    "href": "north_dakota.html#most-prevalent-existing-vegetation-types",
+    "title": "North Dakota Fire Zone",
+    "section": "Most Prevalent Existing Vegetation Types",
+    "text": "Most Prevalent Existing Vegetation Types"
+  },
+  {
+    "objectID": "north_dakota.html#existing-vegetation-cover",
+    "href": "north_dakota.html#existing-vegetation-cover",
+    "title": "North Dakota Fire Zone",
+    "section": "Existing Vegetation Cover",
+    "text": "Existing Vegetation Cover\nThe Existing Vegetation Cover (EVC) map is a visual representation of EVC classifications across the subregion. The chart below the map provides a breakdown of each vegetation cover classification and their relative distribution across the forest."
+  },
+  {
+    "objectID": "north_dakota.html#existing-vegetation-height",
+    "href": "north_dakota.html#existing-vegetation-height",
+    "title": "North Dakota Fire Zone",
     "section": "Existing Vegetation Height",
     "text": "Existing Vegetation Height\nThe Existing Vegetation Height (EVH) map showcases EVH across the forest. The chart below the map provides the percentage of the landscape represented by each EVH height."
   }

@@ -1,0 +1,473 @@
+"","TransitionGroupID","Model_Code","annual_probability","BpS_Name","...1","BLUE","ACRES","REL_PERCENT","annual_dist_acres"
+"1","All Fire","10110_28",0.0084652,"Rocky Mountain Aspen Forest and Woodland",21,0.45098,905,0.4,7.661006
+"2","All Fire","10160_15_28",0.0080608,"Colorado Plateau Pinyon-Juniper Woodland",37,0.4,0,0,0
+"3","All Fire","10500_16_23_28",0.0081052,"Rocky Mountain Lodgepole Pine Forest",19,0.101961,1138,0.5,9.2237176
+"4","All Fire","10510_28",0.0538472,"Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland",18,1,1376,0.6,74.0937472
+"5","All Fire","10520_28",0.0184546,"Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland",38,0.901961,5,0,0.092273
+"6","All Fire","10540_28",0.0496688,"Southern Rocky Mountain Ponderosa Pine Woodland",39,0,10,0,0.496688
+"7","All Fire","10540_33",0.0411662,"Southern Rocky Mountain Ponderosa Pine Woodland",31,0,224,0.1,9.2212288
+"8","All Fire","10550_15_28",0.0072968,"Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland",20,0.745098,1199,0.5,8.7488632
+"9","All Fire","10560_15_28",0.0072868,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",40,0,75,0,0.54651
+"10","All Fire","10570_28",0.0068034,"Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland",41,0.635294,0,0,0
+"11","All Fire","10590_27_33",0.0071644,"Southern Rocky Mountain Pinyon-Juniper Woodland",50,0.180392,0,0,0
+"12","All Fire","10610_22_27_28",0.0348958,"Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland",28,0,190,0.1,6.630202
+"13","All Fire","10801_21_22_28",0.0136586,"Inter-Mountain Basins Big Sagebrush Shrubland - Basin Big Sagebrush",5,0.909804,14568,6.2,198.9784848
+"14","All Fire","10810_15_16_23_24_28",0.001596,"Inter-Mountain Basins Mixed Salt Desert Scrub",42,0.478431,0,0,0
+"15","All Fire","10810_27_33",0.0042778,"Inter-Mountain Basins Mixed Salt Desert Scrub",51,0.478431,7,0,0.0299446
+"16","All Fire","10860_27_31_33",0.022085,"Rocky Mountain Lower Montane-Foothill Shrubland",14,0.396078,2260,1,49.9121
+"17","All Fire","10860_28",0.0186432,"Rocky Mountain Lower Montane-Foothill Shrubland",43,0.396078,10,0,0.186432
+"18","All Fire","10940_27_33",0.0443664,"Western Great Plains Sandhill Steppe",52,0.901961,92,0,4.0817088
+"19","All Fire","10940_31_38",0.0440666,"Western Great Plains Sandhill Steppe",55,0.901961,2,0,0.0881332
+"20","All Fire","11070_27_33",0.0205498,"Rocky Mountain Gambel Oak-Mixed Montane Shrubland",15,0.87451,2222,0.9,45.6616556
+"21","All Fire","11190_28",0.0374156,"Southern Rocky Mountain Juniper Woodland and Savanna",29,0.078431,207,0.1,7.7450292
+"22","All Fire","11260_6_12_17_18_28",0.0199184,"Inter-Mountain Basins Montane Sagebrush Steppe",44,0.662745,62,0,1.2349408
+"23","All Fire","11270_28",0.0084374,"Inter-Mountain Basins Semi-Desert Shrub-Steppe",45,0.843137,44,0,0.3712456
+"24","All Fire","11320_31_38",0.1313084,"Central Mixedgrass Prairie",7,0.439216,12809,5.5,1681.9292956
+"25","All Fire","11320_31_38",0.1313084,"Central Mixedgrass Prairie",32,0.439216,217,0.1,28.4939228
+"26","All Fire","11320_33",0.0655498,"Central Mixedgrass Prairie",53,0.439216,2,0,0.1310996
+"27","All Fire","11350_15_28",0.0400448,"Inter-Mountain Basins Semi-Desert Grassland",46,0.827451,1,0,0.0400448
+"28","All Fire","11430_9_19_21_28",0.0018978,"Rocky Mountain Alpine Fell-Field",47,0.509804,43,0,0.0816054
+"29","All Fire","11440_12_16_19_28",0.0047024,"Rocky Mountain Alpine Turf",48,0.113725,46,0,0.2163104
+"30","All Fire","11460_15_16_23_24_25_28",0.1000288,"Southern Rocky Mountain Montane-Subalpine Grassland",49,0.698039,13,0,1.3003744
+"31","All Fire","11470_27_33",0.0414688,"Western Great Plains Foothill and Piedmont Grassland",26,0.4,359,0.2,14.8872992
+"32","All Fire","11480_31_38",0.2313818,"Western Great Plains Sand Prairie",8,0.662745,11418,4.9,2641.9173924
+"33","All Fire","11490_27_38",0.0449576,"Western Great Plains Shortgrass Prairie",34,0.4,327,0.1,14.7011352
+"34","All Fire","11490_31_33",0.0470386,"Western Great Plains Shortgrass Prairie",4,0.4,15092,6.4,709.9065512
+"35","All Fire","11500_31_39_40",0.1987748,"Western Great Plains Tallgrass Prairie",56,0.588235,0,0,0
+"36","All Fire","11500_38",0.1976614,"Western Great Plains Tallgrass Prairie",13,0.588235,3044,1.3,601.6813016
+"37","All Fire","11530_28",0.004916,"Inter-Mountain Basins Greasewood Flat",1,0.882353,77779,33.2,382.361564
+"38","All Fire","11590_27_33",0.0162568,"Rocky Mountain Montane Riparian Systems",54,0.364706,58,0,0.9428944
+"39","All Fire","11590_28",0.0160768,"Rocky Mountain Montane Riparian Systems",2,0.364706,24719,10.6,397.4024192
+"40","All Fire","11600_15_28",0.0163066,"Rocky Mountain Subalpine/Upper Montane Riparian Systems",30,0.654902,200,0.1,3.26132
+"41","All Fire","11620_27_33",0.0374986,"Western Great Plains Floodplain Systems",22,0.803922,1023,0.4,38.3610678
+"42","All Fire","11620_31_39_40",0.019731,"Western Great Plains Floodplain Systems",33,0.803922,297,0.1,5.860107
+"43","All Fire","11620_38",0.0198928,"Western Great Plains Floodplain Systems",10,0.803922,7646,3.3,152.1003488
+"44","All Fire","13040_32_43_44_49",0.085975,"Ozark-Ouachita Dry-Mesic Oak Forest",17,0,1775,0.8,152.605625
+"45","All Fire","13140_38_39_40_41_42_43_44_50",0.0021822,"North-Central Interior Maple-Basswood Forest",23,0.4,957,0.4,2.0883654
+"46","All Fire","13340_32_43_44",0.0521608,"Ozark-Ouachita Mesic Hardwood Forest",58,0.290196,55,0,2.868844
+"47","All Fire","13850_31_39_40_42",0.0308666,"Western Great Plains Wooded Draw and Ravine",27,0,458,0.2,14.1369028
+"48","All Fire","14210_31_38_42_43_44_50_51",0.2824352,"Central Tallgrass Prairie",9,0.768627,8111,3.5,2290.8319072
+"49","All Fire","14210_31_38_42_43_44_50_51",0.2824352,"Central Tallgrass Prairie",57,0.768627,0,0,0
+"50","All Fire","14230_38",0.4110826,"Southeastern Great Plains Tallgrass Prairie",61,0.470588,12,0,4.9329912
+"51","All Fire","14230_43_44",0.6036482,"Southeastern Great Plains Tallgrass Prairie",12,0.470588,3920,1.7,2366.300944
+"52","All Fire","14690_31_39_40_43",0.0204168,"Eastern Great Plains Floodplain Systems",59,0.745098,0,0,0
+"53","All Fire","14690_38_42_49",0.0206142,"Eastern Great Plains Floodplain Systems",62,0.745098,77,0,1.5872934
+"54","All Fire","14880_38_42_43",0.334843,"Eastern Great Plains Wet Meadow-Prairie-Marsh",16,0.2,2046,0.9,685.088778
+"55","All Fire","14880_38_42_43",0.334843,"Eastern Great Plains Wet Meadow-Prairie-Marsh",60,0.2,78,0,26.117754
+"56","All Fire","14950_38",0.0494972,"Western Great Plains Depressional Wetland Systems",11,0.611765,6114,2.6,302.6258808
+"57","All Transitions","10110_28",0.0261852,"Rocky Mountain Aspen Forest and Woodland",21,0.45098,905,0.4,23.697606
+"58","All Transitions","10160_15_28",0.0266456,"Colorado Plateau Pinyon-Juniper Woodland",37,0.4,0,0,0
+"59","All Transitions","10500_16_23_28",0.0194802,"Rocky Mountain Lodgepole Pine Forest",19,0.101961,1138,0.5,22.1684676
+"60","All Transitions","10510_28",0.0619502,"Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland",18,1,1376,0.6,85.2434752
+"61","All Transitions","10520_28",0.0302776,"Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland",38,0.901961,5,0,0.151388
+"62","All Transitions","10540_28",0.052497,"Southern Rocky Mountain Ponderosa Pine Woodland",39,0,10,0,0.52497
+"63","All Transitions","10540_33",0.0434104,"Southern Rocky Mountain Ponderosa Pine Woodland",31,0,224,0.1,9.7239296
+"64","All Transitions","10550_15_28",0.016136,"Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland",20,0.745098,1199,0.5,19.347064
+"65","All Transitions","10560_15_28",0.0159924,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",40,0,75,0,1.19943
+"66","All Transitions","10570_28",0.008567,"Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland",41,0.635294,0,0,0
+"67","All Transitions","10590_27_33",0.0414702,"Southern Rocky Mountain Pinyon-Juniper Woodland",50,0.180392,0,0,0
+"68","All Transitions","10610_22_27_28",0.0400196,"Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland",28,0,190,0.1,7.603724
+"69","All Transitions","10801_21_22_28",0.0158884,"Inter-Mountain Basins Big Sagebrush Shrubland - Basin Big Sagebrush",5,0.909804,14568,6.2,231.4622112
+"70","All Transitions","10810_15_16_23_24_28",0.0630768,"Inter-Mountain Basins Mixed Salt Desert Scrub",42,0.478431,0,0,0
+"71","All Transitions","10810_27_33",0.0548922,"Inter-Mountain Basins Mixed Salt Desert Scrub",51,0.478431,7,0,0.3842454
+"72","All Transitions","10860_27_31_33",0.0288852,"Rocky Mountain Lower Montane-Foothill Shrubland",14,0.396078,2260,1,65.280552
+"73","All Transitions","10860_28",0.0310852,"Rocky Mountain Lower Montane-Foothill Shrubland",43,0.396078,10,0,0.310852
+"74","All Transitions","10940_27_33",0.95455,"Western Great Plains Sandhill Steppe",52,0.901961,92,0,87.8186
+"75","All Transitions","10940_31_38",0.9492458,"Western Great Plains Sandhill Steppe",55,0.901961,2,0,1.8984916
+"76","All Transitions","11070_27_33",0.0205498,"Rocky Mountain Gambel Oak-Mixed Montane Shrubland",15,0.87451,2222,0.9,45.6616556
+"77","All Transitions","11190_28",0.0436426,"Southern Rocky Mountain Juniper Woodland and Savanna",29,0.078431,207,0.1,9.0340182
+"78","All Transitions","11260_6_12_17_18_28",0.0268572,"Inter-Mountain Basins Montane Sagebrush Steppe",44,0.662745,62,0,1.6651464
+"79","All Transitions","11270_28",0.1245286,"Inter-Mountain Basins Semi-Desert Shrub-Steppe",45,0.843137,44,0,5.4792584
+"80","All Transitions","11320_31_38",0.6961772,"Central Mixedgrass Prairie",7,0.439216,12809,5.5,8917.3337548
+"81","All Transitions","11320_31_38",0.6961772,"Central Mixedgrass Prairie",32,0.439216,217,0.1,151.0704524
+"82","All Transitions","11320_33",0.7733928,"Central Mixedgrass Prairie",53,0.439216,2,0,1.5467856
+"83","All Transitions","11350_15_28",0.0619654,"Inter-Mountain Basins Semi-Desert Grassland",46,0.827451,1,0,0.0619654
+"84","All Transitions","11430_9_19_21_28",0.0057092,"Rocky Mountain Alpine Fell-Field",47,0.509804,43,0,0.2454956
+"85","All Transitions","11440_12_16_19_28",0.0152438,"Rocky Mountain Alpine Turf",48,0.113725,46,0,0.7012148
+"86","All Transitions","11460_15_16_23_24_25_28",0.1482314,"Southern Rocky Mountain Montane-Subalpine Grassland",49,0.698039,13,0,1.9270082
+"87","All Transitions","11470_27_33",0.6733912,"Western Great Plains Foothill and Piedmont Grassland",26,0.4,359,0.2,241.7474408
+"88","All Transitions","11480_31_38",0.3584416,"Western Great Plains Sand Prairie",8,0.662745,11418,4.9,4092.6861888
+"89","All Transitions","11490_27_38",0.738407,"Western Great Plains Shortgrass Prairie",34,0.4,327,0.1,241.459089
+"90","All Transitions","11490_31_33",0.6945706,"Western Great Plains Shortgrass Prairie",4,0.4,15092,6.4,10482.4594952
+"91","All Transitions","11500_31_39_40",0.5945456,"Western Great Plains Tallgrass Prairie",56,0.588235,0,0,0
+"92","All Transitions","11500_38",0.6903066,"Western Great Plains Tallgrass Prairie",13,0.588235,3044,1.3,2101.2932904
+"93","All Transitions","11530_28",0.018931,"Inter-Mountain Basins Greasewood Flat",1,0.882353,77779,33.2,1472.434249
+"94","All Transitions","11590_27_33",0.406246,"Rocky Mountain Montane Riparian Systems",54,0.364706,58,0,23.562268
+"95","All Transitions","11590_28",0.4001056,"Rocky Mountain Montane Riparian Systems",2,0.364706,24719,10.6,9890.2103264
+"96","All Transitions","11600_15_28",0.4070216,"Rocky Mountain Subalpine/Upper Montane Riparian Systems",30,0.654902,200,0.1,81.40432
+"97","All Transitions","11620_27_33",0.210517,"Western Great Plains Floodplain Systems",22,0.803922,1023,0.4,215.358891
+"98","All Transitions","11620_31_39_40",0.0911832,"Western Great Plains Floodplain Systems",33,0.803922,297,0.1,27.0814104
+"99","All Transitions","11620_38",0.0915576,"Western Great Plains Floodplain Systems",10,0.803922,7646,3.3,700.0494096
+"100","All Transitions","13040_32_43_44_49",0.1022102,"Ozark-Ouachita Dry-Mesic Oak Forest",17,0,1775,0.8,181.423105
+"101","All Transitions","13140_38_39_40_41_42_43_44_50",0.142462,"North-Central Interior Maple-Basswood Forest",23,0.4,957,0.4,136.336134
+"102","All Transitions","13340_32_43_44",0.0549248,"Ozark-Ouachita Mesic Hardwood Forest",58,0.290196,55,0,3.020864
+"103","All Transitions","13850_31_39_40_42",0.2885614,"Western Great Plains Wooded Draw and Ravine",27,0,458,0.2,132.1611212
+"104","All Transitions","14210_31_38_42_43_44_50_51",0.3125626,"Central Tallgrass Prairie",9,0.768627,8111,3.5,2535.1952486
+"105","All Transitions","14210_31_38_42_43_44_50_51",0.3125626,"Central Tallgrass Prairie",57,0.768627,0,0,0
+"106","All Transitions","14230_38",0.4210984,"Southeastern Great Plains Tallgrass Prairie",61,0.470588,12,0,5.0531808
+"107","All Transitions","14230_43_44",0.6136114,"Southeastern Great Plains Tallgrass Prairie",12,0.470588,3920,1.7,2405.356688
+"108","All Transitions","14690_31_39_40_43",0.0974352,"Eastern Great Plains Floodplain Systems",59,0.745098,0,0,0
+"109","All Transitions","14690_38_42_49",0.0973822,"Eastern Great Plains Floodplain Systems",62,0.745098,77,0,7.4984294
+"110","All Transitions","14710_42_43",0.0270174,"Central Interior and Appalachian Floodplain Systems",6,0.690196,13477,5.8,364.1134998
+"111","All Transitions","14880_38_42_43",0.334843,"Eastern Great Plains Wet Meadow-Prairie-Marsh",16,0.2,2046,0.9,685.088778
+"112","All Transitions","14880_38_42_43",0.334843,"Eastern Great Plains Wet Meadow-Prairie-Marsh",60,0.2,78,0,26.117754
+"113","All Transitions","14950_38",0.400001,"Western Great Plains Depressional Wetland Systems",11,0.611765,6114,2.6,2445.606114
+"114","Alternative Succession","10160_15_28",0.0076906,"Colorado Plateau Pinyon-Juniper Woodland",37,0.4,0,0,0
+"115","Alternative Succession","10510_28",0.008103,"Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland",18,1,1376,0.6,11.149728
+"116","Alternative Succession","10520_28",0.0071982,"Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland",38,0.901961,5,0,0.035991
+"117","Alternative Succession","10540_28",0.0028282,"Southern Rocky Mountain Ponderosa Pine Woodland",39,0,10,0,0.028282
+"118","Alternative Succession","10540_33",0.0022442,"Southern Rocky Mountain Ponderosa Pine Woodland",31,0,224,0.1,0.5027008
+"119","Alternative Succession","10550_15_28",0.0048118,"Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland",20,0.745098,1199,0.5,5.7693482
+"120","Alternative Succession","10560_15_28",0.00478,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",40,0,75,0,0.3585
+"121","Alternative Succession","10810_15_16_23_24_28",0.0067586,"Inter-Mountain Basins Mixed Salt Desert Scrub",42,0.478431,0,0,0
+"122","Alternative Succession","10810_27_33",0.0009798,"Inter-Mountain Basins Mixed Salt Desert Scrub",51,0.478431,7,0,0.0068586
+"123","Alternative Succession","10860_28",0.0059082,"Rocky Mountain Lower Montane-Foothill Shrubland",43,0.396078,10,0,0.059082
+"124","Alternative Succession","10940_27_33",0.043025,"Western Great Plains Sandhill Steppe",52,0.901961,92,0,3.9583
+"125","Alternative Succession","10940_31_38",0.0428844,"Western Great Plains Sandhill Steppe",55,0.901961,2,0,0.0857688
+"126","Alternative Succession","11190_28",0.0012428,"Southern Rocky Mountain Juniper Woodland and Savanna",29,0.078431,207,0.1,0.2572596
+"127","Alternative Succession","11260_6_12_17_18_28",0.0030498,"Inter-Mountain Basins Montane Sagebrush Steppe",44,0.662745,62,0,0.1890876
+"128","Alternative Succession","11270_28",0.0021592,"Inter-Mountain Basins Semi-Desert Shrub-Steppe",45,0.843137,44,0,0.0950048
+"129","Alternative Succession","11320_31_38",0.006717,"Central Mixedgrass Prairie",7,0.439216,12809,5.5,86.038053
+"130","Alternative Succession","11320_31_38",0.006717,"Central Mixedgrass Prairie",32,0.439216,217,0.1,1.457589
+"131","Alternative Succession","11490_27_38",0.0434238,"Western Great Plains Shortgrass Prairie",34,0.4,327,0.1,14.1995826
+"132","Alternative Succession","11490_31_33",0.0454466,"Western Great Plains Shortgrass Prairie",4,0.4,15092,6.4,685.8800872
+"133","Alternative Succession","11620_27_33",0.0021114,"Western Great Plains Floodplain Systems",22,0.803922,1023,0.4,2.1599622
+"134","Alternative Succession","11620_31_39_40",0.0131332,"Western Great Plains Floodplain Systems",33,0.803922,297,0.1,3.9005604
+"135","Alternative Succession","11620_38",0.0131668,"Western Great Plains Floodplain Systems",10,0.803922,7646,3.3,100.6733528
+"136","Alternative Succession","13040_32_43_44_49",0.0125246,"Ozark-Ouachita Dry-Mesic Oak Forest",17,0,1775,0.8,22.231165
+"137","Alternative Succession","14210_31_38_42_43_44_50_51",0.0058724,"Central Tallgrass Prairie",9,0.768627,8111,3.5,47.6310364
+"138","Alternative Succession","14210_31_38_42_43_44_50_51",0.0058724,"Central Tallgrass Prairie",57,0.768627,0,0,0
+"139","Alternative Succession","14230_38",0.009996,"Southeastern Great Plains Tallgrass Prairie",61,0.470588,12,0,0.119952
+"140","Alternative Succession","14230_43_44",0.0099414,"Southeastern Great Plains Tallgrass Prairie",12,0.470588,3920,1.7,38.970288
+"141","Alternative Succession","14690_31_39_40_43",0.012826,"Eastern Great Plains Floodplain Systems",59,0.745098,0,0,0
+"142","Alternative Succession","14690_38_42_49",0.012811,"Eastern Great Plains Floodplain Systems",62,0.745098,77,0,0.986447
+"143","Competition or Maintenance","10160_15_28",0.0034882,"Colorado Plateau Pinyon-Juniper Woodland",37,0.4,0,0,0
+"144","Competition or Maintenance","10500_16_23_28",0.0009676,"Rocky Mountain Lodgepole Pine Forest",19,0.101961,1138,0.5,1.1011288
+"145","Competition or Maintenance","10520_28",0.0046248,"Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland",38,0.901961,5,0,0.023124
+"146","Competition or Maintenance","10550_15_28",0.000448,"Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland",20,0.745098,1199,0.5,0.537152
+"147","Competition or Maintenance","10560_15_28",0.000436,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",40,0,75,0,0.0327
+"148","Competition or Maintenance","10860_27_31_33",0.0008688,"Rocky Mountain Lower Montane-Foothill Shrubland",14,0.396078,2260,1,1.963488
+"149","Competition or Maintenance","10860_28",0.001768,"Rocky Mountain Lower Montane-Foothill Shrubland",43,0.396078,10,0,0.01768
+"150","Competition or Maintenance","11190_28",0.0009756,"Southern Rocky Mountain Juniper Woodland and Savanna",29,0.078431,207,0.1,0.2019492
+"151","Competition or Maintenance","11460_15_16_23_24_25_28",0.0482026,"Southern Rocky Mountain Montane-Subalpine Grassland",49,0.698039,13,0,0.6266338
+"152","Insect or Disease","10110_28",0.001853,"Rocky Mountain Aspen Forest and Woodland",21,0.45098,905,0.4,1.676965
+"153","Insect or Disease","10160_15_28",0.0058672,"Colorado Plateau Pinyon-Juniper Woodland",37,0.4,0,0,0
+"154","Insect or Disease","10500_16_23_28",0.0104074,"Rocky Mountain Lodgepole Pine Forest",19,0.101961,1138,0.5,11.8436212
+"155","Insect or Disease","10550_15_28",0.0015914,"Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland",20,0.745098,1199,0.5,1.9080886
+"156","Insect or Disease","10560_15_28",0.0015386,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",40,0,75,0,0.115395
+"157","Insect or Disease","10610_22_27_28",0.0051238,"Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland",28,0,190,0.1,0.973522
+"158","Insect or Disease","11190_28",0.0040086,"Southern Rocky Mountain Juniper Woodland and Savanna",29,0.078431,207,0.1,0.8297802
+"159","Insect or Disease","11260_6_12_17_18_28",0.003889,"Inter-Mountain Basins Montane Sagebrush Steppe",44,0.662745,62,0,0.241118
+"160","Insect or Disease","11270_28",0.0136056,"Inter-Mountain Basins Semi-Desert Shrub-Steppe",45,0.843137,44,0,0.5986464
+"161","Mixed Fire","10110_28",0.0005724,"Rocky Mountain Aspen Forest and Woodland",21,0.45098,905,0.4,0.518022
+"162","Mixed Fire","10160_15_28",0.0052476,"Colorado Plateau Pinyon-Juniper Woodland",37,0.4,0,0,0
+"163","Mixed Fire","10510_28",0.0186616,"Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland",18,1,1376,0.6,25.6783616
+"164","Mixed Fire","10520_28",0.006927,"Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland",38,0.901961,5,0,0.034635
+"165","Mixed Fire","10540_28",0.0063586,"Southern Rocky Mountain Ponderosa Pine Woodland",39,0,10,0,0.063586
+"166","Mixed Fire","10540_33",0.0062968,"Southern Rocky Mountain Ponderosa Pine Woodland",31,0,224,0.1,1.4104832
+"167","Mixed Fire","10550_15_28",0.0022802,"Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland",20,0.745098,1199,0.5,2.7339598
+"168","Mixed Fire","10560_15_28",0.0022778,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",40,0,75,0,0.170835
+"169","Mixed Fire","10570_28",0.0048456,"Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland",41,0.635294,0,0,0
+"170","Mixed Fire","10590_27_33",0.0024256,"Southern Rocky Mountain Pinyon-Juniper Woodland",50,0.180392,0,0,0
+"171","Mixed Fire","10610_22_27_28",0.013889,"Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland",28,0,190,0.1,2.63891
+"172","Mixed Fire","10860_28",0.0048296,"Rocky Mountain Lower Montane-Foothill Shrubland",43,0.396078,10,0,0.048296
+"173","Mixed Fire","11190_28",0.0045828,"Southern Rocky Mountain Juniper Woodland and Savanna",29,0.078431,207,0.1,0.9486396
+"174","Mixed Fire","11350_15_28",0.0270324,"Inter-Mountain Basins Semi-Desert Grassland",46,0.827451,1,0,0.0270324
+"175","Mixed Fire","11480_31_38",0.0834792,"Western Great Plains Sand Prairie",8,0.662745,11418,4.9,953.1655056
+"176","Mixed Fire","11620_27_33",0.0374986,"Western Great Plains Floodplain Systems",22,0.803922,1023,0.4,38.3610678
+"177","Mixed Fire","11620_31_39_40",0.010506,"Western Great Plains Floodplain Systems",33,0.803922,297,0.1,3.120282
+"178","Mixed Fire","11620_38",0.0106576,"Western Great Plains Floodplain Systems",10,0.803922,7646,3.3,81.4880096
+"179","Mixed Fire","13040_32_43_44_49",0.0148922,"Ozark-Ouachita Dry-Mesic Oak Forest",17,0,1775,0.8,26.433655
+"180","Mixed Fire","13340_32_43_44",0.0092776,"Ozark-Ouachita Mesic Hardwood Forest",58,0.290196,55,0,0.510268
+"181","Mixed Fire","13850_31_39_40_42",0.015465,"Western Great Plains Wooded Draw and Ravine",27,0,458,0.2,7.08297
+"182","Mixed Fire","14230_38",0.012647,"Southeastern Great Plains Tallgrass Prairie",61,0.470588,12,0,0.151764
+"183","Mixed Fire","14230_43_44",0.0124622,"Southeastern Great Plains Tallgrass Prairie",12,0.470588,3920,1.7,48.851824
+"184","Mixed Fire","14690_31_39_40_43",0.012798,"Eastern Great Plains Floodplain Systems",59,0.745098,0,0,0
+"185","Mixed Fire","14690_38_42_49",0.0129842,"Eastern Great Plains Floodplain Systems",62,0.745098,77,0,0.9997834
+"186","Native Grazing","10110_28",0.012988,"Rocky Mountain Aspen Forest and Woodland",21,0.45098,905,0.4,11.75414
+"187","Native Grazing","10860_27_31_33",0.0008886,"Rocky Mountain Lower Montane-Foothill Shrubland",14,0.396078,2260,1,2.008236
+"188","Native Grazing","10940_27_33",0.7339112,"Western Great Plains Sandhill Steppe",52,0.901961,92,0,67.5198304
+"189","Native Grazing","10940_31_38",0.7300606,"Western Great Plains Sandhill Steppe",55,0.901961,2,0,1.4601212
+"190","Native Grazing","11320_31_38",0.3111476,"Central Mixedgrass Prairie",7,0.439216,12809,5.5,3985.4896084
+"191","Native Grazing","11320_31_38",0.3111476,"Central Mixedgrass Prairie",32,0.439216,217,0.1,67.5190292
+"192","Native Grazing","11320_33",0.6450226,"Central Mixedgrass Prairie",53,0.439216,2,0,1.2900452
+"193","Native Grazing","11350_15_28",0.0002096,"Inter-Mountain Basins Semi-Desert Grassland",46,0.827451,1,0,0.0002096
+"194","Native Grazing","11470_27_33",0.6219436,"Western Great Plains Foothill and Piedmont Grassland",26,0.4,359,0.2,223.2777524
+"195","Native Grazing","11480_31_38",0.1173352,"Western Great Plains Sand Prairie",8,0.662745,11418,4.9,1339.7333136
+"196","Native Grazing","11490_27_38",0.5193462,"Western Great Plains Shortgrass Prairie",34,0.4,327,0.1,169.8262074
+"197","Native Grazing","11490_31_33",0.554626,"Western Great Plains Shortgrass Prairie",4,0.4,15092,6.4,8370.415592
+"198","Native Grazing","11500_31_39_40",0.371051,"Western Great Plains Tallgrass Prairie",56,0.588235,0,0,0
+"199","Native Grazing","11500_38",0.4742466,"Western Great Plains Tallgrass Prairie",13,0.588235,3044,1.3,1443.6066504
+"200","Native Grazing","11620_27_33",0.0397508,"Western Great Plains Floodplain Systems",22,0.803922,1023,0.4,40.6650684
+"201","Native Grazing","13850_31_39_40_42",0.1577748,"Western Great Plains Wooded Draw and Ravine",27,0,458,0.2,72.2608584
+"202","Native Grazing","14950_38",0.1522246,"Western Great Plains Depressional Wetland Systems",11,0.611765,6114,2.6,930.7012044
+"203","Non Fire Disturbances","10110_28",0.01772,"Rocky Mountain Aspen Forest and Woodland",21,0.45098,905,0.4,16.0366
+"204","Non Fire Disturbances","10160_15_28",0.0108942,"Colorado Plateau Pinyon-Juniper Woodland",37,0.4,0,0,0
+"205","Non Fire Disturbances","10500_16_23_28",0.011375,"Rocky Mountain Lodgepole Pine Forest",19,0.101961,1138,0.5,12.94475
+"206","Non Fire Disturbances","10520_28",0.0046248,"Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland",38,0.901961,5,0,0.023124
+"207","Non Fire Disturbances","10550_15_28",0.0040274,"Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland",20,0.745098,1199,0.5,4.8288526
+"208","Non Fire Disturbances","10560_15_28",0.0039256,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",40,0,75,0,0.29442
+"209","Non Fire Disturbances","10570_28",0.0017636,"Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland",41,0.635294,0,0,0
+"210","Non Fire Disturbances","10590_27_33",0.0343058,"Southern Rocky Mountain Pinyon-Juniper Woodland",50,0.180392,0,0,0
+"211","Non Fire Disturbances","10610_22_27_28",0.0051238,"Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland",28,0,190,0.1,0.973522
+"212","Non Fire Disturbances","10801_21_22_28",0.0022298,"Inter-Mountain Basins Big Sagebrush Shrubland - Basin Big Sagebrush",5,0.909804,14568,6.2,32.4837264
+"213","Non Fire Disturbances","10810_15_16_23_24_28",0.0547222,"Inter-Mountain Basins Mixed Salt Desert Scrub",42,0.478431,0,0,0
+"214","Non Fire Disturbances","10810_27_33",0.0496346,"Inter-Mountain Basins Mixed Salt Desert Scrub",51,0.478431,7,0,0.3474422
+"215","Non Fire Disturbances","10860_27_31_33",0.0068002,"Rocky Mountain Lower Montane-Foothill Shrubland",14,0.396078,2260,1,15.368452
+"216","Non Fire Disturbances","10860_28",0.0065338,"Rocky Mountain Lower Montane-Foothill Shrubland",43,0.396078,10,0,0.065338
+"217","Non Fire Disturbances","10940_27_33",0.8671586,"Western Great Plains Sandhill Steppe",52,0.901961,92,0,79.7785912
+"218","Non Fire Disturbances","10940_31_38",0.8622948,"Western Great Plains Sandhill Steppe",55,0.901961,2,0,1.7245896
+"219","Non Fire Disturbances","11190_28",0.0049842,"Southern Rocky Mountain Juniper Woodland and Savanna",29,0.078431,207,0.1,1.0317294
+"220","Non Fire Disturbances","11260_6_12_17_18_28",0.003889,"Inter-Mountain Basins Montane Sagebrush Steppe",44,0.662745,62,0,0.241118
+"221","Non Fire Disturbances","11270_28",0.113932,"Inter-Mountain Basins Semi-Desert Shrub-Steppe",45,0.843137,44,0,5.013008
+"222","Non Fire Disturbances","11320_31_38",0.5581518,"Central Mixedgrass Prairie",7,0.439216,12809,5.5,7149.3664062
+"223","Non Fire Disturbances","11320_31_38",0.5581518,"Central Mixedgrass Prairie",32,0.439216,217,0.1,121.1189406
+"224","Non Fire Disturbances","11320_33",0.707843,"Central Mixedgrass Prairie",53,0.439216,2,0,1.415686
+"225","Non Fire Disturbances","11350_15_28",0.0219206,"Inter-Mountain Basins Semi-Desert Grassland",46,0.827451,1,0,0.0219206
+"226","Non Fire Disturbances","11430_9_19_21_28",0.0038114,"Rocky Mountain Alpine Fell-Field",47,0.509804,43,0,0.1638902
+"227","Non Fire Disturbances","11440_12_16_19_28",0.0105414,"Rocky Mountain Alpine Turf",48,0.113725,46,0,0.4849044
+"228","Non Fire Disturbances","11460_15_16_23_24_25_28",0.0482026,"Southern Rocky Mountain Montane-Subalpine Grassland",49,0.698039,13,0,0.6266338
+"229","Non Fire Disturbances","11470_27_33",0.6319224,"Western Great Plains Foothill and Piedmont Grassland",26,0.4,359,0.2,226.8601416
+"230","Non Fire Disturbances","11480_31_38",0.1270598,"Western Great Plains Sand Prairie",8,0.662745,11418,4.9,1450.7687964
+"231","Non Fire Disturbances","11490_27_38",0.6500256,"Western Great Plains Shortgrass Prairie",34,0.4,327,0.1,212.5583712
+"232","Non Fire Disturbances","11490_31_33",0.6020854,"Western Great Plains Shortgrass Prairie",4,0.4,15092,6.4,9086.6728568
+"233","Non Fire Disturbances","11500_31_39_40",0.3957708,"Western Great Plains Tallgrass Prairie",56,0.588235,0,0,0
+"234","Non Fire Disturbances","11500_38",0.4926452,"Western Great Plains Tallgrass Prairie",13,0.588235,3044,1.3,1499.6119888
+"235","Non Fire Disturbances","11530_28",0.014015,"Inter-Mountain Basins Greasewood Flat",1,0.882353,77779,33.2,1090.072685
+"236","Non Fire Disturbances","11590_27_33",0.3899892,"Rocky Mountain Montane Riparian Systems",54,0.364706,58,0,22.6193736
+"237","Non Fire Disturbances","11590_28",0.3840288,"Rocky Mountain Montane Riparian Systems",2,0.364706,24719,10.6,9492.8079072
+"238","Non Fire Disturbances","11600_15_28",0.390715,"Rocky Mountain Subalpine/Upper Montane Riparian Systems",30,0.654902,200,0.1,78.143
+"239","Non Fire Disturbances","11620_27_33",0.170907,"Western Great Plains Floodplain Systems",22,0.803922,1023,0.4,174.837861
+"240","Non Fire Disturbances","11620_31_39_40",0.058319,"Western Great Plains Floodplain Systems",33,0.803922,297,0.1,17.320743
+"241","Non Fire Disturbances","11620_38",0.058498,"Western Great Plains Floodplain Systems",10,0.803922,7646,3.3,447.275708
+"242","Non Fire Disturbances","13040_32_43_44_49",0.0037106,"Ozark-Ouachita Dry-Mesic Oak Forest",17,0,1775,0.8,6.586315
+"243","Non Fire Disturbances","13140_38_39_40_41_42_43_44_50",0.1402798,"North-Central Interior Maple-Basswood Forest",23,0.4,957,0.4,134.2477686
+"244","Non Fire Disturbances","13340_32_43_44",0.002764,"Ozark-Ouachita Mesic Hardwood Forest",58,0.290196,55,0,0.15202
+"245","Non Fire Disturbances","13850_31_39_40_42",0.2576948,"Western Great Plains Wooded Draw and Ravine",27,0,458,0.2,118.0242184
+"246","Non Fire Disturbances","14210_31_38_42_43_44_50_51",0.024255,"Central Tallgrass Prairie",9,0.768627,8111,3.5,196.732305
+"247","Non Fire Disturbances","14210_31_38_42_43_44_50_51",0.024255,"Central Tallgrass Prairie",57,0.768627,0,0,0
+"248","Non Fire Disturbances","14230_38",1.98e-05,"Southeastern Great Plains Tallgrass Prairie",61,0.470588,12,0,0.0002376
+"249","Non Fire Disturbances","14230_43_44",2.18e-05,"Southeastern Great Plains Tallgrass Prairie",12,0.470588,3920,1.7,0.085456
+"250","Non Fire Disturbances","14690_31_39_40_43",0.0641924,"Eastern Great Plains Floodplain Systems",59,0.745098,0,0,0
+"251","Non Fire Disturbances","14690_38_42_49",0.063957,"Eastern Great Plains Floodplain Systems",62,0.745098,77,0,4.924689
+"252","Non Fire Disturbances","14710_42_43",0.0270174,"Central Interior and Appalachian Floodplain Systems",6,0.690196,13477,5.8,364.1134998
+"253","Non Fire Disturbances","14950_38",0.3505038,"Western Great Plains Depressional Wetland Systems",11,0.611765,6114,2.6,2142.9802332
+"254","Non Replacement Fire","10110_28",0.0017032,"Rocky Mountain Aspen Forest and Woodland",21,0.45098,905,0.4,1.541396
+"255","Non Replacement Fire","10160_15_28",0.0057084,"Colorado Plateau Pinyon-Juniper Woodland",37,0.4,0,0,0
+"256","Non Replacement Fire","10500_16_23_28",0.0015616,"Rocky Mountain Lodgepole Pine Forest",19,0.101961,1138,0.5,1.7771008
+"257","Non Replacement Fire","10510_28",0.0507648,"Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland",18,1,1376,0.6,69.8523648
+"258","Non Replacement Fire","10520_28",0.0134216,"Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland",38,0.901961,5,0,0.067108
+"259","Non Replacement Fire","10540_28",0.0476622,"Southern Rocky Mountain Ponderosa Pine Woodland",39,0,10,0,0.476622
+"260","Non Replacement Fire","10540_33",0.0391956,"Southern Rocky Mountain Ponderosa Pine Woodland",31,0,224,0.1,8.7798144
+"261","Non Replacement Fire","10550_15_28",0.0022802,"Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland",20,0.745098,1199,0.5,2.7339598
+"262","Non Replacement Fire","10560_15_28",0.0022778,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",40,0,75,0,0.170835
+"263","Non Replacement Fire","10570_28",0.0048456,"Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland",41,0.635294,0,0,0
+"264","Non Replacement Fire","10590_27_33",0.0041722,"Southern Rocky Mountain Pinyon-Juniper Woodland",50,0.180392,0,0,0
+"265","Non Replacement Fire","10610_22_27_28",0.0219656,"Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland",28,0,190,0.1,4.173464
+"266","Non Replacement Fire","10860_28",0.0048296,"Rocky Mountain Lower Montane-Foothill Shrubland",43,0.396078,10,0,0.048296
+"267","Non Replacement Fire","11190_28",0.0354264,"Southern Rocky Mountain Juniper Woodland and Savanna",29,0.078431,207,0.1,7.3332648
+"268","Non Replacement Fire","11320_31_38",0.0061982,"Central Mixedgrass Prairie",7,0.439216,12809,5.5,79.3927438
+"269","Non Replacement Fire","11320_31_38",0.0061982,"Central Mixedgrass Prairie",32,0.439216,217,0.1,1.3450094
+"270","Non Replacement Fire","11350_15_28",0.0270324,"Inter-Mountain Basins Semi-Desert Grassland",46,0.827451,1,0,0.0270324
+"271","Non Replacement Fire","11460_15_16_23_24_25_28",0.0483686,"Southern Rocky Mountain Montane-Subalpine Grassland",49,0.698039,13,0,0.6287918
+"272","Non Replacement Fire","11480_31_38",0.1668042,"Western Great Plains Sand Prairie",8,0.662745,11418,4.9,1904.5703556
+"273","Non Replacement Fire","11500_31_39_40",0.0040696,"Western Great Plains Tallgrass Prairie",56,0.588235,0,0,0
+"274","Non Replacement Fire","11500_38",0.0029708,"Western Great Plains Tallgrass Prairie",13,0.588235,3044,1.3,9.0431152
+"275","Non Replacement Fire","11590_27_33",0.0125538,"Rocky Mountain Montane Riparian Systems",54,0.364706,58,0,0.7281204
+"276","Non Replacement Fire","11590_28",0.0124332,"Rocky Mountain Montane Riparian Systems",2,0.364706,24719,10.6,307.3362708
+"277","Non Replacement Fire","11600_15_28",0.0126064,"Rocky Mountain Subalpine/Upper Montane Riparian Systems",30,0.654902,200,0.1,2.52128
+"278","Non Replacement Fire","11620_27_33",0.0374986,"Western Great Plains Floodplain Systems",22,0.803922,1023,0.4,38.3610678
+"279","Non Replacement Fire","11620_31_39_40",0.0155708,"Western Great Plains Floodplain Systems",33,0.803922,297,0.1,4.6245276
+"280","Non Replacement Fire","11620_38",0.0157182,"Western Great Plains Floodplain Systems",10,0.803922,7646,3.3,120.1813572
+"281","Non Replacement Fire","13040_32_43_44_49",0.0807844,"Ozark-Ouachita Dry-Mesic Oak Forest",17,0,1775,0.8,143.39231
+"282","Non Replacement Fire","13140_38_39_40_41_42_43_44_50",0.0011924,"North-Central Interior Maple-Basswood Forest",23,0.4,957,0.4,1.1411268
+"283","Non Replacement Fire","13340_32_43_44",0.0490036,"Ozark-Ouachita Mesic Hardwood Forest",58,0.290196,55,0,2.695198
+"284","Non Replacement Fire","13850_31_39_40_42",0.019786,"Western Great Plains Wooded Draw and Ravine",27,0,458,0.2,9.061988
+"285","Non Replacement Fire","14230_38",0.0146702,"Southeastern Great Plains Tallgrass Prairie",61,0.470588,12,0,0.1760424
+"286","Non Replacement Fire","14230_43_44",0.014484,"Southeastern Great Plains Tallgrass Prairie",12,0.470588,3920,1.7,56.77728
+"287","Non Replacement Fire","14690_31_39_40_43",0.0184556,"Eastern Great Plains Floodplain Systems",59,0.745098,0,0,0
+"288","Non Replacement Fire","14690_38_42_49",0.0186404,"Eastern Great Plains Floodplain Systems",62,0.745098,77,0,1.4353108
+"289","Optional 1","10590_27_33",0.0043714,"Southern Rocky Mountain Pinyon-Juniper Woodland",50,0.180392,0,0,0
+"290","Optional 1","10940_27_33",0.0047646,"Western Great Plains Sandhill Steppe",52,0.901961,92,0,0.4383432
+"291","Optional 1","10940_31_38",0.0047536,"Western Great Plains Sandhill Steppe",55,0.901961,2,0,0.0095072
+"292","Optional 1","11320_31_38",0.2257688,"Central Mixedgrass Prairie",7,0.439216,12809,5.5,2891.8725592
+"293","Optional 1","11320_31_38",0.2257688,"Central Mixedgrass Prairie",32,0.439216,217,0.1,48.9918296
+"294","Optional 1","11320_33",0.0093376,"Central Mixedgrass Prairie",53,0.439216,2,0,0.0186752
+"295","Optional 1","11430_9_19_21_28",0.0018808,"Rocky Mountain Alpine Fell-Field",47,0.509804,43,0,0.0808744
+"296","Optional 1","11440_12_16_19_28",0.00099,"Rocky Mountain Alpine Turf",48,0.113725,46,0,0.04554
+"297","Optional 1","11470_27_33",0.0043146,"Western Great Plains Foothill and Piedmont Grassland",26,0.4,359,0.2,1.5489414
+"298","Optional 1","11490_27_38",0.1055264,"Western Great Plains Shortgrass Prairie",34,0.4,327,0.1,34.5071328
+"299","Optional 1","11490_31_33",0.0209702,"Western Great Plains Shortgrass Prairie",4,0.4,15092,6.4,316.4822584
+"300","Optional 1","11590_27_33",0.0629502,"Rocky Mountain Montane Riparian Systems",54,0.364706,58,0,3.6511116
+"301","Optional 1","11590_28",0.0620418,"Rocky Mountain Montane Riparian Systems",2,0.364706,24719,10.6,1533.6112542
+"302","Optional 1","11600_15_28",0.063026,"Rocky Mountain Subalpine/Upper Montane Riparian Systems",30,0.654902,200,0.1,12.6052
+"303","Optional 1","11620_31_39_40",0.0078648,"Western Great Plains Floodplain Systems",33,0.803922,297,0.1,2.3358456
+"304","Optional 1","11620_38",0.0078488,"Western Great Plains Floodplain Systems",10,0.803922,7646,3.3,60.0119248
+"305","Optional 1","13850_31_39_40_42",0.09992,"Western Great Plains Wooded Draw and Ravine",27,0,458,0.2,45.76336
+"306","Optional 1","14690_31_39_40_43",0.008468,"Eastern Great Plains Floodplain Systems",59,0.745098,0,0,0
+"307","Optional 1","14690_38_42_49",0.008384,"Eastern Great Plains Floodplain Systems",62,0.745098,77,0,0.645568
+"308","Optional 1","14710_42_43",0.0099226,"Central Interior and Appalachian Floodplain Systems",6,0.690196,13477,5.8,133.7268802
+"309","Optional 1","14950_38",0.099039,"Western Great Plains Depressional Wetland Systems",11,0.611765,6114,2.6,605.524446
+"310","Optional 2","10940_27_33",0.0028796,"Western Great Plains Sandhill Steppe",52,0.901961,92,0,0.2649232
+"311","Optional 2","10940_31_38",0.0028612,"Western Great Plains Sandhill Steppe",55,0.901961,2,0,0.0057224
+"312","Optional 2","11320_31_38",0.0074934,"Central Mixedgrass Prairie",7,0.439216,12809,5.5,95.9829606
+"313","Optional 2","11320_31_38",0.0074934,"Central Mixedgrass Prairie",32,0.439216,217,0.1,1.6260678
+"314","Optional 2","11320_33",0.029742,"Central Mixedgrass Prairie",53,0.439216,2,0,0.059484
+"315","Optional 2","11490_27_38",0.0020276,"Western Great Plains Shortgrass Prairie",34,0.4,327,0.1,0.6630252
+"316","Optional 2","11490_31_33",0.0020926,"Western Great Plains Shortgrass Prairie",4,0.4,15092,6.4,31.5815192
+"317","Optional 2","11590_27_33",0.0125402,"Rocky Mountain Montane Riparian Systems",54,0.364706,58,0,0.7273316
+"318","Optional 2","11590_28",0.0123058,"Rocky Mountain Montane Riparian Systems",2,0.364706,24719,10.6,304.1870702
+"319","Optional 2","11600_15_28",0.0125574,"Rocky Mountain Subalpine/Upper Montane Riparian Systems",30,0.654902,200,0.1,2.51148
+"320","Optional 2","11620_31_39_40",0.002125,"Western Great Plains Floodplain Systems",33,0.803922,297,0.1,0.631125
+"321","Optional 2","11620_38",0.0021374,"Western Great Plains Floodplain Systems",10,0.803922,7646,3.3,16.3425604
+"322","Optional 2","14690_31_39_40_43",0.0020816,"Eastern Great Plains Floodplain Systems",59,0.745098,0,0,0
+"323","Optional 2","14690_38_42_49",0.0020766,"Eastern Great Plains Floodplain Systems",62,0.745098,77,0,0.1598982
+"324","Optional 2","14710_42_43",0.0170948,"Central Interior and Appalachian Floodplain Systems",6,0.690196,13477,5.8,230.3866196
+"325","Optional Types","10590_27_33",0.0043714,"Southern Rocky Mountain Pinyon-Juniper Woodland",50,0.180392,0,0,0
+"326","Optional Types","10940_27_33",0.0076442,"Western Great Plains Sandhill Steppe",52,0.901961,92,0,0.7032664
+"327","Optional Types","10940_31_38",0.0076148,"Western Great Plains Sandhill Steppe",55,0.901961,2,0,0.0152296
+"328","Optional Types","11320_31_38",0.2332622,"Central Mixedgrass Prairie",7,0.439216,12809,5.5,2987.8555198
+"329","Optional Types","11320_31_38",0.2332622,"Central Mixedgrass Prairie",32,0.439216,217,0.1,50.6178974
+"330","Optional Types","11320_33",0.0390796,"Central Mixedgrass Prairie",53,0.439216,2,0,0.0781592
+"331","Optional Types","11430_9_19_21_28",0.0018808,"Rocky Mountain Alpine Fell-Field",47,0.509804,43,0,0.0808744
+"332","Optional Types","11440_12_16_19_28",0.00099,"Rocky Mountain Alpine Turf",48,0.113725,46,0,0.04554
+"333","Optional Types","11470_27_33",0.0043146,"Western Great Plains Foothill and Piedmont Grassland",26,0.4,359,0.2,1.5489414
+"334","Optional Types","11490_27_38",0.107554,"Western Great Plains Shortgrass Prairie",34,0.4,327,0.1,35.170158
+"335","Optional Types","11490_31_33",0.0230628,"Western Great Plains Shortgrass Prairie",4,0.4,15092,6.4,348.0637776
+"336","Optional Types","11590_27_33",0.0754904,"Rocky Mountain Montane Riparian Systems",54,0.364706,58,0,4.3784432
+"337","Optional Types","11590_28",0.0743476,"Rocky Mountain Montane Riparian Systems",2,0.364706,24719,10.6,1837.7983244
+"338","Optional Types","11600_15_28",0.0755834,"Rocky Mountain Subalpine/Upper Montane Riparian Systems",30,0.654902,200,0.1,15.11668
+"339","Optional Types","11620_31_39_40",0.0099898,"Western Great Plains Floodplain Systems",33,0.803922,297,0.1,2.9669706
+"340","Optional Types","11620_38",0.0099862,"Western Great Plains Floodplain Systems",10,0.803922,7646,3.3,76.3544852
+"341","Optional Types","13850_31_39_40_42",0.09992,"Western Great Plains Wooded Draw and Ravine",27,0,458,0.2,45.76336
+"342","Optional Types","14690_31_39_40_43",0.0105496,"Eastern Great Plains Floodplain Systems",59,0.745098,0,0,0
+"343","Optional Types","14690_38_42_49",0.0104606,"Eastern Great Plains Floodplain Systems",62,0.745098,77,0,0.8054662
+"344","Optional Types","14710_42_43",0.0270174,"Central Interior and Appalachian Floodplain Systems",6,0.690196,13477,5.8,364.1134998
+"345","Optional Types","14950_38",0.099039,"Western Great Plains Depressional Wetland Systems",11,0.611765,6114,2.6,605.524446
+"346","Replacement Fire","10110_28",0.006762,"Rocky Mountain Aspen Forest and Woodland",21,0.45098,905,0.4,6.11961
+"347","Replacement Fire","10160_15_28",0.0023524,"Colorado Plateau Pinyon-Juniper Woodland",37,0.4,0,0,0
+"348","Replacement Fire","10500_16_23_28",0.0065436,"Rocky Mountain Lodgepole Pine Forest",19,0.101961,1138,0.5,7.4466168
+"349","Replacement Fire","10510_28",0.0030824,"Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland",18,1,1376,0.6,4.2413824
+"350","Replacement Fire","10520_28",0.005033,"Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland",38,0.901961,5,0,0.025165
+"351","Replacement Fire","10540_28",0.0020066,"Southern Rocky Mountain Ponderosa Pine Woodland",39,0,10,0,0.020066
+"352","Replacement Fire","10540_33",0.0019706,"Southern Rocky Mountain Ponderosa Pine Woodland",31,0,224,0.1,0.4414144
+"353","Replacement Fire","10550_15_28",0.0050166,"Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland",20,0.745098,1199,0.5,6.0149034
+"354","Replacement Fire","10560_15_28",0.005009,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",40,0,75,0,0.375675
+"355","Replacement Fire","10570_28",0.0019578,"Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland",41,0.635294,0,0,0
+"356","Replacement Fire","10590_27_33",0.0029922,"Southern Rocky Mountain Pinyon-Juniper Woodland",50,0.180392,0,0,0
+"357","Replacement Fire","10610_22_27_28",0.0129302,"Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland",28,0,190,0.1,2.456738
+"358","Replacement Fire","10801_21_22_28",0.0136586,"Inter-Mountain Basins Big Sagebrush Shrubland - Basin Big Sagebrush",5,0.909804,14568,6.2,198.9784848
+"359","Replacement Fire","10810_15_16_23_24_28",0.001596,"Inter-Mountain Basins Mixed Salt Desert Scrub",42,0.478431,0,0,0
+"360","Replacement Fire","10810_27_33",0.0042778,"Inter-Mountain Basins Mixed Salt Desert Scrub",51,0.478431,7,0,0.0299446
+"361","Replacement Fire","10860_27_31_33",0.022085,"Rocky Mountain Lower Montane-Foothill Shrubland",14,0.396078,2260,1,49.9121
+"362","Replacement Fire","10860_28",0.0138136,"Rocky Mountain Lower Montane-Foothill Shrubland",43,0.396078,10,0,0.138136
+"363","Replacement Fire","10940_27_33",0.0443664,"Western Great Plains Sandhill Steppe",52,0.901961,92,0,4.0817088
+"364","Replacement Fire","10940_31_38",0.0440666,"Western Great Plains Sandhill Steppe",55,0.901961,2,0,0.0881332
+"365","Replacement Fire","11070_27_33",0.0205498,"Rocky Mountain Gambel Oak-Mixed Montane Shrubland",15,0.87451,2222,0.9,45.6616556
+"366","Replacement Fire","11190_28",0.0019892,"Southern Rocky Mountain Juniper Woodland and Savanna",29,0.078431,207,0.1,0.4117644
+"367","Replacement Fire","11260_6_12_17_18_28",0.0199184,"Inter-Mountain Basins Montane Sagebrush Steppe",44,0.662745,62,0,1.2349408
+"368","Replacement Fire","11270_28",0.0084374,"Inter-Mountain Basins Semi-Desert Shrub-Steppe",45,0.843137,44,0,0.3712456
+"369","Replacement Fire","11320_31_38",0.1251102,"Central Mixedgrass Prairie",7,0.439216,12809,5.5,1602.5365518
+"370","Replacement Fire","11320_31_38",0.1251102,"Central Mixedgrass Prairie",32,0.439216,217,0.1,27.1489134
+"371","Replacement Fire","11320_33",0.0655498,"Central Mixedgrass Prairie",53,0.439216,2,0,0.1310996
+"372","Replacement Fire","11350_15_28",0.0130124,"Inter-Mountain Basins Semi-Desert Grassland",46,0.827451,1,0,0.0130124
+"373","Replacement Fire","11430_9_19_21_28",0.0018978,"Rocky Mountain Alpine Fell-Field",47,0.509804,43,0,0.0816054
+"374","Replacement Fire","11440_12_16_19_28",0.0047024,"Rocky Mountain Alpine Turf",48,0.113725,46,0,0.2163104
+"375","Replacement Fire","11460_15_16_23_24_25_28",0.0516602,"Southern Rocky Mountain Montane-Subalpine Grassland",49,0.698039,13,0,0.6715826
+"376","Replacement Fire","11470_27_33",0.0414688,"Western Great Plains Foothill and Piedmont Grassland",26,0.4,359,0.2,14.8872992
+"377","Replacement Fire","11480_31_38",0.0645776,"Western Great Plains Sand Prairie",8,0.662745,11418,4.9,737.3470368
+"378","Replacement Fire","11490_27_38",0.0449576,"Western Great Plains Shortgrass Prairie",34,0.4,327,0.1,14.7011352
+"379","Replacement Fire","11490_31_33",0.0470386,"Western Great Plains Shortgrass Prairie",4,0.4,15092,6.4,709.9065512
+"380","Replacement Fire","11500_31_39_40",0.1947052,"Western Great Plains Tallgrass Prairie",56,0.588235,0,0,0
+"381","Replacement Fire","11500_38",0.1946906,"Western Great Plains Tallgrass Prairie",13,0.588235,3044,1.3,592.6381864
+"382","Replacement Fire","11530_28",0.004916,"Inter-Mountain Basins Greasewood Flat",1,0.882353,77779,33.2,382.361564
+"383","Replacement Fire","11590_27_33",0.003703,"Rocky Mountain Montane Riparian Systems",54,0.364706,58,0,0.214774
+"384","Replacement Fire","11590_28",0.0036436,"Rocky Mountain Montane Riparian Systems",2,0.364706,24719,10.6,90.0661484
+"385","Replacement Fire","11600_15_28",0.0037002,"Rocky Mountain Subalpine/Upper Montane Riparian Systems",30,0.654902,200,0.1,0.74004
+"386","Replacement Fire","11620_31_39_40",0.0041602,"Western Great Plains Floodplain Systems",33,0.803922,297,0.1,1.2355794
+"387","Replacement Fire","11620_38",0.0041746,"Western Great Plains Floodplain Systems",10,0.803922,7646,3.3,31.9189916
+"388","Replacement Fire","13040_32_43_44_49",0.0051906,"Ozark-Ouachita Dry-Mesic Oak Forest",17,0,1775,0.8,9.213315
+"389","Replacement Fire","13140_38_39_40_41_42_43_44_50",0.0009898,"North-Central Interior Maple-Basswood Forest",23,0.4,957,0.4,0.9472386
+"390","Replacement Fire","13340_32_43_44",0.0031572,"Ozark-Ouachita Mesic Hardwood Forest",58,0.290196,55,0,0.173646
+"391","Replacement Fire","13850_31_39_40_42",0.0110806,"Western Great Plains Wooded Draw and Ravine",27,0,458,0.2,5.0749148
+"392","Replacement Fire","14210_31_38_42_43_44_50_51",0.2824352,"Central Tallgrass Prairie",9,0.768627,8111,3.5,2290.8319072
+"393","Replacement Fire","14210_31_38_42_43_44_50_51",0.2824352,"Central Tallgrass Prairie",57,0.768627,0,0,0
+"394","Replacement Fire","14230_38",0.3964124,"Southeastern Great Plains Tallgrass Prairie",61,0.470588,12,0,4.7569488
+"395","Replacement Fire","14230_43_44",0.5891642,"Southeastern Great Plains Tallgrass Prairie",12,0.470588,3920,1.7,2309.523664
+"396","Replacement Fire","14690_31_39_40_43",0.0019612,"Eastern Great Plains Floodplain Systems",59,0.745098,0,0,0
+"397","Replacement Fire","14690_38_42_49",0.0019738,"Eastern Great Plains Floodplain Systems",62,0.745098,77,0,0.1519826
+"398","Replacement Fire","14880_38_42_43",0.334843,"Eastern Great Plains Wet Meadow-Prairie-Marsh",16,0.2,2046,0.9,685.088778
+"399","Replacement Fire","14880_38_42_43",0.334843,"Eastern Great Plains Wet Meadow-Prairie-Marsh",60,0.2,78,0,26.117754
+"400","Replacement Fire","14950_38",0.0494972,"Western Great Plains Depressional Wetland Systems",11,0.611765,6114,2.6,302.6258808
+"401","Surface Fire","10110_28",0.0011308,"Rocky Mountain Aspen Forest and Woodland",21,0.45098,905,0.4,1.023374
+"402","Surface Fire","10160_15_28",0.0004608,"Colorado Plateau Pinyon-Juniper Woodland",37,0.4,0,0,0
+"403","Surface Fire","10500_16_23_28",0.0015616,"Rocky Mountain Lodgepole Pine Forest",19,0.101961,1138,0.5,1.7771008
+"404","Surface Fire","10510_28",0.0321032,"Southern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest and Woodland",18,1,1376,0.6,44.1740032
+"405","Surface Fire","10520_28",0.0064946,"Southern Rocky Mountain Mesic Montane Mixed Conifer Forest and Woodland",38,0.901961,5,0,0.032473
+"406","Surface Fire","10540_28",0.0413036,"Southern Rocky Mountain Ponderosa Pine Woodland",39,0,10,0,0.413036
+"407","Surface Fire","10540_33",0.0328988,"Southern Rocky Mountain Ponderosa Pine Woodland",31,0,224,0.1,7.3693312
+"408","Surface Fire","10590_27_33",0.0017466,"Southern Rocky Mountain Pinyon-Juniper Woodland",50,0.180392,0,0,0
+"409","Surface Fire","10610_22_27_28",0.0080766,"Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland",28,0,190,0.1,1.534554
+"410","Surface Fire","11190_28",0.0308436,"Southern Rocky Mountain Juniper Woodland and Savanna",29,0.078431,207,0.1,6.3846252
+"411","Surface Fire","11320_31_38",0.0061982,"Central Mixedgrass Prairie",7,0.439216,12809,5.5,79.3927438
+"412","Surface Fire","11320_31_38",0.0061982,"Central Mixedgrass Prairie",32,0.439216,217,0.1,1.3450094
+"413","Surface Fire","11460_15_16_23_24_25_28",0.0483686,"Southern Rocky Mountain Montane-Subalpine Grassland",49,0.698039,13,0,0.6287918
+"414","Surface Fire","11480_31_38",0.083325,"Western Great Plains Sand Prairie",8,0.662745,11418,4.9,951.40485
+"415","Surface Fire","11500_31_39_40",0.0040696,"Western Great Plains Tallgrass Prairie",56,0.588235,0,0,0
+"416","Surface Fire","11500_38",0.0029708,"Western Great Plains Tallgrass Prairie",13,0.588235,3044,1.3,9.0431152
+"417","Surface Fire","11590_27_33",0.0125538,"Rocky Mountain Montane Riparian Systems",54,0.364706,58,0,0.7281204
+"418","Surface Fire","11590_28",0.0124332,"Rocky Mountain Montane Riparian Systems",2,0.364706,24719,10.6,307.3362708
+"419","Surface Fire","11600_15_28",0.0126064,"Rocky Mountain Subalpine/Upper Montane Riparian Systems",30,0.654902,200,0.1,2.52128
+"420","Surface Fire","11620_31_39_40",0.0050648,"Western Great Plains Floodplain Systems",33,0.803922,297,0.1,1.5042456
+"421","Surface Fire","11620_38",0.0050606,"Western Great Plains Floodplain Systems",10,0.803922,7646,3.3,38.6933476
+"422","Surface Fire","13040_32_43_44_49",0.0658922,"Ozark-Ouachita Dry-Mesic Oak Forest",17,0,1775,0.8,116.958655
+"423","Surface Fire","13140_38_39_40_41_42_43_44_50",0.0011924,"North-Central Interior Maple-Basswood Forest",23,0.4,957,0.4,1.1411268
+"424","Surface Fire","13340_32_43_44",0.039726,"Ozark-Ouachita Mesic Hardwood Forest",58,0.290196,55,0,2.18493
+"425","Surface Fire","13850_31_39_40_42",0.004321,"Western Great Plains Wooded Draw and Ravine",27,0,458,0.2,1.979018
+"426","Surface Fire","14230_38",0.0020232,"Southeastern Great Plains Tallgrass Prairie",61,0.470588,12,0,0.0242784
+"427","Surface Fire","14230_43_44",0.0020218,"Southeastern Great Plains Tallgrass Prairie",12,0.470588,3920,1.7,7.925456
+"428","Surface Fire","14690_31_39_40_43",0.0056576,"Eastern Great Plains Floodplain Systems",59,0.745098,0,0,0
+"429","Surface Fire","14690_38_42_49",0.0056562,"Eastern Great Plains Floodplain Systems",62,0.745098,77,0,0.4355274
+"430","Wind or Weather or Stress","10110_28",0.002879,"Rocky Mountain Aspen Forest and Woodland",21,0.45098,905,0.4,2.605495
+"431","Wind or Weather or Stress","10160_15_28",0.0015388,"Colorado Plateau Pinyon-Juniper Woodland",37,0.4,0,0,0
+"432","Wind or Weather or Stress","10550_15_28",0.001988,"Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland",20,0.745098,1199,0.5,2.383612
+"433","Wind or Weather or Stress","10560_15_28",0.001951,"Rocky Mountain Subalpine Mesic-Wet Spruce-Fir Forest and Woodland",40,0,75,0,0.146325
+"434","Wind or Weather or Stress","10570_28",0.0017636,"Rocky Mountain Subalpine-Montane Limber-Bristlecone Pine Woodland",41,0.635294,0,0,0
+"435","Wind or Weather or Stress","10590_27_33",0.0299344,"Southern Rocky Mountain Pinyon-Juniper Woodland",50,0.180392,0,0,0
+"436","Wind or Weather or Stress","10801_21_22_28",0.0022298,"Inter-Mountain Basins Big Sagebrush Shrubland - Basin Big Sagebrush",5,0.909804,14568,6.2,32.4837264
+"437","Wind or Weather or Stress","10810_15_16_23_24_28",0.0547222,"Inter-Mountain Basins Mixed Salt Desert Scrub",42,0.478431,0,0,0
+"438","Wind or Weather or Stress","10810_27_33",0.0496346,"Inter-Mountain Basins Mixed Salt Desert Scrub",51,0.478431,7,0,0.3474422
+"439","Wind or Weather or Stress","10860_27_31_33",0.0050428,"Rocky Mountain Lower Montane-Foothill Shrubland",14,0.396078,2260,1,11.396728
+"440","Wind or Weather or Stress","10860_28",0.0047658,"Rocky Mountain Lower Montane-Foothill Shrubland",43,0.396078,10,0,0.047658
+"441","Wind or Weather or Stress","10940_27_33",0.1256032,"Western Great Plains Sandhill Steppe",52,0.901961,92,0,11.5554944
+"442","Wind or Weather or Stress","10940_31_38",0.1246194,"Western Great Plains Sandhill Steppe",55,0.901961,2,0,0.2492388
+"443","Wind or Weather or Stress","11270_28",0.1003264,"Inter-Mountain Basins Semi-Desert Shrub-Steppe",45,0.843137,44,0,4.4143616
+"444","Wind or Weather or Stress","11320_31_38",0.013742,"Central Mixedgrass Prairie",7,0.439216,12809,5.5,176.021278
+"445","Wind or Weather or Stress","11320_31_38",0.013742,"Central Mixedgrass Prairie",32,0.439216,217,0.1,2.982014
+"446","Wind or Weather or Stress","11320_33",0.0237408,"Central Mixedgrass Prairie",53,0.439216,2,0,0.0474816
+"447","Wind or Weather or Stress","11350_15_28",0.021711,"Inter-Mountain Basins Semi-Desert Grassland",46,0.827451,1,0,0.021711
+"448","Wind or Weather or Stress","11430_9_19_21_28",0.0019306,"Rocky Mountain Alpine Fell-Field",47,0.509804,43,0,0.0830158
+"449","Wind or Weather or Stress","11440_12_16_19_28",0.0095514,"Rocky Mountain Alpine Turf",48,0.113725,46,0,0.4393644
+"450","Wind or Weather or Stress","11470_27_33",0.0056642,"Western Great Plains Foothill and Piedmont Grassland",26,0.4,359,0.2,2.0334478
+"451","Wind or Weather or Stress","11480_31_38",0.0097246,"Western Great Plains Sand Prairie",8,0.662745,11418,4.9,111.0354828
+"452","Wind or Weather or Stress","11490_27_38",0.0231254,"Western Great Plains Shortgrass Prairie",34,0.4,327,0.1,7.5620058
+"453","Wind or Weather or Stress","11490_31_33",0.0243966,"Western Great Plains Shortgrass Prairie",4,0.4,15092,6.4,368.1934872
+"454","Wind or Weather or Stress","11500_31_39_40",0.0247198,"Western Great Plains Tallgrass Prairie",56,0.588235,0,0,0
+"455","Wind or Weather or Stress","11500_38",0.0183986,"Western Great Plains Tallgrass Prairie",13,0.588235,3044,1.3,56.0053384
+"456","Wind or Weather or Stress","11530_28",0.014015,"Inter-Mountain Basins Greasewood Flat",1,0.882353,77779,33.2,1090.072685
+"457","Wind or Weather or Stress","11590_27_33",0.3144988,"Rocky Mountain Montane Riparian Systems",54,0.364706,58,0,18.2409304
+"458","Wind or Weather or Stress","11590_28",0.3096812,"Rocky Mountain Montane Riparian Systems",2,0.364706,24719,10.6,7655.0095828
+"459","Wind or Weather or Stress","11600_15_28",0.3151316,"Rocky Mountain Subalpine/Upper Montane Riparian Systems",30,0.654902,200,0.1,63.02632
+"460","Wind or Weather or Stress","11620_27_33",0.1311562,"Western Great Plains Floodplain Systems",22,0.803922,1023,0.4,134.1727926
+"461","Wind or Weather or Stress","11620_31_39_40",0.0483292,"Western Great Plains Floodplain Systems",33,0.803922,297,0.1,14.3537724
+"462","Wind or Weather or Stress","11620_38",0.0485118,"Western Great Plains Floodplain Systems",10,0.803922,7646,3.3,370.9212228
+"463","Wind or Weather or Stress","13040_32_43_44_49",0.0037106,"Ozark-Ouachita Dry-Mesic Oak Forest",17,0,1775,0.8,6.586315
+"464","Wind or Weather or Stress","13140_38_39_40_41_42_43_44_50",0.1402798,"North-Central Interior Maple-Basswood Forest",23,0.4,957,0.4,134.2477686
+"465","Wind or Weather or Stress","13340_32_43_44",0.002764,"Ozark-Ouachita Mesic Hardwood Forest",58,0.290196,55,0,0.15202
+"466","Wind or Weather or Stress","14210_31_38_42_43_44_50_51",0.024255,"Central Tallgrass Prairie",9,0.768627,8111,3.5,196.732305
+"467","Wind or Weather or Stress","14210_31_38_42_43_44_50_51",0.024255,"Central Tallgrass Prairie",57,0.768627,0,0,0
+"468","Wind or Weather or Stress","14230_38",1.98e-05,"Southeastern Great Plains Tallgrass Prairie",61,0.470588,12,0,0.0002376
+"469","Wind or Weather or Stress","14230_43_44",2.18e-05,"Southeastern Great Plains Tallgrass Prairie",12,0.470588,3920,1.7,0.085456
+"470","Wind or Weather or Stress","14690_31_39_40_43",0.0536428,"Eastern Great Plains Floodplain Systems",59,0.745098,0,0,0
+"471","Wind or Weather or Stress","14690_38_42_49",0.0534964,"Eastern Great Plains Floodplain Systems",62,0.745098,77,0,4.1192228
+"472","Wind or Weather or Stress","14950_38",0.0992402,"Western Great Plains Depressional Wetland Systems",11,0.611765,6114,2.6,606.7545828

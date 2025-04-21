@@ -11,21 +11,42 @@ author: "Randy Swaty with substantial code contributions from Myles Walimaa"
 
 ## Goals of this demonstration
 
+![USFWS Region 6 Fire Zones.](images/fire_zones.jpg){style="float:right; margin-left: 25px;" fig-alt="\"Historical ecosystems map of a large region in the western United States." fig-align="right" width="500" }
+
 We will use [LANDFIRE](https://landfire.gov/){target="blank"} products to:
 
-1. Characterize and map past and present ecosystem conditions.
-2. Explore historical disturbance patterns.
-3. Summarize patterns of change and management opportunities.
+
+1. Characterize  past and present ecosystem conditions.
+2. Quantify historical acres burned for the USFWS tracts within each Fire Zone to support fire management planning by USFWS Region 6.
+3. Provide basic LANDFIRE documentation and background.
+
+<br>
+<br>
+<br>
 
 
-The following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.
+## Overview of LANDFIRE Inputs
+
+In the USFWS Fire Zone tabs we used two basic types of LANDFIRE Data, 1) Biophysical Settings and 2) Existing Vegetation.
+
+USFWS Fire Zones and Tracts data for Region 6 provided by Sonya Feaster, GIS analysist with the USFWS.
 
 
-This demonstration will:
+### Historical Context with LANDFIRE's Biophysical Settings (BpSs)
 
-* Provide context for the past and present ecosystem conditions of the Ottawa National Forest.
-* Demonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.
-* Facilitate an understanding of historical and current conditions on a regional scale.
+> *BpS  represent the vegetation system that may have been dominant on the landscape prior to Euro-American settlement. These models are based on a combination of the current environment and an approximation of the historical disturbance regime.* [Read more](https://landfire.gov/bps.php){target="blank"}.
+
+Check out this 3-minute tutorial for a quick refresher on the [basics of Biophysical Settings Models](https://youtu.be/xjaWJCe7udQ){target="blank"}.
+
+We used the BpS models and descriptions to calculate historical acres burned per year, and to explore how many acres burned per BpS per year. 
 
 
+### Current Landscape with the Existing Vegetation Datasets 
 
+LANDFIRE's [Existing Vegetation Type, Cover and Height](https://landfire.gov/vegetation.php){target="blank"} datasets describe vegetation conditions.
+
+-   Existing Vegetation Type (EVT) - represents the current distribution of the terrestrial ecological systems classification, developed by NatureServe for the western hemisphere, through 2016.
+-   Existing Vegetation Cover (EVC) - represents the vertically projected percent cover of the live canopy layer for a 30-m cell.
+-   Existing Vegetation Height (EVH) - represents the average height of the dominant vegetation for a 30-m cell.
+
+[Read more about LANDFIRE Vegetation Products](https://landfire.gov/vegetation.php){target="blank"}
