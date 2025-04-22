@@ -108,7 +108,7 @@ fire_data_long <- fire_data %>%
 <br>
 
 ::: {.callout-note}
-[ **Prior to European colonization the Great Plains fire zone had `r formatC(sum(all_annual_fire$acres), format = "f", big.mark = ",", digits = 0)` acres of fire annually.** ]{style="font-size: 1.5em;"}
+[ **Prior to European colonization the fee tracts within the FWS Great Plains fire zone had `r formatC(sum(all_annual_fire$acres), format = "f", big.mark = ",", digits = 0)` acres of fire annually.** ]{style="font-size: 1.5em;"}
 :::
 
 <br> <br>
@@ -138,10 +138,10 @@ snkyPdata <- snkyPdata %>%
 
 # Replace "No_fire" with "No Fire"
 snkyPdata <- snkyPdata %>%
-  mutate(across(everything(), ~replace(., . == "No_fire", "No Fire")))
+  mutate(across(everything(), ~replace(., . == "No_fire", "Unburned")))
 
 # Define the desired order for fire types (targets), placing No_fire last
-target_order <- c('Surface', 'Mixed', 'Replacement', 'No Fire')
+target_order <- c('Surface', 'Mixed', 'Replacement', 'Unburned')
 
 # Sort data by target order
 snkyPdata <- snkyPdata %>%
@@ -160,7 +160,6 @@ nodeColors <- c(rep(sourceColor, length(unique(snkyPdata$source))), targetColors
 # Create source and target IDs
 snkyPdata$IDsource <- match(snkyPdata$source, nodes$name) - 1
 snkyPdata$IDtarget <- match(snkyPdata$target, nodes$name) - 1
-
 # Generate Sankey diagram
 sankey <- plot_ly(
   type = "sankey",
@@ -177,19 +176,22 @@ sankey <- plot_ly(
     source = snkyPdata$IDsource,
     target = snkyPdata$IDtarget,
     value = snkyPdata$value,
-    hovertemplate = "Acres"
+    hovertemplate = "Acres",
+    opacity = 0.2,
+    color = 'rgba(209,209,209, 0.9)'# Make traces lighter
   ),
-  textfont = list(size = 14),
+  textfont = list(size = 20, family = "Arial", color = "black", bold = TRUE),  # Font bold
   width = 850,
   height = 800 # taller to help spacing
 ) %>%
   layout(
     title = "",
-    font = list(size = 14),
+    font = list(size = 20, family = "Arial", color = "black", bold = TRUE),  # Font bold
     margin = list(t = 100, l = 20, r = 20, b = 100)
   )
 
 sankey
+
 
 ```
 
